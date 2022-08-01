@@ -237,3 +237,4 @@ TSWLatexianTemp*
 /public
 /_public
 blogdown
+.hugo_build.lock
