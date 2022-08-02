@@ -1,27 +1,21 @@
 ---
-title: Quentin Geissmann
-summary: Assistant Professor, Group Leader
-tags:
-  - Deep Learning
-  - 
-date: '2022-09-01T00:00:00Z'
+title: {name}
+summary: {role}
+
+date: {start_date}
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/qgeissmann
+    url: https://twitter.com/{twitter}
   - icon: orcid
     icon_pack: fab
     name: ORCID
-    url: https://orcid.org/0000-0001-6546-4306
+    url: https://orcid.org/{orcid}
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -34,4 +28,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Quentin is TODO
+{bio}

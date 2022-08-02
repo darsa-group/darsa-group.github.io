@@ -7,15 +7,21 @@ name: deploy website
 
 jobs:
   blogdown:
+
     runs-on: ubuntu-latest
+    env:
+        GOOGLE_SERVICE_JSON_KEY: ${{ secrets.GOOGLE_SERVICE_JSON_KEY}}
+        PEOPLE_GOOGLE_SHEET_ID: "1ld7M-p8j7mkawrDOVKHTWOpA9GVIop9A6TLQIZgUleI"
     steps:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown and blogdown
-        run: Rscript -e 'install.packages(c("rmarkdown","blogdown"))'
+        run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr"))'
       - name: Install Hugo
         run: Rscript -e 'blogdown::install_hugo()'
+      - name: Proprocess website data
+        run: Rscript _preprocess.R
       - name: Build site
         run: Rscript -e 'blogdown::build_site()'
       - name: Deploy to gh-pages
