@@ -17,6 +17,8 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown and blogdown
+        run: Rscript -e 'install.packages(c("curl", "gargle", "googledrive", "httr"))'
+      - name: Install rmarkdown and blogdown
         run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr"))'
       - name: Install Hugo
         run: Rscript -e 'blogdown::install_hugo()'
