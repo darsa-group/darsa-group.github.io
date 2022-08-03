@@ -3,6 +3,8 @@ library("glue")
 library("dplyr")
 
 PEOPLE_TEMPLATE_FILE <- "content/people/_people.md.template"
+
+AUTO_PPL_DIR_PREFIX <- "auto-"
 creds = Sys.getenv('GOOGLE_SERVICE_JSON_KEY')
 people_sheet = Sys.getenv('PEOPLE_GOOGLE_SHEET_ID')
 people_template = paste(readLines(PEOPLE_TEMPLATE_FILE), collapse="\n")
@@ -20,9 +22,19 @@ make_people <- function(id){
   row <- filter(df, id==id)
   content <-glue_data(row,people_template)
   cat(content, file= paste(d,"index.md", sep="/"))
-  system(glue("curl '{row$picture_url}' > {paste(d,'featured.jpg',sep='/')}"))
-  final_dir <- paste("content/people",id, sep="/")
-  cmd = glue("mv {d} {final_dir}")
+  picture_file <- paste("assets", "image", row$picture_url, sep="/")
+  dst_pict_file <- paste(d,'featured.jpg',sep='/')
+
+  if(file.exists(picture_file)){
+    file.copy(picture_file, dst_pict_file)
+  }
+  else{
+    system(glue("curl '{row$picture_url}' > {dst_pict_file}"))
+  }
+  
+  final_dir <- paste("content", "people",paste0(AUTO_PPL_DIR_PREFIX, id), sep="/")
+
+  cmd = glue("rm {final_dir} -rf && mv {d} {final_dir}")
   system(cmd)
   }
 
