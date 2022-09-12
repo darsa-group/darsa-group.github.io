@@ -6,12 +6,17 @@ PEOPLE_TEMPLATE_FILE <- "content/people/_people.md.template"
 
 AUTO_PPL_DIR_PREFIX <- "auto-"
 creds = Sys.getenv('GOOGLE_SERVICE_JSON_KEY')
+stopifnot( creds != "") #, 'Could not find environment variable `GOOGLE_SERVICE_JSON_KEY`')
+
 people_sheet = Sys.getenv('PEOPLE_GOOGLE_SHEET_ID')
+stopifnot( people_sheet != "") #, 'Could not find environment variable `PEOPLE_GOOGLE_SHEET_ID`')
+
 people_template = paste(readLines(PEOPLE_TEMPLATE_FILE), collapse="\n")
 stopifnot(!is.null(people_template))
 
-cat(creds,file=tmpf <- tempfile(fileext = ".json"))
-gs4_auth(path=tmpf,
+file.copy(from = creds, to=tmpf <- tempfile(fileext = ".json"))
+gs4_auth(
+  path=tmpf,
          scopes = "https://www.googleapis.com/auth/spreadsheets.readonly",cache=FALSE)
 
 df <- read_sheet(people_sheet)
