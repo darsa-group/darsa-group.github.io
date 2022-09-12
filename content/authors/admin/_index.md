@@ -1,12 +1,12 @@
 ---
 # Display name
-title: CARSA Group
+title: DARSA Group
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Computational Approches for Resilient and Sustainable Agriculture
+role: Digital Approaches for Resilient and Sustainable Agriculture
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,26 +17,15 @@ organizations:
     url: https://qgg.au.dk
 
 # Short bio (displayed in user profile at end of posts)
-bio: We develop machine learning and data-science algoithms and applications to make agriculture more sustainable 
+bio: We develop machine learning and data-science algorithms and applications to make agriculture more sustainable 
 
 # Interests to show in About widget
 interests:
-  - Agroecology
   - Deep Learning
-  - Insect Pests
+  - Agricultural Pests monitoring
+  - High-Throughput Phenotyping
+  - Agroecology
 
-# Education to show in About widget
-# education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -54,7 +43,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sgSsPvUAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/carsa-group
+    link: https://github.com/darsa-group
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -63,4 +52,5 @@ email: ''
 highlight_name: true
 ---
 
-TODO write a description
+In the DARSA group, we develop and apply **remote-sensing tools** and innovative **open-source machine-learning methods** to make agroecosystems more **productive, sustainable and resilient**. We actively collaborate with other researchers in the [Center for Quantitative Genetics and Genomics](https://qgg.au.dk/en/) as well as other researchers in [Aarhus University](https://international.au.dk/), and worldwide to target both the breeding and production sides of agriculture. In the midst of severe environmental crises, we aim to lead a new, digital and sustainable, green revolution.
+

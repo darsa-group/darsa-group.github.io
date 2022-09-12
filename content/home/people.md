@@ -28,9 +28,21 @@ content:
     - name: All
       tag: '*'
     - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+      tag: deep_learning
+    - name: Remote Sensing
+      tag: remote_sensing
+    - name: Plants
+      tag: plants
+    - name: Insects
+      tag: insects
+    - name: Master Student
+      tag: masters
+    - name: PhD Student
+      tag: phd
+    - name: Postdoc
+      tag: postdoc
+    - name: Principal Investigator
+      tag: pi
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
