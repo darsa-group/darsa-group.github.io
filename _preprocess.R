@@ -11,6 +11,9 @@ ROLE_MAP <- c(
   )
 
 
+ROLE_WEIGHT <- length(ROLE_MAP):1
+names(ROLE_WEIGHT) <- names(ROLE_MAP)
+
 DEFAULT_PICTURE_FILE<- "content/people/_default_pict.png"
 PEOPLE_TEMPLATE_FILE <- "content/people/_people.md.template"
 
@@ -45,9 +48,11 @@ make_people <- function(id_){
   themes <- names(themes[themes])
   themes <- str_replace(themes,"theme_","")
   
-  tags <- c(row$role, themes)
+  #tags <- c(row$role, themes)
+  tags <- c(row$role)
   row$tags <- glue('[{paste(tags, collapse=", ")}]') 
   
+  row$weight <- ROLE_WEIGHT[row$role]
   row$role <- ROLE_MAP[row$role]
   content <-glue_data(row,people_template)
   cat(content, file= paste(d,"index.md", sep="/"))
