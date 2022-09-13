@@ -2,6 +2,8 @@ library("googlesheets4")
 library("glue")
 library("dplyr")
 library("stringr")
+library("rjson")
+
 
 ROLE_MAP <- c(
   masters='Master Student',
@@ -10,6 +12,51 @@ ROLE_MAP <- c(
   pi='Principal Investigator'
   )
 
+
+SOCIAL_LINKS_MAP <- list(twitter=list(
+  icon="twitter",
+  icon_pack= "fab",
+  name= "Follow",
+  url= "https://twitter.com/{value}"
+),
+orcid=list(
+  icon="orcid",
+  icon_pack= "fab",
+  name= "ORCID",
+  url= "https://orcid.org/{value}"
+),
+github=list(
+  icon="github",
+  icon_pack= "fab",
+  name= "Github",
+  url= "https://github.com/{value}"
+),
+research_gate=list(
+  icon="researchgate",
+  icon_pack= "fab",
+  name= "RG",
+  url= "https://www.researchgate.net/profile/{value}"
+)
+)
+
+
+make_links <- function(row){
+  # l <- glue_data(row, "icon: 'orcid', icon_pack: 'fab', name: 'ORCID', url: 'https://orcid.org/{orcid}'")
+  # l <- sprintf("{%s}", l)
+  # links <- list(l)
+  links <- lapply(names(SOCIAL_LINKS_MAP), function(n){
+    value <- row[[n]]
+    if(is.na(value))
+      return(NULL)
+    l <- SOCIAL_LINKS_MAP[[n]]
+    l$url <- glue(l$url)
+    l <-rjson::toJSON(l )
+    l
+  })
+  links <- links[lengths(links) != 0]
+  links <- sprintf("[%s]", paste(links, collapse=", "))
+  links
+}
 
 ROLE_WEIGHT <- length(ROLE_MAP):1
 names(ROLE_WEIGHT) <- names(ROLE_MAP)
@@ -27,13 +74,19 @@ stopifnot( people_sheet != "") #, 'Could not find environment variable `PEOPLE_G
 people_template = paste(readLines(PEOPLE_TEMPLATE_FILE), collapse="\n")
 stopifnot(!is.null(people_template))
 
-file.copy(from = creds, to=tmpf <- tempfile(fileext = ".json"))
+if(file.exists(creds)){
+  file.copy(from = creds, to=tmpf <- tempfile(fileext = ".json"))
+}
+if(!file.exists(creds))
+  cat(creds, file = tmpf <- tempfile(fileext = ".json"))
+
 gs4_auth(
   path=tmpf,
-         scopes = "https://www.googleapis.com/auth/spreadsheets.readonly",cache=FALSE)
+  scopes = "https://www.googleapis.com/auth/spreadsheets.readonly",cache=FALSE)
 
-df <- read_sheet(people_sheet)
+df <- read_sheet(people_sheet, na=c("", "NA"))
 df <- filter(df, !is.na(id))
+
 
 
 make_people <- function(id_){
@@ -54,6 +107,7 @@ make_people <- function(id_){
   
   row$weight <- ROLE_WEIGHT[row$role]
   row$role <- ROLE_MAP[row$role]
+  row$social_links <- make_links(row)
   content <-glue_data(row,people_template)
   cat(content, file= paste(d,"index.md", sep="/"))
   dst_pict_file <- paste(d,'featured.jpg',sep='/')
@@ -72,14 +126,15 @@ make_people <- function(id_){
   else{
     warning(glue('No picture for member `{id_}`'))
     file.copy(DEFAULT_PICTURE_FILE, dst_pict_file)
-    }
+  }
   
   final_dir <- paste("content", "people",paste0(AUTO_PPL_DIR_PREFIX, id_), sep="/")
-
+  
   cmd = glue("rm {final_dir} -rf && mv {d} {final_dir}")
   system(cmd)
-  }
+}
 
 o <- lapply(df$id, make_people)
+
 
 

@@ -21,13 +21,13 @@ jobs:
       - name: Install curl
         run: sudo apt-get update && sudo apt-get install libcurl4-openssl-dev
       - name: Install rmarkdown and blogdown
-        run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr"))'
+        run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr", "RefManageR", "kableExtra", "bibtex"))'
       - name: Install Hugo
         run: Rscript -e 'blogdown::install_hugo()'
       - name: Proprocess website data
         run: Rscript _preprocess.R
       - name: Build site
-        run: Rscript -e 'blogdown::build_site()'
+        run: Rscript -e 'blogdown::build_site(build_rmd = TRUE)'
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:

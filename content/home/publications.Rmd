@@ -1,0 +1,81 @@
+---
+widget: "blank"
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 120
+
+title: Publications
+subtitle:
+
+content:
+ 
+design:
+  columns: '2'
+---
+
+
+
+```{r DT, echo=FALSE, warning=FALSE, message=FALSE}
+ZOTERO_GROUP <- "4777068"
+  
+library(RefManageR)
+library(data.table)
+library(knitr)
+library(kableExtra)
+
+# TODO link pdf
+# todo equal contrib annotation
+# get citations
+
+format_authors <- function(authors){
+  # bold_name <- "**Q. Geissmann**"
+  authors <- strsplit(authors, split = " and ")
+  
+ # authors <- gsub(pattern=" ", replacement="&nbsp", authors)
+  full_list <- sapply(authors, function(x){
+      if(length(x) ==1) 
+        return(x)
+        sprintf("%s and %s", paste(x[1:length(x)-1], collapse = ", ",sep = ""), x[length(x)])
+        })
+  
+  
+  short_list <- sapply(authors, function(x){
+      x <- gsub(pattern=".\\. ", replacement="", x)
+      if(length(x) ==1) 
+        return(x)
+      if(length(x) == 2)
+        return(sprintf("%s and %s", x[1], x[2]))
+      
+      sprintf("%s *et al.*", x[1])
+    
+        })
+  
+  
+  # short_list <- gsub(pattern="Q. Geissmann", replacement=bold_name, short_list)
+  kableExtra::text_spec(short_list, tooltip = full_list)  
+}
+
+
+refs <- RefManageR::ReadZotero(group = ZOTERO_GROUP, .params = list())
+dt <- as.data.table(refs)[,.(Year = year, 
+                             Title = title, 
+                             doi, 
+                             Journal = journal,
+                             Authors = author)]
+
+
+
+dt[, Title := gsub("\\{|\\}", "", Title)]
+dt[, Title := sprintf('[%s](http://dx.doi.org/%s)',Title, doi)]
+dt[, Authors := format_authors(Authors)]
+dt[, doi:=NULL ]
+setkeyv(dt, "Year")
+dt <- dt[.N:1]
+
+
+knitr::kable(dt, "html", escape=FALSE) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+```

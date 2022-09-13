@@ -11,7 +11,7 @@
   
   # Tags: can be used for filtering projects.
   # Example: ``
-  tags: ["software", "hardware"]
+  tags: ["software", "hardware", "insects"]
   
   # Optional external URL for project (replaces project detail page).
   

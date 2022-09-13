@@ -21,10 +21,10 @@ bio: We develop machine learning and data-science algorithms and applications to
 
 # Interests to show in About widget
 interests:
-  - Deep Learning
-  - Agricultural Pests monitoring
-  - High-Throughput Phenotyping
-  - Agroecology
+  - Developing Deep-Learning Tools
+  - Automatic Monitoring of Agricultural Pests
+  - High-Throughput Plant Phenotyping
+  - Agroecology and Biodiversity
 
 
 # Social/Academic Networking
@@ -52,5 +52,5 @@ email: ''
 highlight_name: true
 ---
 
-In the DARSA group, we develop and apply **remote-sensing tools** and innovative **open-source machine-learning methods** to make agroecosystems more **productive, sustainable and resilient**. We actively collaborate with other researchers in the [Center for Quantitative Genetics and Genomics](https://qgg.au.dk/en/) as well as other researchers in [Aarhus University](https://international.au.dk/), and worldwide to target both the breeding and production sides of agriculture. In the midst of severe environmental crises, we aim to lead a new, digital and sustainable, green revolution.
+In the DARSA group, we develop and apply **remote-sensing tools** and innovative **open-source machine-learning methods** to make agroecosystems more **productive, sustainable and resilient**. We collaborate with other researchers in the [Center for Quantitative Genetics and Genomics](https://qgg.au.dk/en/) as well as other researchers at [Aarhus University](https://international.au.dk/), and worldwide to target both the breeding and production sides of agriculture. In the midst of severe environmental crises, we aim to lead a new, digital and sustainable, green revolution. The DARSA group recently started, so we are actively looking for collaborators and new members, so do not hesitate to [contact us](#contact).
 

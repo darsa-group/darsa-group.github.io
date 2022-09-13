@@ -10,7 +10,7 @@ summary: "An open-source software to count bacterial colonies"
 
 # Tags: can be used for filtering projects.
 # Example: ``
-tags: ["science", "software", "microbiology"]
+tags: ["software", "microbiology"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://opencfu.sourceforge.net/"

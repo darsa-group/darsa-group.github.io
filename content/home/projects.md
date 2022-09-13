@@ -28,17 +28,19 @@ content:
     - name: All
       tag: '*'
     - name: Deep Learning
-      tag: Deep Learning
+      tag: deep_learning
     - name: Hardware
-      tag: Hardware
+      tag: hardware
     - name: Software
-      tag: Software
+      tag: software
     - name: Insects
-      tag: Insects
-    - name: Plants
-      tag: Plants
+      tag: insects
     - name: Agroecology
-      tag: Agroecology
+      tag: agroecology
+    - name: Microbiology
+      tag: microbiology
+      
+      
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
