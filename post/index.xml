@@ -1,22 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | CARSA</title>
-    <link>https://carsa-group.github.io/post/</link>
-      <atom:link href="https://carsa-group.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | DARSA</title>
+    <link>https://darsa-group.github.io/post/</link>
+      <atom:link href="https://darsa-group.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://carsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://darsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://carsa-group.github.io/post/</link>
+      <link>https://darsa-group.github.io/post/</link>
     </image>
     
     <item>
+      <title>PhD Position in Automatic Remote Pest Monitoring</title>
+      <link>https://darsa-group.github.io/post/2022-novo-phd/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/post/2022-novo-phd/</guid>
+      <description>&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
+&lt;h3 id=&#34;theme-and-outcome&#34;&gt;Theme and Outcome&lt;/h3&gt;
+&lt;p&gt;camera system to monitor pest insects accurately and in real time&lt;/p&gt;
+&lt;h3 id=&#34;applicants-profile&#34;&gt;Applicant&amp;rsquo;s Profile&lt;/h3&gt;
+&lt;p&gt;We are looking for a student with a &lt;strong&gt;strong quantitative and programming background&lt;/strong&gt;.
+In particular, this project requires familiarity with &lt;strong&gt;deep learning&lt;/strong&gt;, &lt;strong&gt;image processing&lt;/strong&gt; and &lt;strong&gt;database architecture&lt;/strong&gt;. The candidate should also have, at least, an &lt;strong&gt;interest in sustainable agriculture and ecology&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Communication and interpersonal skill&lt;/p&gt;
+&lt;p&gt;We believe &lt;a href=&#34;&#34;&gt;diversity leads to better reaseach&lt;/a&gt;, therefore, we value applicants with diverse backgrounds.&lt;/p&gt;
+&lt;h3 id=&#34;eligibility&#34;&gt;Eligibility&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A Master&amp;rsquo;s Degree in related discipline&lt;/li&gt;
+&lt;li&gt;Fluency in English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;supervision&#34;&gt;Supervision&lt;/h3&gt;
+&lt;p&gt;Our goal is your success.
+Do what you are good at and want to learn, within the boundaries of the project.
+Flexibility regarding specific&lt;/p&gt;
+&lt;h3 id=&#34;location-and-facilities&#34;&gt;Location and Facilities&lt;/h3&gt;
+&lt;p&gt;The research takes place in the &lt;a href=&#34;https://qgg.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGG&lt;/a&gt; in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University (AU)&lt;/a&gt;.
+AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaborations on this project. Aarhus itself is a vibrant city with an &lt;a href=&#34;https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;active cultural live&lt;/a&gt;, a &lt;a href=&#34;https://www.visitaarhus.com/groups/study-aarhus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic student community&lt;/a&gt; and a very high standard of living.&lt;/p&gt;
+&lt;h3 id=&#34;administrative-considerations&#34;&gt;Administrative Considerations&lt;/h3&gt;
+&lt;h4 id=&#34;timeline&#34;&gt;Timeline&lt;/h4&gt;
+&lt;h4 id=&#34;salary&#34;&gt;Salary&lt;/h4&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://carsa-group.github.io/post/getting-started/</link>
+      <link>https://darsa-group.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://carsa-group.github.io/post/getting-started/</guid>
+      <guid>https://darsa-group.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

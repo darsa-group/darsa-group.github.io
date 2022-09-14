@@ -1,22 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CARSA</title>
-    <link>https://carsa-group.github.io/</link>
-      <atom:link href="https://carsa-group.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>CARSA</description>
+    <title>DARSA</title>
+    <link>https://darsa-group.github.io/</link>
+      <atom:link href="https://darsa-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>DARSA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://carsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>CARSA</title>
-      <link>https://carsa-group.github.io/</link>
+      <url>https://darsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>DARSA</title>
+      <link>https://darsa-group.github.io/</link>
     </image>
     
     <item>
+      <title>QGG</title>
+      <link>https://darsa-group.github.io/collaborators/qgg/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/collaborators/qgg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quentin Geissmann</title>
+      <link>https://darsa-group.github.io/people/auto-qgeissmann/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/people/auto-qgeissmann/</guid>
+      <description>&lt;p&gt;Quentin, assistant professor in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt;, in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt; is the Principal investigator of the DARSA group. His background is both in insect physiology and computational biology.&lt;/p&gt;
+&lt;p&gt;During his PhD at &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, in the &lt;a href=&#34;https://lab.gilest.ro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gilestro Lab&lt;/a&gt;, he built an open-source automatic insect behaviour monitoring platform.&lt;/p&gt;
+&lt;p&gt;In his Postdoc, at &lt;a href=&#34;https://www.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UBC&lt;/a&gt;, with the &lt;a href=&#34;https://haneylab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haney Lab&lt;/a&gt; and the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt;, he developed AI-powered smart traps to monitor insects and study their relationships with plants and microbes in agroecological contexts.&lt;/p&gt;
+&lt;p&gt;Quentin&amp;rsquo;s interests in machine learning and sustainable agriculture led him to start the DARSA Group in Aarhus in September 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daphne Chevalier</title>
+      <link>https://darsa-group.github.io/people/auto-dchevalier/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/people/auto-dchevalier/</guid>
+      <description>&lt;p&gt;TODO bla&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Høye Lab</title>
+      <link>https://darsa-group.github.io/collaborators/hoye-lab/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/collaborators/hoye-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
-      <link>https://carsa-group.github.io/talk/example-talk/</link>
+      <link>https://darsa-group.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://carsa-group.github.io/talk/example-talk/</guid>
+      <guid>https://darsa-group.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,10 +70,58 @@
     </item>
     
     <item>
+      <title>PhD Position in Automatic Remote Pest Monitoring</title>
+      <link>https://darsa-group.github.io/post/2022-novo-phd/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/post/2022-novo-phd/</guid>
+      <description>&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
+&lt;h3 id=&#34;theme-and-outcome&#34;&gt;Theme and Outcome&lt;/h3&gt;
+&lt;p&gt;camera system to monitor pest insects accurately and in real time&lt;/p&gt;
+&lt;h3 id=&#34;applicants-profile&#34;&gt;Applicant&amp;rsquo;s Profile&lt;/h3&gt;
+&lt;p&gt;We are looking for a student with a &lt;strong&gt;strong quantitative and programming background&lt;/strong&gt;.
+In particular, this project requires familiarity with &lt;strong&gt;deep learning&lt;/strong&gt;, &lt;strong&gt;image processing&lt;/strong&gt; and &lt;strong&gt;database architecture&lt;/strong&gt;. The candidate should also have, at least, an &lt;strong&gt;interest in sustainable agriculture and ecology&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Communication and interpersonal skill&lt;/p&gt;
+&lt;p&gt;We believe &lt;a href=&#34;&#34;&gt;diversity leads to better reaseach&lt;/a&gt;, therefore, we value applicants with diverse backgrounds.&lt;/p&gt;
+&lt;h3 id=&#34;eligibility&#34;&gt;Eligibility&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A Master&amp;rsquo;s Degree in related discipline&lt;/li&gt;
+&lt;li&gt;Fluency in English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;supervision&#34;&gt;Supervision&lt;/h3&gt;
+&lt;p&gt;Our goal is your success.
+Do what you are good at and want to learn, within the boundaries of the project.
+Flexibility regarding specific&lt;/p&gt;
+&lt;h3 id=&#34;location-and-facilities&#34;&gt;Location and Facilities&lt;/h3&gt;
+&lt;p&gt;The research takes place in the &lt;a href=&#34;https://qgg.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGG&lt;/a&gt; in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University (AU)&lt;/a&gt;.
+AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaborations on this project. Aarhus itself is a vibrant city with an &lt;a href=&#34;https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;active cultural live&lt;/a&gt;, a &lt;a href=&#34;https://www.visitaarhus.com/groups/study-aarhus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic student community&lt;/a&gt; and a very high standard of living.&lt;/p&gt;
+&lt;h3 id=&#34;administrative-considerations&#34;&gt;Administrative Considerations&lt;/h3&gt;
+&lt;h4 id=&#34;timeline&#34;&gt;Timeline&lt;/h4&gt;
+&lt;h4 id=&#34;salary&#34;&gt;Salary&lt;/h4&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PIEE Lab</title>
+      <link>https://darsa-group.github.io/collaborators/piee-lab/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/collaborators/piee-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sticky Pi</title>
+      <link>https://darsa-group.github.io/project/sticky-pi/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/project/sticky-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://carsa-group.github.io/post/getting-started/</link>
+      <link>https://darsa-group.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://carsa-group.github.io/post/getting-started/</guid>
+      <guid>https://darsa-group.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -113,9 +198,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://carsa-group.github.io/slides/example/</link>
+      <link>https://darsa-group.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://carsa-group.github.io/slides/example/</guid>
+      <guid>https://darsa-group.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -237,23 +322,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://carsa-group.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://carsa-group.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <title>Ethoscope</title>
+      <link>https://darsa-group.github.io/project/ethoscope/</link>
+      <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/project/ethoscope/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://carsa-group.github.io/publication/example/</link>
+      <link>https://darsa-group.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://carsa-group.github.io/publication/example/</guid>
+      <guid>https://darsa-group.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -269,10 +349,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>OpenCFU</title>
+      <link>https://darsa-group.github.io/project/opencfu/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://darsa-group.github.io/project/opencfu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://carsa-group.github.io/admin/config.yml</link>
+      <link>https://darsa-group.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://carsa-group.github.io/admin/config.yml</guid>
+      <guid>https://darsa-group.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
