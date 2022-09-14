@@ -42,7 +42,7 @@ jobs:
           path: ${{ env.RENV_PATHS_ROOT }}
           key: ${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{ inputs.cache-version }}-${{ hashFiles('renv.lock') }}
           restore-keys: ${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{inputs.cache-version }}-
-      - name: Install rmarkdown and blogdown
+      - name: Install R package dependencies 
         run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr", "RefManageR", "kableExtra", "bibtex", "rjson", "data.table"))'
       - name: Install Hugo
         run: Rscript -e 'blogdown::install_hugo("0.101.0")'
@@ -56,3 +56,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: main
+
