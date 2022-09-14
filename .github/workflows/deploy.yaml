@@ -21,7 +21,7 @@ jobs:
       - name: Install curl
         run: sudo apt-get update && sudo apt-get install libcurl4-openssl-dev
       - name: Install rmarkdown and blogdown
-        run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr", "RefManageR", "kableExtra", "bibtex", "rjson"))'
+        run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr", "RefManageR", "kableExtra", "bibtex", "rjson", "data.table"))'
       - name: Install Hugo
         run: Rscript -e 'blogdown::install_hugo()'
       - name: Proprocess website data
