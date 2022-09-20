@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: DARSA # Website name
-baseURL: 'https://darsa-group.github.io/' # Website URL
+baseURL: 'https://darsa.info' # Website URL
 
 ############################
 ## LANGUAGE

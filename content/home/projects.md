@@ -56,4 +56,4 @@ design:
   flip_alt_rows: false
 ---
 
-As of 2022, this section contains a subset  of past completed projects, which we will update as group member join.
+As of 2022, this section contains a subset  of past completed projects. We will update with ongoing work as new group members join.

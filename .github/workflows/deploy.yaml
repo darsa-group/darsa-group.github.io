@@ -50,6 +50,9 @@ jobs:
         run: Rscript _preprocess.R
       - name: Build site
         run: Rscript -e 'blogdown::build_site(build_rmd = TRUE)'
+      - name: Copy cannonical files to website root
+        run: cp -r ./canonical/* ./public
+
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
