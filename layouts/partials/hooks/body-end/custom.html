@@ -1,0 +1,39 @@
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<script>
+
+
+$( document ).ready(function(){
+String.prototype.hash = function() {
+  var hash = 0,
+    i, chr;
+  if (this.length === 0) return hash;
+  for (i = 0; i < this.length; i++) {
+    chr = this.charCodeAt(i);
+    hash = ((hash << 5) - hash) + chr;
+    hash |= 0; // Convert to 32bit integer
+  }
+  return hash;
+}
+
+$("#about div.section-subheading").parent("div").removeClass("col-md-5").addClass("col-md-12")
+$("body").hide()
+let foo = prompt('Password');
+
+var h = foo.hash();
+if(h === 277749282){
+  $("body").show();
+}
+
+})
+
+
+
+
+
+
+
+
+</script>

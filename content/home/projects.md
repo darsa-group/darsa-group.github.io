@@ -55,3 +55,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+As of 2022, this section contains a subset  of past completed projects, which we will update as group member join.

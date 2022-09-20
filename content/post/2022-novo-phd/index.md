@@ -1,8 +1,8 @@
 ---
-title: PhD Position in Automatic Remote Pest Monitoring
+title: PhD Position in "Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems"
 
 # Summary for listings and search engines
-summary: We are looking for a talented student to start a PhD on automatic remote pest monitoring at the University of Aarhus.
+summary: We are looking for a talented PhD student to work on this exciting project at Aarhus University.
 
 # Link this post with a project
 projects: []
@@ -33,28 +33,20 @@ image:
 
 
 ### Theme and Outcome 
-
-camera system to monitor pest insects accurately and in real time
+TODO COPY FROM PHD ADD
 
 ### Applicant's Profile
 
-We are looking for a student with a **strong quantitative and programming background**.
-In particular, this project requires familiarity with **deep learning**, **image processing** and **database architecture**. The candidate should also have, at least, an **interest in sustainable agriculture and ecology**.
+TODO COPY FROM PHD ADD
 
-Communication and interpersonal skill
-
-We believe [diversity leads to better reaseach](), therefore, we value applicants with diverse backgrounds.
+We believe [diversity leads to better reaseach](https://www.pnas.org/doi/abs/10.1073/pnas.1700616114), therefore, we value applicants with diverse backgrounds.
 
 ### Eligibility
-
-* A Master's Degree in related discipline
-* Fluency in English
+TODO COPY FROM PHD ADD
 
 ### Supervision
 
-Our goal is your success. 
-Do what you are good at and want to learn, within the boundaries of the project.
-Flexibility regarding specific
+Our primary goal is for our students to succeed and to and help them develop and achieve their career goals. As such, we support help students take the project in their own direction, within the original scope, and encourage flexibility and new view points as the project moves forward. The applicant can can expect a weekly meeting with [Quentin Geissmann](auto-qgeissmann) their direct supervisor. Students are encouraged to collaborate within and outside of the group and will be given (funded) opportunities to present their research in international conferences.
 
 
 ### Location and Facilities
@@ -66,6 +58,16 @@ AU is a world-class university (the largest in Denmark), with outstanding opport
 
 #### Timeline
 
+
+TODO COPY FROM PHD ADD
+
+
 #### Salary
 
+
+TODO COPY FROM PHD ADD
+
 ### How to Apply
+
+
+TODO REF TO OFFICIAL FROM PHD ADD

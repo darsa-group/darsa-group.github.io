@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "JOIN THE TEAM"
+title = "JOIN THE GROUP"
 subtitle = "Open PhD position!"
 
 [design]
@@ -50,6 +50,6 @@ subtitle = "Open PhD position!"
  css_class = ""
 +++
 
-## **PhD opportunity** in "Machine learning for sustainable and resilient agrosystems: using remote sensing and deep learning to monitor biodiversity and pests in production and breeding fields"
+## **PhD opportunity** in "Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems"
 
-We are looking for candidates to start this **fully-funded** and exciting project in **early 2023**. More information [here](post/2022-novo-phd).
+We are looking for a candidate to start this **fully-funded** and exciting project in **early 2023**. More information [here](post/2022-novo-phd).

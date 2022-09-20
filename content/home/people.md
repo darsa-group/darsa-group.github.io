@@ -51,3 +51,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+We are actively recruiting. If you would like to know more, do not hesitate to [contact us](#contact) (please add a CV and describe your interest).

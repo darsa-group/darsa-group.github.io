@@ -14,7 +14,7 @@ content:
 design:
   columns: '2'
 ---
-
+As of 2022, these are selected publications from [Quentin Geissmann's](/people/auto-qgeissmann) related previous work.
 
 
 ```{r DT, echo=FALSE, warning=FALSE, message=FALSE}

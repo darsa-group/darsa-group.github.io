@@ -239,4 +239,6 @@ TSWLatexianTemp*
 blogdown
 .hugo_build.lock
 .secret*
-*_gen/
+*_gen/*
+resources/
+static/
