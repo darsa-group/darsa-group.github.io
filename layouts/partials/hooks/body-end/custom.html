@@ -7,19 +7,46 @@
 $("body").hide();
 
 $( document ).ready(function(){
-String.prototype.hash = function() {
-  var hash = 0,
-    i, chr;
-  if (this.length === 0) return hash;
-  for (i = 0; i < this.length; i++) {
-    chr = this.charCodeAt(i);
-    hash = ((hash << 5) - hash) + chr;
-    hash |= 0; // Convert to 32bit integer
-  }
-  return hash;
+
+  var getFavicon = function(){
+    var favicon = undefined;
+    var nodeList = document.getElementsByTagName("link");
+    for (var i = 0; i < nodeList.length; i++)
+    {
+        if((nodeList[i].getAttribute("rel") == "icon")||(nodeList[i].getAttribute("rel") == "shortcut icon"))
+        {
+            favicon = nodeList[i].getAttribute("href");
+        }
+    }
+    return favicon;
 }
+  String.prototype.hash = function() {
+    var hash = 0,
+      i, chr;
+    if (this.length === 0) return hash;
+    for (i = 0; i < this.length; i++) {
+      chr = this.charCodeAt(i);
+      hash = ((hash << 5) - hash) + chr;
+      hash |= 0; // Convert to 32bit integer
+    }
+    return hash;
+  }
+
+
+        $.ajax({
+            url: 'manifest.webmanifest',
+            type: 'get',
+            dataType: 'json',
+            cache: false,
+            success: function(data) { if(data != null){
+              $( '<a href="/"><img class="brand-img" src="' + data["icons"][1]["src"] +'"></a>' ).insertBefore( ".navbar-brand");
+              //$(".navbar-brand").prepend('<div><img class="brand-img" src="' + data["icons"][1]["src"] +'"><span> DARSA</span></div>');
+            } },
+        });
 
 $("#about div.section-subheading").parent("div").removeClass("col-md-5").addClass("col-md-12")
+
+
 $("body").hide()
 let foo = prompt('Password');
 var h = foo.hash();
@@ -29,7 +56,8 @@ if(h === 277749282){
 else{
   $("body").hide();
 }
-}
+//  $("body").show();
+  }
 
 )
 

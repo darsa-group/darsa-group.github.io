@@ -4,3 +4,13 @@ body{
  ul {
   list-style-type: none;
  }
+.d-lg-inline-flex{
+  line-height:48px;
+}
+.brand-img{
+  display: flex;
+  vertical-align:middle;
+  margin-left: 48px;
+  width:48px;
+  height:48px;
+}
