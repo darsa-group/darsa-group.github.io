@@ -236,7 +236,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.42493080155e5e62ad63ccda22ac69a9.css" />
+  <link rel="stylesheet" href="/css/wowchemy.0b6881083fd43a816d8ef86b729759ea.css" />
 
   
   
@@ -1418,19 +1418,46 @@
 $("body").hide();
 
 $( document ).ready(function(){
-String.prototype.hash = function() {
-  var hash = 0,
-    i, chr;
-  if (this.length === 0) return hash;
-  for (i = 0; i < this.length; i++) {
-    chr = this.charCodeAt(i);
-    hash = ((hash << 5) - hash) + chr;
-    hash |= 0; 
-  }
-  return hash;
+
+  var getFavicon = function(){
+    var favicon = undefined;
+    var nodeList = document.getElementsByTagName("link");
+    for (var i = 0; i < nodeList.length; i++)
+    {
+        if((nodeList[i].getAttribute("rel") == "icon")||(nodeList[i].getAttribute("rel") == "shortcut icon"))
+        {
+            favicon = nodeList[i].getAttribute("href");
+        }
+    }
+    return favicon;
 }
+  String.prototype.hash = function() {
+    var hash = 0,
+      i, chr;
+    if (this.length === 0) return hash;
+    for (i = 0; i < this.length; i++) {
+      chr = this.charCodeAt(i);
+      hash = ((hash << 5) - hash) + chr;
+      hash |= 0; 
+    }
+    return hash;
+  }
+
+
+        $.ajax({
+            url: 'manifest.webmanifest',
+            type: 'get',
+            dataType: 'json',
+            cache: false,
+            success: function(data) { if(data != null){
+              $( '<a href="/"><img class="brand-img" src="' + data["icons"][1]["src"] +'"></a>' ).insertBefore( ".navbar-brand");
+              
+            } },
+        });
 
 $("#about div.section-subheading").parent("div").removeClass("col-md-5").addClass("col-md-12")
+
+
 $("body").hide()
 let foo = prompt('Password');
 var h = foo.hash();
@@ -1440,7 +1467,8 @@ if(h === 277749282){
 else{
   $("body").hide();
 }
-}
+
+  }
 
 )
 
