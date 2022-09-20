@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DARSA</title>
-    <link>https://darsa-group.github.io/</link>
-      <atom:link href="https://darsa-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://darsa.info/</link>
+      <atom:link href="https://darsa.info/index.xml" rel="self" type="application/rss+xml" />
     <description>DARSA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://darsa-group.github.io/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
       <title>DARSA</title>
-      <link>https://darsa-group.github.io/</link>
+      <link>https://darsa.info/</link>
     </image>
     
     <item>
       <title>QGG</title>
-      <link>https://darsa-group.github.io/collaborators/qgg/</link>
+      <link>https://darsa.info/collaborators/qgg/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/collaborators/qgg/</guid>
+      <guid>https://darsa.info/collaborators/qgg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quentin Geissmann</title>
-      <link>https://darsa-group.github.io/people/auto-qgeissmann/</link>
+      <link>https://darsa.info/people/auto-qgeissmann/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/people/auto-qgeissmann/</guid>
+      <guid>https://darsa.info/people/auto-qgeissmann/</guid>
       <description>&lt;p&gt;Quentin, assistant professor in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt;, in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt; is the Principal Investigator of the DARSA group. His background is both in insect physiology and computational biology.&lt;/p&gt;
 &lt;p&gt;During his PhD at &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, in the &lt;a href=&#34;https://lab.gilest.ro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gilestro Lab&lt;/a&gt;, he built an open-source automatic insect behaviour monitoring platform.&lt;/p&gt;
 &lt;p&gt;In his Postdoc, at &lt;a href=&#34;https://www.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UBC&lt;/a&gt;, with the &lt;a href=&#34;https://haneylab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haney Lab&lt;/a&gt; and the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt;, he developed AI-powered smart traps to monitor insects and study their relationships with plants and microbes in agroecological contexts.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Daphne Chevalier</title>
-      <link>https://darsa-group.github.io/people/auto-dchevalier/</link>
+      <link>https://darsa.info/people/auto-dchevalier/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/people/auto-dchevalier/</guid>
+      <guid>https://darsa.info/people/auto-dchevalier/</guid>
       <description>&lt;p&gt;Daphne is a M.Sc. student in the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt; at the University of British Columbia in Vancouver, Canada. She is interested in applied approaches for fostering biodiversity. Her background is in engineering.&lt;/p&gt;
 &lt;p&gt;Daphne&amp;rsquo;s project examines the effects of artificial light at night on insects and bats, with a focus on circadian rhythm.&lt;/p&gt;
 </description>
@@ -44,17 +44,17 @@
     
     <item>
       <title>Høye Lab</title>
-      <link>https://darsa-group.github.io/collaborators/hoye-lab/</link>
+      <link>https://darsa.info/collaborators/hoye-lab/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/collaborators/hoye-lab/</guid>
+      <guid>https://darsa.info/collaborators/hoye-lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://darsa-group.github.io/talk/example-talk/</link>
+      <link>https://darsa.info/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/talk/example-talk/</guid>
+      <guid>https://darsa.info/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -72,9 +72,9 @@
     
     <item>
       <title>PhD Position in &#34;Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems&#34;</title>
-      <link>https://darsa-group.github.io/post/2022-novo-phd/</link>
+      <link>https://darsa.info/post/2022-novo-phd/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/post/2022-novo-phd/</guid>
+      <guid>https://darsa.info/post/2022-novo-phd/</guid>
       <description>&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
 &lt;h3 id=&#34;theme-and-outcome&#34;&gt;Theme and Outcome&lt;/h3&gt;
 &lt;p&gt;TODO COPY FROM PHD ADD&lt;/p&gt;
@@ -100,25 +100,25 @@ AU is a world-class university (the largest in Denmark), with outstanding opport
     
     <item>
       <title>PIEE Lab</title>
-      <link>https://darsa-group.github.io/collaborators/piee-lab/</link>
+      <link>https://darsa.info/collaborators/piee-lab/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/collaborators/piee-lab/</guid>
+      <guid>https://darsa.info/collaborators/piee-lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sticky Pi</title>
-      <link>https://darsa-group.github.io/project/sticky-pi/</link>
+      <link>https://darsa.info/project/sticky-pi/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/project/sticky-pi/</guid>
+      <guid>https://darsa.info/project/sticky-pi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://darsa-group.github.io/post/getting-started/</link>
+      <link>https://darsa.info/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/post/getting-started/</guid>
+      <guid>https://darsa.info/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -195,9 +195,9 @@ AU is a world-class university (the largest in Denmark), with outstanding opport
     
     <item>
       <title>Slides</title>
-      <link>https://darsa-group.github.io/slides/example/</link>
+      <link>https://darsa.info/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/slides/example/</guid>
+      <guid>https://darsa.info/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -320,17 +320,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>Ethoscope</title>
-      <link>https://darsa-group.github.io/project/ethoscope/</link>
+      <link>https://darsa.info/project/ethoscope/</link>
       <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/project/ethoscope/</guid>
+      <guid>https://darsa.info/project/ethoscope/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://darsa-group.github.io/publication/example/</link>
+      <link>https://darsa.info/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/publication/example/</guid>
+      <guid>https://darsa.info/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -347,17 +347,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>OpenCFU</title>
-      <link>https://darsa-group.github.io/project/opencfu/</link>
+      <link>https://darsa.info/project/opencfu/</link>
       <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/project/opencfu/</guid>
+      <guid>https://darsa.info/project/opencfu/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://darsa-group.github.io/admin/config.yml</link>
+      <link>https://darsa.info/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://darsa-group.github.io/admin/config.yml</guid>
+      <guid>https://darsa.info/admin/config.yml</guid>
       <description></description>
     </item>
     
