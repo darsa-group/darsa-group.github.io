@@ -1379,11 +1379,11 @@ AU is a world-class university (the largest in Denmark), with outstanding opport
       
       <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-$("body").hide()
+
 </head>
 
 <script>
-
+$("body").hide();
 
 $( document ).ready(function(){
 String.prototype.hash = function() {
@@ -1401,14 +1401,15 @@ String.prototype.hash = function() {
 $("#about div.section-subheading").parent("div").removeClass("col-md-5").addClass("col-md-12")
 $("body").hide()
 let foo = prompt('Password');
-
 var h = foo.hash();
 if(h === 277749282){
   $("body").show();
 }
-
+else{
+  $("body").hide();
 }
-$("body").hide()
+}
+
 )
 
 
