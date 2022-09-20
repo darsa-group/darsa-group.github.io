@@ -71,7 +71,7 @@
   
   
 
-  <meta name="author" content="DARSA Group" />
+  <meta name="author" content="The DARSA Group" />
 
   
   
@@ -236,7 +236,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.3495fc6150afdd177f1d04fbba9f5e2c.css" />
+  <link rel="stylesheet" href="/css/wowchemy.42493080155e5e62ad63ccda22ac69a9.css" />
 
   
   
@@ -254,6 +254,45 @@
   
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJN0ZSFGBB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-HJN0ZSFGBB', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -282,8 +321,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="https://darsa-group.github.io/post/" />
 
@@ -313,8 +352,8 @@
   <meta property="og:site_name" content="DARSA" />
   <meta property="og:url" content="https://darsa-group.github.io/post/" />
   <meta property="og:title" content="Posts | DARSA" />
-  <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://darsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://darsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://darsa-group.github.io/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://darsa-group.github.io/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2022-09-01T00:00:00&#43;00:00" />
@@ -785,13 +824,13 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/2022-novo-phd/" >PhD Position in Automatic Remote Pest Monitoring</a>
+      <a href="/post/2022-novo-phd/" >PhD Position in &#34;Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems&#34;</a>
     </div>
 
     
     <a href="/post/2022-novo-phd/"  class="summary-link">
       <div class="article-style">
-        We are looking for a talented student to start a PhD on automatic remote pest monitoring at the University of Aarhus.
+        We are looking for a talented PhD student to work on this exciting project at Aarhus University.
       </div>
     </a>
     
@@ -850,7 +889,7 @@
     
     <a href="/post/2022-novo-phd/" >
       <img src="/post/2022-novo-phd/featured_huf3d2778b5f95e3387afc118caa2c4ec5_697329_150x0_resize_q80_h2_lanczos.webp" height="56" width="150"
-           alt="PhD Position in Automatic Remote Pest Monitoring" loading="lazy">
+           alt="PhD Position in &#34;Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems&#34;" loading="lazy">
     </a>
     
   </div>
@@ -907,7 +946,7 @@
     
 
   <span class="author-highlighted">
-      DARSA Group</span>, <span >
+      The DARSA Group</span>, <span >
       吳恩達</span>
   </div>
   
@@ -1021,7 +1060,7 @@
 
   
   <p class="powered-by copyright-license-text">
-    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2022 Quentin Geissmann. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
@@ -1150,6 +1189,7 @@
 
 
 
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1193,6 +1233,53 @@
 
 
 
+
+  
+    
+      
+      <head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<script>
+
+
+$( document ).ready(function(){
+String.prototype.hash = function() {
+  var hash = 0,
+    i, chr;
+  if (this.length === 0) return hash;
+  for (i = 0; i < this.length; i++) {
+    chr = this.charCodeAt(i);
+    hash = ((hash << 5) - hash) + chr;
+    hash |= 0; 
+  }
+  return hash;
+}
+
+$("#about div.section-subheading").parent("div").removeClass("col-md-5").addClass("col-md-12")
+$("body").hide()
+let foo = prompt('Password');
+
+var h = foo.hash();
+if(h === 277749282){
+  $("body").show();
+}
+
+})
+
+
+
+
+
+
+
+
+</script>
+
+      
+    
+  
 
 
 

@@ -7,7 +7,7 @@
     <description>DARSA</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://darsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://darsa-group.github.io/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
       <title>DARSA</title>
       <link>https://darsa-group.github.io/</link>
     </image>
@@ -25,7 +25,7 @@
       <link>https://darsa-group.github.io/people/auto-qgeissmann/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://darsa-group.github.io/people/auto-qgeissmann/</guid>
-      <description>&lt;p&gt;Quentin, assistant professor in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt;, in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt; is the Principal investigator of the DARSA group. His background is both in insect physiology and computational biology.&lt;/p&gt;
+      <description>&lt;p&gt;Quentin, assistant professor in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt;, in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt; is the Principal Investigator of the DARSA group. His background is both in insect physiology and computational biology.&lt;/p&gt;
 &lt;p&gt;During his PhD at &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, in the &lt;a href=&#34;https://lab.gilest.ro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gilestro Lab&lt;/a&gt;, he built an open-source automatic insect behaviour monitoring platform.&lt;/p&gt;
 &lt;p&gt;In his Postdoc, at &lt;a href=&#34;https://www.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UBC&lt;/a&gt;, with the &lt;a href=&#34;https://haneylab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haney Lab&lt;/a&gt; and the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt;, he developed AI-powered smart traps to monitor insects and study their relationships with plants and microbes in agroecological contexts.&lt;/p&gt;
 &lt;p&gt;Quentin&amp;rsquo;s interests in machine learning and sustainable agriculture led him to start the DARSA Group in Aarhus in September 2022.&lt;/p&gt;
@@ -37,7 +37,8 @@
       <link>https://darsa-group.github.io/people/auto-dchevalier/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://darsa-group.github.io/people/auto-dchevalier/</guid>
-      <description>&lt;p&gt;TODO bla&lt;/p&gt;
+      <description>&lt;p&gt;Daphne is a M.Sc. student in the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt; at the University of British Columbia in Vancouver, Canada. She is interested in applied approaches for fostering biodiversity. Her background is in engineering.&lt;/p&gt;
+&lt;p&gt;Daphne&amp;rsquo;s project examines the effects of artificial light at night on insects and bats, with a focus on circadian rhythm.&lt;/p&gt;
 </description>
     </item>
     
@@ -70,34 +71,30 @@
     </item>
     
     <item>
-      <title>PhD Position in Automatic Remote Pest Monitoring</title>
+      <title>PhD Position in &#34;Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems&#34;</title>
       <link>https://darsa-group.github.io/post/2022-novo-phd/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://darsa-group.github.io/post/2022-novo-phd/</guid>
       <description>&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
 &lt;h3 id=&#34;theme-and-outcome&#34;&gt;Theme and Outcome&lt;/h3&gt;
-&lt;p&gt;camera system to monitor pest insects accurately and in real time&lt;/p&gt;
+&lt;p&gt;TODO COPY FROM PHD ADD&lt;/p&gt;
 &lt;h3 id=&#34;applicants-profile&#34;&gt;Applicant&amp;rsquo;s Profile&lt;/h3&gt;
-&lt;p&gt;We are looking for a student with a &lt;strong&gt;strong quantitative and programming background&lt;/strong&gt;.
-In particular, this project requires familiarity with &lt;strong&gt;deep learning&lt;/strong&gt;, &lt;strong&gt;image processing&lt;/strong&gt; and &lt;strong&gt;database architecture&lt;/strong&gt;. The candidate should also have, at least, an &lt;strong&gt;interest in sustainable agriculture and ecology&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Communication and interpersonal skill&lt;/p&gt;
-&lt;p&gt;We believe &lt;a href=&#34;&#34;&gt;diversity leads to better reaseach&lt;/a&gt;, therefore, we value applicants with diverse backgrounds.&lt;/p&gt;
+&lt;p&gt;TODO COPY FROM PHD ADD&lt;/p&gt;
+&lt;p&gt;We believe &lt;a href=&#34;https://www.pnas.org/doi/abs/10.1073/pnas.1700616114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;diversity leads to better reaseach&lt;/a&gt;, therefore, we value applicants with diverse backgrounds.&lt;/p&gt;
 &lt;h3 id=&#34;eligibility&#34;&gt;Eligibility&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;A Master&amp;rsquo;s Degree in related discipline&lt;/li&gt;
-&lt;li&gt;Fluency in English&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;TODO COPY FROM PHD ADD&lt;/p&gt;
 &lt;h3 id=&#34;supervision&#34;&gt;Supervision&lt;/h3&gt;
-&lt;p&gt;Our goal is your success.
-Do what you are good at and want to learn, within the boundaries of the project.
-Flexibility regarding specific&lt;/p&gt;
+&lt;p&gt;Our primary goal is for our students to succeed and to and help them develop and achieve their career goals. As such, we support help students take the project in their own direction, within the original scope, and encourage flexibility and new view points as the project moves forward. The applicant can can expect a weekly meeting with &lt;a href=&#34;auto-qgeissmann&#34;&gt;Quentin Geissmann&lt;/a&gt; their direct supervisor. Students are encouraged to collaborate within and outside of the group and will be given (funded) opportunities to present their research in international conferences.&lt;/p&gt;
 &lt;h3 id=&#34;location-and-facilities&#34;&gt;Location and Facilities&lt;/h3&gt;
 &lt;p&gt;The research takes place in the &lt;a href=&#34;https://qgg.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGG&lt;/a&gt; in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University (AU)&lt;/a&gt;.
 AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaborations on this project. Aarhus itself is a vibrant city with an &lt;a href=&#34;https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;active cultural live&lt;/a&gt;, a &lt;a href=&#34;https://www.visitaarhus.com/groups/study-aarhus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic student community&lt;/a&gt; and a very high standard of living.&lt;/p&gt;
 &lt;h3 id=&#34;administrative-considerations&#34;&gt;Administrative Considerations&lt;/h3&gt;
 &lt;h4 id=&#34;timeline&#34;&gt;Timeline&lt;/h4&gt;
+&lt;p&gt;TODO COPY FROM PHD ADD&lt;/p&gt;
 &lt;h4 id=&#34;salary&#34;&gt;Salary&lt;/h4&gt;
+&lt;p&gt;TODO COPY FROM PHD ADD&lt;/p&gt;
 &lt;h3 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h3&gt;
+&lt;p&gt;TODO REF TO OFFICIAL FROM PHD ADD&lt;/p&gt;
 </description>
     </item>
     

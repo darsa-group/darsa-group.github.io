@@ -71,7 +71,7 @@
   
   
 
-  <meta name="author" content="DARSA Group" />
+  <meta name="author" content="The DARSA Group" />
 
   
   
@@ -252,7 +252,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.3495fc6150afdd177f1d04fbba9f5e2c.css" />
+  <link rel="stylesheet" href="/css/wowchemy.42493080155e5e62ad63ccda22ac69a9.css" />
 
   
   
@@ -270,6 +270,45 @@
   
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJN0ZSFGBB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-HJN0ZSFGBB', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -300,8 +339,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="https://darsa-group.github.io/" />
 
@@ -331,8 +370,8 @@
   <meta property="og:site_name" content="DARSA" />
   <meta property="og:url" content="https://darsa-group.github.io/" />
   <meta property="og:title" content="DARSA" />
-  <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://darsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://darsa-group.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="A highly-customizable Hugo academic resume theme powered by Wowchemy website builder." /><meta property="og:image" content="https://darsa-group.github.io/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://darsa-group.github.io/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00" />
@@ -872,7 +911,7 @@
       
         
           <div class="section-heading col-12 mb-3 text-center">
-            <h1 class="mb-0">JOIN THE TEAM</h1>
+            <h1 class="mb-0">JOIN THE GROUP</h1>
             <p class="mt-1">Open PhD position!</p>
           </div>
         
@@ -884,8 +923,8 @@
 
 
   <div class="col-12">
-    <h2 id="phd-opportunity-in-machine-learning-for-sustainable-and-resilient-agrosystems-using-remote-sensing-and-deep-learning-to-monitor-biodiversity-and-pests-in-production-and-breeding-fields"><strong>PhD opportunity</strong> in &ldquo;Machine learning for sustainable and resilient agrosystems: using remote sensing and deep learning to monitor biodiversity and pests in production and breeding fields&rdquo;</h2>
-<p>We are looking for candidates to start this <strong>fully-funded</strong> and exciting project in <strong>early 2023</strong>. More information <a href="post/2022-novo-phd">here</a>.</p>
+    <h2 id="phd-opportunity-in-developing-hierarchical-deep-learning-to-improve-automatic-classification-of-pests-and-biodiversity-monitoring-in-agroecosystems"><strong>PhD opportunity</strong> in &ldquo;Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems&rdquo;</h2>
+<p>We are looking for a candidate to start this <strong>fully-funded</strong> and exciting project in <strong>early 2023</strong>. More information <a href="post/2022-novo-phd">here</a>.</p>
 
   </div>
 
@@ -982,12 +1021,12 @@
       
       <img class="avatar avatar-circle"
            width="270" height="270"
-           src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q80_lanczos_center.jpg" alt="DARSA Group">
+           src="/authors/admin/avatar_huc139f13a2e899516d213fa34371addcd_113755_270x270_fill_lanczos_center_3.png" alt="The DARSA Group">
       
 
       <div class="portrait-title">
 
-        <h2>DARSA Group</h2>
+        <h2>The DARSA Group</h2>
 
         <h3>Digital Approaches for Resilient and Sustainable Agriculture</h3>
 
@@ -1086,7 +1125,7 @@
     <h1>About us</h1>
 
     <div class="article-style">
-      <p>In the DARSA group, we develop and apply <strong>remote-sensing tools</strong> and innovative <strong>open-source machine-learning methods</strong> to make agroecosystems more <strong>productive, sustainable and resilient</strong>. We collaborate with other researchers in the <a href="https://qgg.au.dk/en/" target="_blank" rel="noopener">Center for Quantitative Genetics and Genomics</a> as well as other researchers at <a href="https://international.au.dk/" target="_blank" rel="noopener">Aarhus University</a>, and worldwide to target both the breeding and production sides of agriculture. In the midst of severe environmental crises, we aim to lead a new, digital and sustainable, green revolution. The DARSA group recently started, so we are actively looking for collaborators and new members, so do not hesitate to <a href="#contact">contact us</a>.</p>
+      <p>In the DARSA group, we develop and apply <strong>remote-sensing tools</strong> and innovative <strong>open-source machine-learning methods</strong> to make agroecosystems more <strong>productive, sustainable and resilient</strong>. We collaborate with other researchers in the <a href="https://qgg.au.dk/en/" target="_blank" rel="noopener">Center for Quantitative Genetics and Genomics</a> as well as other researchers at <a href="https://international.au.dk/" target="_blank" rel="noopener">Aarhus University</a>, and worldwide to target both the breeding and production sides of agriculture. Amid severe environmental crises, we aim to lead a new, digital and sustainable, green revolution. The DARSA group recently started, and we are actively looking for collaborators and new members, so <strong>do not hesitate to <a href="#contact">contact us</a></strong>.</p>
 
     </div>
 
@@ -1097,13 +1136,13 @@
         <div class="section-subheading">Interests</div>
         <ul class="ul-interests mb-0">
           
-          <li>Developing Deep-Learning Tools</li>
+          <li>🧠 Development of Deep-Learning Tools</li>
           
-          <li>Automatic Monitoring of Agricultural Pests</li>
+          <li>🐛 Automatic Monitoring of Agricultural Pests</li>
           
-          <li>High-Throughput Plant Phenotyping</li>
+          <li>🌱 High-Throughput Plant Phenotyping</li>
           
-          <li>Agroecology and Biodiversity</li>
+          <li>🌳 Agroecology and Biodiversity</li>
           
         </ul>
       </div>
@@ -1204,7 +1243,8 @@
 
 <div class="col-12 col-lg-8">
 
-  
+  <p>We are actively recruiting. If you would like to know more, do not hesitate to <a href="#contact">contact us</a> (please add a CV and describe your interest).</p>
+
 
   
 
@@ -1520,7 +1560,7 @@
   
   <a href="/people/auto-dchevalier/" >
     <div class="img-hover-zoom">
-      <img src="/people/auto-dchevalier/featured_hue6552c98caa1bd777f41b2c41538a7e5_23342_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+      <img src="/people/auto-dchevalier/featured_hu3b1c261c52a0d3ade3a612e87b526951_2030377_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
            class="article-banner" alt="Daphne Chevalier" loading="lazy">
     </div>
   </a>
@@ -1685,7 +1725,8 @@
 
 <div class="col-12 col-lg-8">
 
-  
+  <p>As of 2022, this section contains a subset  of past completed projects, which we will update as group member join.</p>
+
 
   
 
@@ -2045,6 +2086,259 @@
 
   </div>
 </div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="publications" class="home-section wg-blank  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Publications</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12 col-lg-8">
+    
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
+
+
+<p>As of 2022, these are selected publications from <a href="/people/auto-qgeissmann">Quentin Geissmann’s</a> related previous work.</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Year
+</th>
+<th style="text-align:left;">
+Title
+</th>
+<th style="text-align:left;">
+Journal
+</th>
+<th style="text-align:left;">
+Authors
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+2022
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.pbio.3001689">Sticky Pi is a high-frequency smart trap that enables the study of insect circadian activity under natural conditions</a>
+</td>
+<td style="text-align:left;">
+PLOS Biology
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, Paul K. Abram, Di Wu, Cara H. Haney and Juli Carrillo">Geissmann <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1038/s41586-021-03954-w">Sensory processing during sleep in Drosophila melanogaster</a>
+</td>
+<td style="text-align:left;">
+Nature
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="A. S. French, Q. Geissmann, E. J. Beckwith and G. F. Gilestro">French <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2021
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1038/s41477-021-00914-0">FERONIA restricts Pseudomonas in the rhizosphere microbiome via regulation of reactive oxygen species</a>
+</td>
+<td style="text-align:left;">
+Nature Plants
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Y. Song, A. J. Wilson, X.-C. Zhang, D. Thoms, R Sohrabi, S. Song, Q. Geissmann, Y. Liu, L. Walgren, S. Y. He and C. H. Haney">Song <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2019
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1126/sciadv.aau9253">Most sleep does not serve a vital function: Evidence from Drosophila melanogaster</a>
+</td>
+<td style="text-align:left;">
+Science Advances
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, E. J. Beckwith and G. F. Gilestro">Geissmann <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2019
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.pone.0209331">Rethomics: An R framework to analyse high-throughput behavioural data</a>
+</td>
+<td style="text-align:left;">
+PLOS ONE
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, L. G. Rodriguez, E. J. Beckwith and G. F. Gilestro">Geissmann <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2017
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.7554/eLife.27445">Regulation of sleep homeostasis by sexual arousal</a>
+</td>
+<td style="text-align:left;">
+eLife
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="E. J. Beckwith, Q. Geissmann, A. S. French and G. F. Gilestro">Beckwith <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2017
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.pbio.2003026">Ethoscopes: An open platform for high-throughput ethomics</a>
+</td>
+<td style="text-align:left;">
+PLOS Biology
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, L. G. Rodriguez, E. J. Beckwith, A. S. French, A. R. Jamasb and G. F. Gilestro">Geissmann <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2016
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1093/bioinformatics/btw229">MEANS: python package for Moment Expansion Approximation, iNference and Simulation</a>
+</td>
+<td style="text-align:left;">
+Bioinformatics
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="S. Fan, Q. Geissmann, E. Lakatos, S. Lukauskas, A. Ale, A. C. Babtie, P. D. W. Kirk and M. P. H. Stumpf">Fan <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2015
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1093/molbev/msu266">Dynamics of Copy Number Variation in Host Races of the Pea Aphid</a>
+</td>
+<td style="text-align:left;">
+Molecular Biology and Evolution
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="L. Duvaux, Q. Geissmann, K. Gharbi, J. Zhou, J. Ferrari, C. M. Smadja and R. K. Butlin">Duvaux <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2013
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.pone.0054072">OpenCFU, a New Free and Open-Source Software to Count Cell Colonies and Other Circular Objects</a>
+</td>
+<td style="text-align:left;">
+PLOS ONE
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann">Geissmann</span>
+</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+
 
 
     
@@ -2511,258 +2805,6 @@
   
 
   
-  <section id="publications" class="home-section wg-blank  "  >
-   <div class="home-section-bg " >
-     
-   </div>
-    <div class="container">
-
-    
-      <div class="row  ">
-      
-        
-          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-            <h1 class="mb-0">Publications</h1>
-            
-          </div>
-        
-      
-    
-
-      
-
-
-
-  <div class="col-12 col-lg-8">
-    
-<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
-<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
-
-
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
-<thead>
-<tr>
-<th style="text-align:left;">
-Year
-</th>
-<th style="text-align:left;">
-Title
-</th>
-<th style="text-align:left;">
-Journal
-</th>
-<th style="text-align:left;">
-Authors
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-2022
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1371/journal.pbio.3001689">Sticky Pi is a high-frequency smart trap that enables the study of insect circadian activity under natural conditions</a>
-</td>
-<td style="text-align:left;">
-PLOS Biology
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, Paul K. Abram, Di Wu, Cara H. Haney and Juli Carrillo">Geissmann <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1038/s41586-021-03954-w">Sensory processing during sleep in Drosophila melanogaster</a>
-</td>
-<td style="text-align:left;">
-Nature
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="A. S. French, Q. Geissmann, E. J. Beckwith and G. F. Gilestro">French <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2021
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1038/s41477-021-00914-0">FERONIA restricts Pseudomonas in the rhizosphere microbiome via regulation of reactive oxygen species</a>
-</td>
-<td style="text-align:left;">
-Nature Plants
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Y. Song, A. J. Wilson, X.-C. Zhang, D. Thoms, R Sohrabi, S. Song, Q. Geissmann, Y. Liu, L. Walgren, S. Y. He and C. H. Haney">Song <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2019
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1126/sciadv.aau9253">Most sleep does not serve a vital function: Evidence from Drosophila melanogaster</a>
-</td>
-<td style="text-align:left;">
-Science Advances
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, E. J. Beckwith and G. F. Gilestro">Geissmann <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2019
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1371/journal.pone.0209331">Rethomics: An R framework to analyse high-throughput behavioural data</a>
-</td>
-<td style="text-align:left;">
-PLOS ONE
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, L. G. Rodriguez, E. J. Beckwith and G. F. Gilestro">Geissmann <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2017
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.7554/eLife.27445">Regulation of sleep homeostasis by sexual arousal</a>
-</td>
-<td style="text-align:left;">
-eLife
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="E. J. Beckwith, Q. Geissmann, A. S. French and G. F. Gilestro">Beckwith <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2017
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1371/journal.pbio.2003026">Ethoscopes: An open platform for high-throughput ethomics</a>
-</td>
-<td style="text-align:left;">
-PLOS Biology
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, L. G. Rodriguez, E. J. Beckwith, A. S. French, A. R. Jamasb and G. F. Gilestro">Geissmann <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2016
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1093/bioinformatics/btw229">MEANS: python package for Moment Expansion Approximation, iNference and Simulation</a>
-</td>
-<td style="text-align:left;">
-Bioinformatics
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="S. Fan, Q. Geissmann, E. Lakatos, S. Lukauskas, A. Ale, A. C. Babtie, P. D. W. Kirk and M. P. H. Stumpf">Fan <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2015
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1093/molbev/msu266">Dynamics of Copy Number Variation in Host Races of the Pea Aphid</a>
-</td>
-<td style="text-align:left;">
-Molecular Biology and Evolution
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="L. Duvaux, Q. Geissmann, K. Gharbi, J. Zhou, J. Ferrari, C. M. Smadja and R. K. Butlin">Duvaux <em>et al.</em></span>
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-2013
-</td>
-<td style="text-align:left;">
-<a href="http://dx.doi.org/10.1371/journal.pone.0054072">OpenCFU, a New Free and Open-Source Software to Count Cell Colonies and Other Circular Objects</a>
-</td>
-<td style="text-align:left;">
-PLOS ONE
-</td>
-<td style="text-align:left;">
-<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann">Geissmann</span>
-</td>
-</tr>
-</tbody>
-</table>
-
-  </div>
-
-
-
-    
-      </div>
-    
-
-    </div>
-  </section>
-
-  
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
   <section id="contact" class="home-section wg-contact  "  >
    <div class="home-section-bg " >
      
@@ -2821,7 +2863,7 @@ PLOS ONE
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address">Building TODO, Aarhus, 8000</span>
+        <span id="person-address">Room TODO, building 1130, Ole Worms Alle 3, Aarhus, 8000</span>
       </li>
     
 
@@ -2841,6 +2883,16 @@ PLOS ONE
 
   </ul>
 
+  
+  <div class="d-none">
+    <input id="map-provider" value="googlemap">
+    <input id="map-lat" value="56.1667">
+    <input id="map-lng" value="10.2020">
+    <input id="map-dir" value="Room TODO, building 1130, Ole Worms Alle 3, Aarhus, 8000">
+    <input id="map-zoom" value="15">
+    <input id="map-api-key" value="">
+  </div>
+  <div id="map"></div>
   
 
 </div>
@@ -2910,7 +2962,7 @@ PLOS ONE
 
   
   <p class="powered-by copyright-license-text">
-    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © 2022 Quentin Geissmann. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
@@ -3041,6 +3093,7 @@ PLOS ONE
 
 
 
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -3084,6 +3137,53 @@ PLOS ONE
 
 
 
+
+  
+    
+      
+      <head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<script>
+
+
+$( document ).ready(function(){
+String.prototype.hash = function() {
+  var hash = 0,
+    i, chr;
+  if (this.length === 0) return hash;
+  for (i = 0; i < this.length; i++) {
+    chr = this.charCodeAt(i);
+    hash = ((hash << 5) - hash) + chr;
+    hash |= 0; 
+  }
+  return hash;
+}
+
+$("#about div.section-subheading").parent("div").removeClass("col-md-5").addClass("col-md-12")
+$("body").hide()
+let foo = prompt('Password');
+
+var h = foo.hash();
+if(h === 277749282){
+  $("body").show();
+}
+
+})
+
+
+
+
+
+
+
+
+</script>
+
+      
+    
+  
 
 
 
