@@ -91,9 +91,9 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'googlemap'
+    provider: ''
     api_key: ''
-    zoom: 15
+    zoom: 0
 
 # Extensions
 
