@@ -52,4 +52,4 @@ design:
   flip_alt_rows: false
 ---
 
-We are actively recruiting. If you would like to know more, do not hesitate to [contact us](#contact) (please add a CV and describe your interest).
+To discuss opportunities to join the group, do not hesitate to [send us a CV and describe your interest](#contact) 

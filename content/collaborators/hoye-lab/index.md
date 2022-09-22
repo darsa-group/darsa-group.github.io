@@ -1,6 +1,6 @@
 ---
 title: Høye Lab
-summary: The Høye Lab Aarhus University, Denmark.
+summary: The Høye Lab at Aarhus University, Denmark.
 weight: 5
 date: '2022-09-01T00:00:00Z'
 

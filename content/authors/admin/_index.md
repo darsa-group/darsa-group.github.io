@@ -52,5 +52,9 @@ email: ''
 highlight_name: true
 ---
 
-In the DARSA group, we develop and apply **remote-sensing tools** and innovative **open-source machine-learning methods** to make agroecosystems more **productive, sustainable and resilient**. We collaborate with other researchers in the [Center for Quantitative Genetics and Genomics](https://qgg.au.dk/en/) as well as other researchers at [Aarhus University](https://international.au.dk/), and worldwide to target both the breeding and production sides of agriculture. Amid severe environmental crises, we aim to lead a new, digital and sustainable, green revolution. The DARSA group recently started, and we are actively looking for collaborators and new members, so **do not hesitate to [contact us](#contact)**.
+The DARSA group is part of the [Center for Quantitative Genetics and Genomics](https://qgg.au.dk/en/)(QGG), in
+[Aarhus University](https://international.au.dk/). 
+Within DARSA, we develop and apply **remote-sensing tools** and innovative **open-source machine-learning methods** to make agroecosystems more **productive, sustainable and resilient**.
+We collaborate with other members of the [QGG](https://qgg.au.dk/en/) as well as with other researchers in Aarhus and worldwide to target both the breeding and production sides of agriculture. 
+Amid severe environmental crises, we aim to lead a new, digital and sustainable, green transition. The DARSA group recently started, and we are actively looking for collaborators and new members, so **do not hesitate to [contact us](#contact)**.
 
