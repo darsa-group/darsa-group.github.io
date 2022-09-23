@@ -1,5 +1,5 @@
 ---
-title: PhD Position in "Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems"
+title: PhD Position in "Hierarchical deep learning for better automatic pest classification and biodiversity monitoring in agroecosystems"
 
 # Summary for listings and search engines
 summary: We are looking for a talented PhD student to work on this exciting project at Aarhus University.
@@ -22,12 +22,13 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Automatically detected insects on sticky cards'
+  caption: 'Towards hierarchical classification'
   focal_point: ''
   placement: 2
   preview_only: false
 
 ---
+{{< figure src="/hierachical_classification.webp" title="Towards hierarchical classification" >}}
 
 ## Open PhD Position
 

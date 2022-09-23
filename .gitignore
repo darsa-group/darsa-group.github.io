@@ -241,4 +241,4 @@ blogdown
 .secret*
 *_gen/*
 resources/
-static/
+static/rmarkdown-libs/
