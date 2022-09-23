@@ -38,9 +38,12 @@ TODO COPY FROM PHD ADD
 
 ### Applicant's Profile and Eligibility
 
-TODO COPY FROM PHD ADD
 
-We believe [diversity leads to better reaseach](https://www.pnas.org/doi/abs/10.1073/pnas.1700616114), therefore, we value applicants with diverse backgrounds.
+We believe that diversity makes us [better at tackling complex problems](https://www.pnas.org/doi/abs/10.1073/pnas.1700616114).
+Therefore, we strongly support applicants with a diverse background and are committed to promote inclusion and equity.
+
+
+TODO COPY FROM PHD ADD
 
 ### Supervision
 
@@ -52,6 +55,8 @@ Our primary goal is for our students to succeed by helping them to develop and a
 
 The research takes place in the [QGG](https://qgg.au.dk/en/) in [Aarhus University (AU)](https://international.au.dk/).
 AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaboration on this particular project.
+For this project, we have access to various High-Performance Computing platform and workstations.
+In addition to the workshops in AU, we are building an "AI-lab" to prototype hardware (cameras, edge computing, ...) in-house.
 Aarhus itself is a vibrant city with an [active cultural life](https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017), a [dynamic student community](https://www.visitaarhus.com/groups/study-aarhus) and a very high standard of living.
 
 ### Administrative Considerations
@@ -60,7 +65,7 @@ Aarhus itself is a vibrant city with an [active cultural life](https://www.thegu
 
 TODO COPY FROM PHD ADD
 
-#### Salary
+#### Salary and Benefits
 
 TODO COPY FROM PHD ADD
 
