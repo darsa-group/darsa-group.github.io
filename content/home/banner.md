@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "JOIN THE GROUP"
-subtitle = "Open PhD position!"
+title = "The Digital Approaches for Resilient and Sustainable Agriculture (DARSA) Group is starting"
+#subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -40,7 +40,7 @@ subtitle = "Open PhD position!"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["80px", "0", "80px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -50,6 +50,8 @@ subtitle = "Open PhD position!"
  css_class = ""
 +++
 
+<!---
 ## **PhD opportunity** in "Developing Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems"
 
 We are looking for a candidate to start this **fully-funded** and exciting project in **early 2023**. More information [here](post/2022-novo-phd).
+-->

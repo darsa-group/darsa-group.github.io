@@ -52,4 +52,4 @@ design:
   flip_alt_rows: false
 ---
 
-To discuss opportunities to join the group, do not hesitate to [send us a CV and describe your interest](#contact) 
+To discuss opportunities to join the group, do not hesitate to [send us a CV and describe your interest](#contact).

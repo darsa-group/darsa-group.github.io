@@ -18,7 +18,7 @@ content:
   # Contact details (edit or remove options as required)
   email: qgeissmann@qgg.au.dk
   address:
-    street: Room TODO, building 1130, Ole Worms Alle 3
+    street: Building 1130, Ole Worms Alle 3
     city: Aarhus
     postcode: '8000'
     country: Denmark
@@ -26,7 +26,7 @@ content:
   coordinates:
     latitude: '56.1667'
     longitude: '10.2020'
-  directions: TODO how to find us
+#  directions: TODO how to find us
 design:
   columns: '2'
 ---

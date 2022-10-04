@@ -90,32 +90,34 @@ df <- filter(df, !is.na(id))
 
 
 make_people <- function(id_){
-  
+
   d <- paste(tempdir(), id_, sep="/")
-  
+
   dir.create(d)
   row <- filter(df, id==id_)
-  
+
   themes <- select(row, starts_with("theme_"))
   themes <- unlist(as.vector(themes))
   themes <- names(themes[themes])
   themes <- str_replace(themes,"theme_","")
-  
+
   #tags <- c(row$role, themes)
   tags <- c(row$role)
-  row$tags <- glue('[{paste(tags, collapse=", ")}]') 
-  
+  #todo add an alumni tag if end date is in the past
+  row$tags <- glue('[{paste(tags, collapse=", ")}]')
+  row$end_date_str <- ifelse(is.na(row$end_date), "present", as.character(row$end_date))
   row$weight <- ROLE_WEIGHT[row$role]
   row$role <- ROLE_MAP[row$role]
   row$social_links <- make_links(row)
+
   content <-glue_data(row,people_template)
   cat(content, file= paste(d,"index.md", sep="/"))
   dst_pict_file <- paste(d,'featured.jpg',sep='/')
-  
-  
+
+
   if(!is.na(row$picture_url)){
     picture_file <- paste("assets", "image", row$picture_url, sep="/")
-    
+
     if(file.exists(picture_file)){
       file.copy(picture_file, dst_pict_file)
     }
@@ -127,9 +129,9 @@ make_people <- function(id_){
     warning(glue('No picture for member `{id_}`'))
     file.copy(DEFAULT_PICTURE_FILE, dst_pict_file)
   }
-  
+
   final_dir <- paste("content", "people",paste0(AUTO_PPL_DIR_PREFIX, id_), sep="/")
-  
+
   cmd = glue("rm {final_dir} -rf && mv {d} {final_dir}")
   system(cmd)
 }
