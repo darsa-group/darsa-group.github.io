@@ -18,7 +18,7 @@ content:
   # Contact details (edit or remove options as required)
   email: qgeissmann@qgg.au.dk
   address:
-    street: Building 1130, Ole Worms Alle 3
+    street: Room 210, building 1130, Ole Worms Alle 3
     city: Aarhus
     postcode: '8000'
     country: Denmark
