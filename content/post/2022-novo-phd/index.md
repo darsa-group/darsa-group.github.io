@@ -1,5 +1,5 @@
 ---
-title: PhD Position in "Hierarchical deep learning for better automatic pest classification and biodiversity monitoring in agroecosystems"
+title: PhD Position in "Machine learning and agricultural ecology: hierarchical deep learning for better automatic pest classification and biodiversity monitoring in agroecosystems"
 
 # Summary for listings and search engines
 summary: We are looking for a talented PhD student to work on this exciting project at Aarhus University.
@@ -8,10 +8,10 @@ summary: We are looking for a talented PhD student to work on this exciting proj
 projects: []
 
 # Date published
-date: '2022-10-20T00:00:00Z'
+date: '2022-10-24T00:00:00Z'
 
 # Date updated
-lastmod: '2022-10-20T00:00:00Z'
+lastmod: '2022-10-24T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -34,8 +34,24 @@ image:
 
 Please also see the [official posting](TODO).
 
+### Project Summary
+
+This PhD project aims at developing novel algorithms and annotation tools for hierarchical classification, which has profound and immediate applications to both agriculture and ecology.
+
 ### Project Description
-TODO COPY FROM PHD ADD
+
+####Context
+Recently, remarkable innovations in deep learning have begun to transform agriculture – arguably, the most impactful human activity on earth. If used appropriately, machine learning and AI have the potential to drive a digital green transition that could **make agriculture more sustainable, resilient and productive**.
+
+One increasingly important data-science task in agriculture is image classification, which is crucial for detecting, monitoring, and eventually mitigating the impact of weeds, pests and diseases. When applied to agricultural problems, image classification generally suffers from three important limitations: 1. **low generalisability** – *i.e.*, it translates poorly to new contexts –; 2. **data-hunger** – *i.e.*, large training datasets are required –; and 3. the **lack of accessible implementations** for practitioners.
+
+As an alternative to the conventional “flat” classification, we propose to **take advantage of the underlying hierarchical taxonomies** of the predicted classes to constrain them in *a priori* trees, a currently underexplored area. As a simplistic illustration, instead of considering oranges, apples and lemons as independent, we may formulate the explicit tree: `{{orange, lemon}, apples}`, *i.e.* grouping citrus fruits, and embed this representation in the structure of a neural network. 
+
+####Outcomes
+The successful applicant will use **already available datasets** to explore hierarchical classifications and test our hypotheses: **increased prediction generalisability** and **network robustness as well as reducing the amount of data required**. This project aims to produce both **seminal machine-learning concepts** and **free and open-source tools for real-world problems**.
+
+####Research Group
+The successful student will integrate the growing **[Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group](/)**, started in 2022, at the **[Center for Quantitative Genetics and Genomics (QGG)](https://qgg.au.dk/en)**. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at [Aarhus University](https://international.au.dk), a world-leading institution located in a vibrant city.
 
 ### Applicant's Profile and Eligibility
 
@@ -43,8 +59,13 @@ TODO COPY FROM PHD ADD
 We believe that diversity makes us [better at tackling complex problems](https://www.pnas.org/doi/abs/10.1073/pnas.1700616114).
 Therefore, we strongly support applicants with a diverse background and are committed to promote inclusion and equity.
 
-
-TODO COPY FROM PHD ADD
+Overall, we expect the applicant to:
+* Hold a **Master's degree** in data science, mathematics, physics, computational biology or another quantitative field
+* Be at least familiar with **deep learning**, **image processing** and general **database architecture**
+* Have **strong programming skills** (in particular, experience working with scientific languages (*e.g.* `R`, `Python`) and packages (*e.g.* `Pytorch`, `Tensorflow`, `Scikit-learn`, `Numpy`, `Pandas` and `OpenCV`) 
+* Have an **interest in digital and sustainable agriculture and ecology**
+* Be **fluent in English** (written and spoken) 
+* Demonstrate advanced **collaborative** and **interpersonal skills**
 
 ### Supervision
 
@@ -56,20 +77,19 @@ Our primary goal is for our students to succeed by helping them to develop and a
 
 The research takes place in the [QGG](https://qgg.au.dk/en/) in [Aarhus University (AU)](https://international.au.dk/).
 AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaboration on this particular project.
-For this project, we have access to various High-Performance Computing platform and workstations.
-In addition to the workshops in AU, we are building an "AI-lab" to prototype hardware (cameras, edge computing, ...) in-house.
+For this project, we have access to various High-Performance Computing platform and workstations, including GPUs.
+In addition to these computational resources, we are building  "AI-lab" to prototype hardware (cameras, edge computing, ...) in-house, and have access to larger infrastructure through our collaborations with the engineering department.
 Aarhus itself is a vibrant city with an [active cultural life](https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017), a [dynamic student community](https://www.visitaarhus.com/groups/study-aarhus) and a very high standard of living.
 
 ### Administrative Considerations
 
 #### Timeline
 
-TODO COPY FROM PHD ADD
+The expected start date is *July 1st, 2023*, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
 
 #### Salary and Benefits
 
 TODO COPY FROM PHD ADD
 
 ### How to Apply
-
-TODO REF TO OFFICIAL FROM PHD ADD
+In order to unsure a fair assessment of all applicants, we have an official procedure. Please refer to the [formal offer on the university's website](TODO)
