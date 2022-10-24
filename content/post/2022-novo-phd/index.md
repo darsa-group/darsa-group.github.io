@@ -40,17 +40,17 @@ This PhD project aims at developing novel algorithms and annotation tools for hi
 
 ### Project Description
 
-####Context
+#### Context
 Recently, remarkable innovations in deep learning have begun to transform agriculture – arguably, the most impactful human activity on earth. If used appropriately, machine learning and AI have the potential to drive a digital green transition that could **make agriculture more sustainable, resilient and productive**.
 
 One increasingly important data-science task in agriculture is image classification, which is crucial for detecting, monitoring, and eventually mitigating the impact of weeds, pests and diseases. When applied to agricultural problems, image classification generally suffers from three important limitations: 1. **low generalisability** – *i.e.*, it translates poorly to new contexts –; 2. **data-hunger** – *i.e.*, large training datasets are required –; and 3. the **lack of accessible implementations** for practitioners.
 
 As an alternative to the conventional “flat” classification, we propose to **take advantage of the underlying hierarchical taxonomies** of the predicted classes to constrain them in *a priori* trees, a currently underexplored area. As a simplistic illustration, instead of considering oranges, apples and lemons as independent, we may formulate the explicit tree: `{{orange, lemon}, apples}`, *i.e.* grouping citrus fruits, and embed this representation in the structure of a neural network. 
 
-####Outcomes
+#### Outcomes
 The successful applicant will use **already available datasets** to explore hierarchical classifications and test our hypotheses: **increased prediction generalisability** and **network robustness as well as reducing the amount of data required**. This project aims to produce both **seminal machine-learning concepts** and **free and open-source tools for real-world problems**.
 
-####Research Group
+#### Research Group
 The successful student will integrate the growing **[Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group](/)**, started in 2022, at the **[Center for Quantitative Genetics and Genomics (QGG)](https://qgg.au.dk/en)**. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at [Aarhus University](https://international.au.dk), a world-leading institution located in a vibrant city.
 
 ### Applicant's Profile and Eligibility
