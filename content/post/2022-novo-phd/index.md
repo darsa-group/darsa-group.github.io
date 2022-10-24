@@ -1,5 +1,5 @@
 ---
-title: PhD Position in "Machine learning and agricultural ecology: hierarchical deep learning for better automatic pest classification and biodiversity monitoring in agroecosystems"
+title: 'PhD Position in Machine learning and agricultural ecology: hierarchical deep learning for better automatic pest classification and biodiversity monitoring in agroecosystems'
 
 # Summary for listings and search engines
 summary: We are looking for a talented PhD student to work on this exciting project at Aarhus University.
