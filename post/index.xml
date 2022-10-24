@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | DARSA</title>
+    <link>https://darsa.info/post/</link>
+      <atom:link href="https://darsa.info/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://darsa.info/post/</link>
+    </image>
+    
+    <item>
+      <title>PhD Position in Machine learning and agricultural ecology: hierarchical deep learning for better automatic pest classification and biodiversity monitoring in agroecosystems</title>
+      <link>https://darsa.info/post/2022-novo-phd/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/post/2022-novo-phd/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-towards-hierarchical-classification&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://darsa.info/hierachical_classification.webp&#34; alt=&#34;Towards hierarchical classification&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Towards hierarchical classification
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
+&lt;p&gt;Please also see the &lt;a href=&#34;TODO&#34;&gt;official posting&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;This PhD project aims at developing novel algorithms and annotation tools for hierarchical classification, which has profound and immediate applications to both agriculture and ecology.&lt;/p&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;p&gt;####Context
+Recently, remarkable innovations in deep learning have begun to transform agriculture – arguably, the most impactful human activity on earth. If used appropriately, machine learning and AI have the potential to drive a digital green transition that could &lt;strong&gt;make agriculture more sustainable, resilient and productive&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;One increasingly important data-science task in agriculture is image classification, which is crucial for detecting, monitoring, and eventually mitigating the impact of weeds, pests and diseases. When applied to agricultural problems, image classification generally suffers from three important limitations: 1. &lt;strong&gt;low generalisability&lt;/strong&gt; – &lt;em&gt;i.e.&lt;/em&gt;, it translates poorly to new contexts –; 2. &lt;strong&gt;data-hunger&lt;/strong&gt; – &lt;em&gt;i.e.&lt;/em&gt;, large training datasets are required –; and 3. the &lt;strong&gt;lack of accessible implementations&lt;/strong&gt; for practitioners.&lt;/p&gt;
+&lt;p&gt;As an alternative to the conventional “flat” classification, we propose to &lt;strong&gt;take advantage of the underlying hierarchical taxonomies&lt;/strong&gt; of the predicted classes to constrain them in &lt;em&gt;a priori&lt;/em&gt; trees, a currently underexplored area. As a simplistic illustration, instead of considering oranges, apples and lemons as independent, we may formulate the explicit tree: &lt;code&gt;{{orange, lemon}, apples}&lt;/code&gt;, &lt;em&gt;i.e.&lt;/em&gt; grouping citrus fruits, and embed this representation in the structure of a neural network.&lt;/p&gt;
+&lt;p&gt;####Outcomes
+The successful applicant will use &lt;strong&gt;already available datasets&lt;/strong&gt; to explore hierarchical classifications and test our hypotheses: &lt;strong&gt;increased prediction generalisability&lt;/strong&gt; and &lt;strong&gt;network robustness as well as reducing the amount of data required&lt;/strong&gt;. This project aims to produce both &lt;strong&gt;seminal machine-learning concepts&lt;/strong&gt; and &lt;strong&gt;free and open-source tools for real-world problems&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;####Research Group
+The successful student will integrate the growing &lt;strong&gt;&lt;a href=&#34;https://darsa.info/&#34;&gt;Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group&lt;/a&gt;&lt;/strong&gt;, started in 2022, at the &lt;strong&gt;&lt;a href=&#34;https://qgg.au.dk/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Quantitative Genetics and Genomics (QGG)&lt;/a&gt;&lt;/strong&gt;. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at &lt;a href=&#34;https://international.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt;, a world-leading institution located in a vibrant city.&lt;/p&gt;
+&lt;h3 id=&#34;applicants-profile-and-eligibility&#34;&gt;Applicant&amp;rsquo;s Profile and Eligibility&lt;/h3&gt;
+&lt;p&gt;We believe that diversity makes us &lt;a href=&#34;https://www.pnas.org/doi/abs/10.1073/pnas.1700616114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better at tackling complex problems&lt;/a&gt;.
+Therefore, we strongly support applicants with a diverse background and are committed to promote inclusion and equity.&lt;/p&gt;
+&lt;p&gt;Overall, we expect the applicant to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hold a &lt;strong&gt;Master&amp;rsquo;s degree&lt;/strong&gt; in data science, mathematics, physics, computational biology or another quantitative field&lt;/li&gt;
+&lt;li&gt;Be at least familiar with &lt;strong&gt;deep learning&lt;/strong&gt;, &lt;strong&gt;image processing&lt;/strong&gt; and general &lt;strong&gt;database architecture&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Have &lt;strong&gt;strong programming skills&lt;/strong&gt; (in particular, experience working with scientific languages (&lt;em&gt;e.g.&lt;/em&gt; &lt;code&gt;R&lt;/code&gt;, &lt;code&gt;Python&lt;/code&gt;) and packages (&lt;em&gt;e.g.&lt;/em&gt; &lt;code&gt;Pytorch&lt;/code&gt;, &lt;code&gt;Tensorflow&lt;/code&gt;, &lt;code&gt;Scikit-learn&lt;/code&gt;, &lt;code&gt;Numpy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt; and &lt;code&gt;OpenCV&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Have an &lt;strong&gt;interest in digital and sustainable agriculture and ecology&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Be &lt;strong&gt;fluent in English&lt;/strong&gt; (written and spoken)&lt;/li&gt;
+&lt;li&gt;Demonstrate advanced &lt;strong&gt;collaborative&lt;/strong&gt; and &lt;strong&gt;interpersonal skills&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;supervision&#34;&gt;Supervision&lt;/h3&gt;
+&lt;p&gt;Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support help students take the project in their own direction, within the original scope, and encourage flexibility and new viewpoints as the project moves forward. The applicant should expect a weekly meeting with &lt;a href=&#34;auto-qgeissmann&#34;&gt;Quentin Geissmann&lt;/a&gt;, their direct supervisor. Students are encouraged to collaborate within and outside of the group and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor&amp;rsquo;s role to ensure students feel safe and included in their work environment.&lt;/p&gt;
+&lt;h3 id=&#34;location-and-facilities&#34;&gt;Location and Facilities&lt;/h3&gt;
+&lt;p&gt;The research takes place in the &lt;a href=&#34;https://qgg.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGG&lt;/a&gt; in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University (AU)&lt;/a&gt;.
+AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaboration on this particular project.
+For this project, we have access to various High-Performance Computing platform and workstations, including GPUs.
+In addition to these computational resources, we are building  &amp;ldquo;AI-lab&amp;rdquo; to prototype hardware (cameras, edge computing, &amp;hellip;) in-house, and have access to larger infrastructure through our collaborations with the engineering department.
+Aarhus itself is a vibrant city with an &lt;a href=&#34;https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;active cultural life&lt;/a&gt;, a &lt;a href=&#34;https://www.visitaarhus.com/groups/study-aarhus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic student community&lt;/a&gt; and a very high standard of living.&lt;/p&gt;
+&lt;h3 id=&#34;administrative-considerations&#34;&gt;Administrative Considerations&lt;/h3&gt;
+&lt;h4 id=&#34;timeline&#34;&gt;Timeline&lt;/h4&gt;
+&lt;p&gt;The expected start date is &lt;em&gt;July 1st, 2023&lt;/em&gt;, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).&lt;/p&gt;
+&lt;h4 id=&#34;salary-and-benefits&#34;&gt;Salary and Benefits&lt;/h4&gt;
+&lt;p&gt;TODO COPY FROM PHD ADD&lt;/p&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h3&gt;
+&lt;p&gt;In order to unsure a fair assessment of all applicants, we have an official procedure. Please refer to the &lt;a href=&#34;TODO&#34;&gt;formal offer on the university&amp;rsquo;s website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://darsa.info/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
