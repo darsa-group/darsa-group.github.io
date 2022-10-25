@@ -89,13 +89,13 @@ The expected start date is *July 1st, 2023*, but this is somewhat flexible (as i
 
 #### Stipend 
 
-The PhD salaries are set at the university level and defined in [this table](https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf) -- the exact numbers depend on previous post-graduate work experience, and the taxation system is somewhat obscure, but expect to have a net salary of approximately XXX DKK (XXX Euro) per month. Overall, Denmark is one of the countries where students are [paid the best](https://www.studyinternational.com/news/highest-phd-stipend/).
+The PhD salaries are set at the university level and defined in [this table](https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf) -- the exact numbers depend on previous post-graduate work experience, and the taxation system is somewhat complicated, but expect to have a net salary of approximately 18,000 DKK (≈2,400 Euro) per month. Overall, Denmark is one of the countries where students [earn the most](https://www.studyinternational.com/news/highest-phd-stipend/).
 
 ### How to Apply
-In order to unsure a fair assessment of all applicants, we have an official procedure. Please refer to the [formal offer on the university's website](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-machine-learning-and-agricultural-ecology-hierarchical-deep-learning-for-better-automatic-pest-classification-and-biodiversity-monitoring-in-agroecosystems)
+In order to unsure a fair assessment of all applicants, the graduate school implements an official procedure. Please refer to the [formal offer on the university's website](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-machine-learning-and-agricultural-ecology-hierarchical-deep-learning-for-better-automatic-pest-classification-and-biodiversity-monitoring-in-agroecosystems), which will direct you to an online form.
 
 ### Questions
 
-Do not hesitate to [contact us](mailto:qgeissmann@qgg.au.dk) if you have questions, or want to discuss your interest, ideas... If you do so, please *enclose a CV and briefly describe your motivation*.
+Meanwhile, do not hesitate to [contact us](mailto:qgeissmann@qgg.au.dk) if you have questions, or want to discuss your interest, ideas... If you do so, please *enclose a CV and a brief description of your your motivation*.
 
 
