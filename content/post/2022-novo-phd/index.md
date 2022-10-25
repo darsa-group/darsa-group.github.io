@@ -86,7 +86,7 @@ Aarhus itself is a vibrant city with an [active cultural life](https://www.thegu
 
 The application **deadline is December 20th 2022**.
 The expected start date is *July 1st, 2023*, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
-
+The total duration of the PhD is three years.
 #### Stipend 
 
 The PhD salaries are set at the university level and defined in [this table](https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf) -- the exact numbers depend on previous post-graduate work experience, and the taxation system is somewhat complicated, but expect to have a net salary of approximately 18,000 DKK (≈2,400 Euro) per month. Overall, Denmark is one of the countries where students [earn the most](https://www.studyinternational.com/news/highest-phd-stipend/).
