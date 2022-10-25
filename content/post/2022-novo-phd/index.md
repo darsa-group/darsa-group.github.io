@@ -45,7 +45,7 @@ Recently, remarkable innovations in deep learning have begun to transform agricu
 
 One increasingly important data-science task in agriculture is image classification, which is crucial for detecting, monitoring, and eventually mitigating the impact of weeds, pests and diseases. When applied to agricultural problems, image classification generally suffers from three important limitations: 1. **low generalisability** – *i.e.*, it translates poorly to new contexts –; 2. **data-hunger** – *i.e.*, large training datasets are required –; and 3. the **lack of accessible implementations** for practitioners.
 
-As an alternative to the conventional “flat” classification, we propose to **take advantage of the underlying hierarchical taxonomies** of the predicted classes to constrain them in *a priori* trees, a currently underexplored area. As a simplistic illustration, instead of considering oranges, apples and lemons as independent, we may formulate the explicit tree: `{{orange, lemon}, apples}`, *i.e.* grouping citrus fruits, and embed this representation in the structure of a neural network. 
+As an alternative to the conventional “flat” classification, we propose to **take advantage of the underlying hierarchical taxonomies** of the predicted classes to constrain them in *a priori* trees, a currently underexplored area. As a simplistic illustration, instead of considering oranges, apples and lemons as independent, we may formulate the explicit tree: `{{orange, lemon}, apple}`, *i.e.* grouping citrus fruits, and embed this representation in the structure of a neural network. 
 
 #### Outcomes
 The successful applicant will use **already available datasets** to explore hierarchical classifications and test our hypotheses: **increased prediction generalisability** and **network robustness as well as reducing the amount of data required**. This project aims to produce both **seminal machine-learning concepts** and **free and open-source tools for real-world problems**.
@@ -69,7 +69,7 @@ Overall, we expect the applicant to:
 
 ### Supervision
 
-Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students take the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with [Quentin Geissmann](auto-qgeissmann), their direct supervisor. Students are encouraged to collaborate within and outside of the group and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor's role to ensure students feel safe and included in their work environment.
+Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students take the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with [Quentin Geissmann](auto-qgeissmann), their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor's role to ensure students feel safe and included in their work environment.
 
 
 ### Location and Facilities
@@ -96,6 +96,6 @@ In order to ensure a fair assessment of all applicants, the graduate school impl
 
 ### Questions
 
-Meanwhile, do not hesitate to [contact us](mailto:qgeissmann@qgg.au.dk) if you have questions, or want to discuss your interest, ideas... If you do so, please *enclose a CV and a brief description of your motivation*.
+Meanwhile, do not hesitate to [contact us](mailto:qgeissmann@qgg.au.dk) if you have questions, or want to discuss your interest, ideas... Then, please *enclose a CV and a brief description of your motivation*.
 
 
