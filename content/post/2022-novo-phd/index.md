@@ -32,7 +32,7 @@ image:
 
 ## Open PhD Position
 
-Please also see the [official posting](TODO).
+Please also see the [official posting](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-machine-learning-and-agricultural-ecology-hierarchical-deep-learning-for-better-automatic-pest-classification-and-biodiversity-monitoring-in-agroecosystems).
 
 ### Project Summary
 
@@ -85,11 +85,19 @@ Aarhus itself is a vibrant city with an [active cultural life](https://www.thegu
 
 #### Timeline
 
+The application **deadline is December 20th 2022**.
 The expected start date is *July 1st, 2023*, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
 
-#### Salary and Benefits
+#### Stipend 
 
-TODO COPY FROM PHD ADD
+The PhD salaries are set at the university level and defined in [this table](https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf) -- the exact numbers depend on previous post-graduate work experience, it is somewhat difficult to understand the details, but expect to have a net salary greater than XXX DKK (XXX Euro). Denmark being one of the countries where students are [the best paid](https://www.studyinternational.com/news/highest-phd-stipend/).
+
 
 ### How to Apply
-In order to unsure a fair assessment of all applicants, we have an official procedure. Please refer to the [formal offer on the university's website](TODO)
+In order to unsure a fair assessment of all applicants, we have an official procedure. Please refer to the [formal offer on the university's website](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-machine-learning-and-agricultural-ecology-hierarchical-deep-learning-for-better-automatic-pest-classification-and-biodiversity-monitoring-in-agroecosystems)
+
+### Questions
+
+Do not hesitate to [contact us](mailto:qgeissmann@qgg.au.dk) if you have questions, interest, ideas... If you do so, please *enclose a CV and briefly describe your interest*.
+
+
