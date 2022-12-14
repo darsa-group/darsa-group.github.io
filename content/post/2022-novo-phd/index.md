@@ -69,7 +69,7 @@ Overall, we expect the applicant to:
 
 ### Supervision
 
-Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students take the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with [Quentin Geissmann](https://darsa.info/people/auto-qgeissmann), their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor's role to ensure students feel safe and included in their work environment.
+Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students take the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with [Quentin Geissmann](/people/auto-qgeissmann), their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor's role to ensure students feel safe and included in their work environment.
 
 
 ### Location and Facilities
