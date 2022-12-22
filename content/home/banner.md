@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "PhD opportunity in the DARSA Group"
-subtitle = "Hierarchical Deep Learning to Improve Automatic Classification of Pests and Biodiversity Monitoring in Agroecosystems"
+title = ""
+subtitle = ""
 
 
 [design]
@@ -41,7 +41,7 @@ subtitle = "Hierarchical Deep Learning to Improve Automatic Classification of Pe
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["40px", "0", "40px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -51,5 +51,4 @@ subtitle = "Hierarchical Deep Learning to Improve Automatic Classification of Pe
  css_class = ""
 +++
 
-We are looking for a candidate to start this exciting project in **summer 2023**. More information [here](post/2022-novo-phd).
 
