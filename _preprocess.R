@@ -58,8 +58,9 @@ make_links <- function(row){
   links
 }
 
-ROLE_WEIGHT <- length(ROLE_MAP):1
+ROLE_WEIGHT <- 1:length(ROLE_MAP)
 names(ROLE_WEIGHT) <- names(ROLE_MAP)
+print(ROLE_WEIGHT)
 
 DEFAULT_PICTURE_FILE<- "content/people/_default_pict.png"
 PEOPLE_TEMPLATE_FILE <- "content/people/_people.md.template"
