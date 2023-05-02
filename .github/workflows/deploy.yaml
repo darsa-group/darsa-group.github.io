@@ -49,8 +49,8 @@ jobs:
       - name: Build site
         run: rm -rf public/ && Rscript -e 'blogdown::build_site(build_rmd = TRUE)'
       - name: test publication
-        run: ls -lah 
-      - name: Deploy to gh-pages
+        run: pwd && ls -lah ./public  
+      - name: Deploy to main
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
