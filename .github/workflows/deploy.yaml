@@ -57,3 +57,4 @@ jobs:
           publish_dir: ./public
           publish_branch: main
           force_orphan: true
+          allow_empty_commit: true
