@@ -51,7 +51,7 @@ jobs:
       - name: test publication
         run: pwd && ls -lah ./public  
       - name: Deploy to main
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
