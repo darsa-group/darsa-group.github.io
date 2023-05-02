@@ -48,6 +48,8 @@ jobs:
         run: Rscript _preprocess.R
       - name: Build site
         run: rm -rf public/ && Rscript -e 'blogdown::build_site(build_rmd = TRUE)'
+      - name: test publication
+        run: ls -lah 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
