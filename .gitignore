@@ -238,7 +238,9 @@ TSWLatexianTemp*
 /_public
 blogdown
 .hugo_build.lock
+
 .secret*
+
 *_gen/*
 resources/
 static/rmarkdown-libs/
