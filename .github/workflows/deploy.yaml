@@ -18,7 +18,7 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install curl
         run: sudo apt-get update && sudo apt-get install libcurl4-openssl-dev
-      
+
       - name: Set RENV_PATHS_ROOT
         shell: bash
         run: |
@@ -40,16 +40,16 @@ jobs:
           path: ${{ env.RENV_PATHS_ROOT }}
           key: ${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{ inputs.cache-version }}-${{ hashFiles('renv.lock') }}
           restore-keys: ${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{inputs.cache-version }}-
-      - name: Install R package dependencies 
+      - name: Install R package dependencies
         run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr", "RefManageR", "kableExtra", "bibtex", "rjson", "data.table"))'
       - name: Install Hugo
         run: Rscript -e 'blogdown::install_hugo("0.101.0")'
       - name: Proprocess website data
-        run: Rscript _preprocess.R
+        run: Rscript _preprocess.R && ls -lah content/people
       - name: Build site
         run: rm -rf public/ && Rscript -e 'blogdown::build_site(build_rmd = TRUE)'
       - name: test publication
-        run: pwd && ls -lah ./public  
+        run: pwd && ls -lah ./public/people
       - name: Deploy to main
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
