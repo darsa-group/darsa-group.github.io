@@ -96,7 +96,7 @@ make_people <- function(id_){
 
   dir.create(d)
   row <- filter(df, id==id_)
-
+  print(row)
   themes <- select(row, starts_with("theme_"))
   themes <- unlist(as.vector(themes))
   themes <- names(themes[themes])
