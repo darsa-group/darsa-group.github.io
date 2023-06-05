@@ -51,4 +51,6 @@ subtitle = ""
  css_class = ""
 +++
 
+## 🪱🪱🪱 PhD oportunity on [Deep Learning and Custom Imaging for to Study Earthworms](post/2023-vermiscope-phd/)🪱🪱🪱
+### Deadline 31 September
 
