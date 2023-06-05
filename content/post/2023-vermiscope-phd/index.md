@@ -1,5 +1,5 @@
 ---
-title: 'PhD Position in Deep Learning for Biodiversity Monitoring: Custom Imaging Platform and Deep Learning to Identify and Phenotype Earthworms'
+title: 'PhD Position in Deep Learning for Biodiversity Monitoring: Custom Imaging Platform and Deep Learning to Classify and Phenotype Earthworms'
 
 # Summary for listings and search engines
 summary: We are looking for a talented PhD student to apply deep learning techniques to study earthworms at Aarhus University.
@@ -8,10 +8,10 @@ summary: We are looking for a talented PhD student to apply deep learning techni
 projects: []
 
 # Date published
-date: '2023-06-06T00:00:00Z'
+date: '2023-06-04T00:00:00Z'
 
 # Date updated
-lastmod: '2023-06-06T00:00:00Z'
+lastmod: '2023-06-04T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
