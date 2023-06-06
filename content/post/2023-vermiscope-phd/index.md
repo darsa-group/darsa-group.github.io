@@ -36,26 +36,24 @@ Please also see the [official posting](https://phd.tech.au.dk/for-applicants/app
 
 ### Project Summary
 
-This exciting PhD opportunity aims at developing **novel imaging methods and deep learning algorithms to describe and classify earthworms**. Although cryptic, earthworms have a considerable ecological importance, and this original approach will help understand and protect them. It is the first part of [a larger 5-year project](https://researchleaderprogramme.com/recipients/quentin-geissmann/) that uses novel technologies (imaging, acoustics, deep learning, remote sensing, etc) to monitor and understand earthworms better.
+This exciting PhD opportunity aims at developing **novel imaging methods and deep learning algorithms to describe and classify earthworms**. Although cryptic, earthworms have considerable ecological importance, and this original approach will help understand and protect them. It is the first part of [a larger 5-year project](https://researchleaderprogramme.com/recipients/quentin-geissmann/) that uses novel technologies (imaging, acoustics, deep learning, remote sensing, etc) to monitor and understand earthworms better.
 
 ### Project Description
 
 #### Context
 
-Our food system ultimately rests on soils, which we are losing at alarming rate. 
-To counteract this trend, we need to transition from an extractive to a restorative and **circular agriculture**. 
-This change of paradigm must come together with more research on the organisms, such as decomposers,
-that enact circularity – which have so far been severely understudied. 
-Amongst them, earthworms, with their unmatched ubiquity and biomass, are pivotal actors. 
-However, these cryptic animals live below ground, making their study **a methodological challenge**: they are very difficult to observe and monitor. 
-However, recent technological developments in remote sensing and deep learning, represent a unprecedented opportunity to shed new light on these cryptic actors of circularity.
+Our food system ultimately rests on soils, which we are losing at an alarming rate. To counteract this trend, we need to transition from an extractive to a restorative and **circular agriculture**. This change of paradigm must come together with more research on the organisms, such as decomposers, that enact circularity – which have so far been severely understudied. Amongst these earthworms, with their unmatched ubiquity and biomass, are pivotal actors. However, these animals live below ground, making their study **a methodological challenge**: they are very difficult to observe and monitor. However, recent technological developments in remote sensing and deep learning represent an unprecedented opportunity to shed new light on these cryptic actors of circularity.
 
 #### Outcomes
-The successful applicant will develop "the Vermiscope" a **novel open-source hardware** based on camera/CCD sensors to acquire standardized and complete high-resolution images of earthworms. 
-After "scanning" a collection of earthworms to generate groundtruth data, the candidate will implement a **new deep learning algorithm**, "Deep Worming", that represents animals in a "segment space" and classify them by modeling the "grammar of their segments". This project will produce both **conceptually novel** (hardware and software) methods and tools for ecologists, farmers and citizen scientists, which paves the way to using novel technology to understand these cryptic creatures.
+
+The successful applicant will develop “the Vermiscope,” a **novel open-source hardware** based on camera/CCD sensors to acquire standardized and complete high-resolution images of earthworms. After “scanning” a collection of earthworms to generate groundtruth data, the candidate will implement a **new deep learning algorithm**, “Deep Worming,” that represents animals in a “segment space” and classifies them by modeling the “grammar of their segments.” This project will produce both **conceptually novel** (hardware and software) methods and tools for ecologists, farmers and citizen scientists, which paves the way to using novel technology to understand these hidden creatures.
 
 #### Research Group
 The successful student will integrate the growing **[Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group](/)**, started in 2022, at the **[Center for Quantitative Genetics and Genomics (QGG)](https://qgg.au.dk/en)**. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at [Aarhus University](https://international.au.dk), a world-leading institution located in a vibrant city.
+
+
+The successful student will be integrated the growing **[Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group](/)**, started in 2022, at the **[Center for Quantitative Genetics and Genomics (QGG)](https://qgg.au.dk/en)**. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at [Aarhus University](https://international.au.dk), a world-leading institution located in a vibrant city.
+
 
 ### Applicant's Profile and Eligibility
 
@@ -73,8 +71,9 @@ Overall, we expect the applicant to:
 
 ### Supervision
 
-Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students take the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with [Quentin Geissmann](/people/auto-qgeissmann), their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor's role to ensure students feel safe and included in their work environment.
+Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students take the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with , their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor's role to ensure students feel safe and included in their work environment.
 
+Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students in taking the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with [Quentin Geissmann](/people/auto-qgeissmann), their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor’s role to ensure students feel safe and included in their work environment.
 
 ### Location and Facilities
 
