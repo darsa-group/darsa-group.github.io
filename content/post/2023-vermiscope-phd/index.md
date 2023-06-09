@@ -46,11 +46,8 @@ Our food system ultimately rests on soils, which we are losing at an alarming ra
 
 #### Outcomes
 
-The successful applicant will develop “the Vermiscope,” a **novel open-source hardware** based on camera/CCD sensors to acquire standardized and complete high-resolution images of earthworms. After “scanning” a collection of earthworms to generate groundtruth data, the candidate will implement a **new deep learning algorithm**, “Deep Worming,” that represents animals in a “segment space” and classifies them by modeling the “grammar of their segments.” This project will produce both **conceptually novel** (hardware and software) methods and tools for ecologists, farmers and citizen scientists, which paves the way to using novel technology to understand these hidden creatures.
 
 #### Research Group
-The successful student will integrate the growing **[Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group](/)**, started in 2022, at the **[Center for Quantitative Genetics and Genomics (QGG)](https://qgg.au.dk/en)**. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at [Aarhus University](https://international.au.dk), a world-leading institution located in a vibrant city.
-
 
 The successful student will be integrated the growing **[Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group](/)**, started in 2022, at the **[Center for Quantitative Genetics and Genomics (QGG)](https://qgg.au.dk/en)**. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at [Aarhus University](https://international.au.dk), a world-leading institution located in a vibrant city.
 
