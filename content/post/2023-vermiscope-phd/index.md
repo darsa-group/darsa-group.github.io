@@ -32,7 +32,7 @@ image:
 
 ## Open PhD Position
 
-Please also see the [official posting](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/TODO).
+Please also see the [official posting](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-deep-learning-for-biodiversity-monitoring-custom-imaging-platform-and-deep-learning-to-classify-and-phenotype-earthworms). **Deadline: 30 September 2023**.
 
 ### Project Summary
 

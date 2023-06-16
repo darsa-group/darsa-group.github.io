@@ -50,9 +50,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
-## 🪱🪱🪱 PhD oportunity on [Deep Learning and Custom Imaging for to Study Earthworms](post/2023-vermiscope-phd/)🪱🪱🪱
-### Deadline 31 September
 +++
+
+## 🪱🪱🪱 PhD oportunity on [Deep Learning and Custom Imaging for to Study Earthworms](post/2023-vermiscope-phd/)🪱🪱🪱
+### Deadline 30 September
 
 
 
