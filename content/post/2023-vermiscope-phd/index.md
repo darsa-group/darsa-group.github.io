@@ -46,6 +46,8 @@ Our food system ultimately rests on soils, which we are losing at an alarming ra
 
 #### Outcomes
 
+The successful applicant will create **design a new acquisition platform** to **create a large dataset** of standardized earthworm images. Based on these images, the PhD candidate will **develop novel deep learning** algorithms to model the "grammar of earthworm segments"  and automatically classify earthworm species. In addition, this algorithm will explain the anatomy and texture of earthworms to **reveal more cryptic traits** and eventually study the important variables that affect earthworm diversity, anatomy and development. The prototype imaging and classification tools created during this project may **transform the way we survey earthworms**, towards a large amount of consistent data, and altogether, greatly facilitate our understanding of these animals as well as our conservation efforts.
+
 
 #### Research Group
 
@@ -67,8 +69,6 @@ Overall, we expect the applicant to:
 * Demonstrate advanced **collaborative** and **interpersonal skills**
 
 ### Supervision
-
-Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students take the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with , their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor's role to ensure students feel safe and included in their work environment.
 
 Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students in taking the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with [Quentin Geissmann](/people/auto-qgeissmann), their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor’s role to ensure students feel safe and included in their work environment.
 
