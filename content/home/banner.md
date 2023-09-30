@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["40px", "0", "40px", "0"]
+  padding = ["60px", "0", "60px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -51,9 +51,6 @@ subtitle = ""
  css_class = ""
  
 +++
-
-## 🪱🪱🪱 PhD oportunity on [Deep Learning and Custom Imaging for to Study Earthworms](post/2023-vermiscope-phd/)🪱🪱🪱
-### Deadline 30 September
 
 
 
