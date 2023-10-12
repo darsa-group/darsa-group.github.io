@@ -15,7 +15,7 @@
   
   # Optional external URL for project (replaces project detail page).
   
-  external_link: "https://gilestrolab.github.io/ethoscope/"
+  external_link: "https://giorgiogilestro.notion.site/Ethoscope-User-Manual-a9739373ae9f4840aa45b277f2f0e3a7"
   # Does the project detail page use math formatting?
   math: false
   image:
