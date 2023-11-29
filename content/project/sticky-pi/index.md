@@ -10,7 +10,7 @@ summary: "An AI-powered smart insect trap for community chronoecology"
 
 # Tags: can be used for filtering projects.
 # Example: ``
-tags: ["deep_learning", "insects", "hardware", "software", "agroecology"]
+tags: ["deep_learning", "insects", "hardware", "software", "agroecology", "ongoing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://doc.sticky-pi.com"
