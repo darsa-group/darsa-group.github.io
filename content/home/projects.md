@@ -27,20 +27,22 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Insects
+      tag: insects
+    - name: Agroecology
+      tag: agroecology
+    - name: Microbio.
+      tag: microbiology
     - name: Deep Learning
       tag: deep_learning
     - name: Hardware
       tag: hardware
     - name: Software
       tag: software
-    - name: Insects
-      tag: insects
-    - name: Agroecology
-      tag: agroecology
-    - name: Microbiology
-      tag: microbiology
-      
-      
+    - name: Ongoing
+      tag: ongoing
+    - name: Former
+      tag: former
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -56,5 +58,3 @@ design:
   flip_alt_rows: false
 ---
 
-As of 2023, this section contains a subset of past completed projects. 
-We will update with ongoing work as new group members join.
