@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "🐝🦋🪲 2-year postdoc  position [AI and remote sensing for citizen-science pollinator monitoring](https://international.au.dk/about/profile/vacant-positions/job/two-2-year-postdoc-in-ai-and-remote-sensing-for-citizen-science-pollinator-monitoring) 🐝🦋🪲"
+subtitle = "Application deadline: January 15th"
 
 
 [design]
@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["60px", "0", "60px", "0"]
+  padding = ["40px", "0", "40px", "0"]
 
 [advanced]
  # Custom CSS. 
