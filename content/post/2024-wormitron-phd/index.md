@@ -55,14 +55,15 @@ The successful student will be integrated the growing **[Digital Approaches for 
 
 We believe that diversity makes us [better at tackling complex problems](https://www.pnas.org/doi/abs/10.1073/pnas.1700616114).
 Therefore, we strongly support applicants with a diverse background and are committed to promote inclusion and equity.
+Applicants must **have completed a Master’s degree** (before January 2025) in experimental science (e.g., ecology, biology, engineering, experimental physics, etc.)
 
-Overall, we expect the applicant to:
-* Hold a **Master's degree** in data science, mathematics, physics, engineering or another quantitative field
-* Be at least familiar with **hardware design**, **deep learning**, **image processing**
-* Have **strong software and/or hardware engineering skills** (in particular, experience working with scientific languages (*e.g.* `Python`) and packages (*e.g.* `Pytorch`, `Tensorflow`, `Scikit-learn`, `Numpy`, `Pandas` and `OpenCV`) 
-* Have a **strong interest in biodiversity** (in particular invertebrates)
-* Be **fluent in English** (written and spoken) 
-* Demonstrate advanced **collaborative** and **interpersonal skills**
+* Have experience in **planning and conducting laboratory experiments** (ideally, building custom setups).
+* Have at least **basic programming skills** (in particular, experience working with scientific languages (e.g. R and Python)
+* Be familiar with **image processing**, imaging techniques
+* Have a strong interest and motivation for **sustainability and agroecology**
+* Possess advanced **collaborative and interpersonal skills**
+* Be **fluent in English** (written and spoken)
+
 
 ### Supervision
 
@@ -80,8 +81,8 @@ Aarhus itself is a vibrant city with an [active cultural life](https://www.thegu
 
 #### Timeline
 
-The application **deadline is September 31th 2022**.
-The expected start date is *January 1st, 2024*, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
+The application **deadline is August 31th 2024**.
+The expected start date is *January 1st, 2025*, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
 The total duration of the PhD is three years.
 
 #### Stipend 
