@@ -88,7 +88,7 @@ The total duration of the PhD is three years.
 The PhD salaries are set at the university level and defined in [this table](https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf) -- the exact numbers depend on previous post-graduate work experience, and the taxation system is somewhat complicated, but expect to have a net salary of approximately 18,000 DKK (≈2,400 Euro) per month. Overall, Denmark is one of the countries where students [earn the most](https://www.studyinternational.com/news/highest-phd-stipend/).
 
 ### Application Process
-In order to ensure a fair assessment of all applicants, the graduate school implements an official procedure. Please refer to the [formal offer on the university's website](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-deep-learning-for-biodiversity-monitoring-custom-imaging-platform-and-deep-learning-to-classify-and-phenotype-earthworms), which will direct you to an online form.
+In order to ensure a fair assessment of all applicants, the graduate school implements an official procedure. Please refer to the [formal offer on the university's website](https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-agricultural-ecology-and-machine-learning-an-underground-video-tracking-system-to-characterise-novel-earthworm-plant-interactions), which will direct you to an online form.
 Candidates will be evaluated based on their CV, motivation statement, and reference letters. Shortlisted candidates will be invited for an interview (online or in person). The top candidate will be offered the position.
 
 ### Questions
