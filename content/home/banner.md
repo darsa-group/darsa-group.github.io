@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "🌱🖥🪱[PhD in Agricultural Ecology and Machine Learning Applied to Earthworm-Plant Interactions](./post/2024-wormitron-phd/)🌱🖥🪱"
-subtitle = "Application deadline: August 31st"
+title = "🌱🖥[PhD in Plant Phenomics: AI and Robotics for High-Throughput Environmental Response Mapping](./post/2024-dwarph-phd/)🌱🖥"
+subtitle = "Application deadline: November 15th 2024"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
