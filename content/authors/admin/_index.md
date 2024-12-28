@@ -35,9 +35,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/qgeissmann
+  - icon: butterfly
+    icon_pack: fas
+    link: https://bsky.app/profile/qgeissmann.bsky.social
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sgSsPvUAAAAJ

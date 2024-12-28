@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "🌱🖥[PhD in Plant Phenomics: AI and Robotics for High-Throughput Environmental Response Mapping](./post/2024-dwarph-phd/)🌱🖥"
-subtitle = "Application deadline: November 15th 2024"
+#title = "Although we do not have  always welcome interest to join our team."
+#subtitle = "Check the [opportunities](#opportunities) section"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -40,7 +40,7 @@ subtitle = "Application deadline: November 15th 2024"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["80px", "0", "80px", "0"]
 
 [advanced]
  # Custom CSS. 

@@ -6,6 +6,7 @@ library("rjson")
 
 
 ROLE_MAP <- c(
+  undergrad='Undergraduate',
   masters='Master Student',
   phd='PhD Student',
   postdoc='Postdoc',

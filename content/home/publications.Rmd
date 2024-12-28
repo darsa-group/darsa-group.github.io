@@ -14,7 +14,6 @@ content:
 design:
   columns: '2'
 ---
-Prior to 2022, publications are selected from [Quentin Geissmann's](/people/auto-qgeissmann) previous work.
 
 ```{r DT, echo=FALSE, warning=FALSE, message=FALSE}
 ZOTERO_GROUP <- "4777068"

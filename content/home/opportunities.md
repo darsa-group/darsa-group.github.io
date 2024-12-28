@@ -7,14 +7,14 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 120
 
-title: People
+title: Opportunities
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: people
+  page_type: opportunities
   sort_by: Params.weight
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,8 +27,6 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Principal Investigator
-      tag: pi
     - name: Postdoc
       tag: postdoc
     - name: PhD Student
@@ -37,9 +35,7 @@ content:
       tag: masters
     - name: Undergraduate
       tag: undergrad
-
-    
-
+      
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -49,8 +45,10 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+If you have project ideas and are motivated, we list below a number of options 
+to obtain funding and we would be happy discuss and possibly support you. [Send us a CV and describe your interest](#contact).
