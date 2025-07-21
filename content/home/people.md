@@ -25,8 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
-      tag: '*'
+    - name: Current
+      tag: 'current'
     - name: Principal Investigator
       tag: pi
     - name: Postdoc
@@ -37,6 +37,8 @@ content:
       tag: masters
     - name: Undergraduate
       tag: undergrad
+    - name: Alumni
+      tag: alumni
 
     
 
