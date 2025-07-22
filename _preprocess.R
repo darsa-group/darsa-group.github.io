@@ -97,19 +97,41 @@ make_people <- function(id_){
 
   dir.create(d)
   row <- filter(df, id==id_)
-  print(row)
+
   themes <- select(row, starts_with("theme_"))
   themes <- unlist(as.vector(themes))
   themes <- names(themes[themes])
   themes <- str_replace(themes,"theme_","")
 
   #tags <- c(row$role, themes)
-  tags <- c(row$role)
+  print(row)
+
+
   #todo add an alumni tag if end date is in the past
-  row$tags <- glue('[{paste(tags, collapse=", ")}]')
+  end_date <- as.POSIXct(row$end_date[[1]])
+  if(is.na(end_date)){
+    end_date <- as.POSIXct("2100-01-01")
+  }
+#
+#   tags <- ifelse(end_date < as.POSIXct(format(Sys.Date())), "alumni", row$role)
+#   row$tags <- glue('[{paste(tags, collapse=", ")}]')
+
+  tags <- c(row$role, themes)  # Start with role and themes
+  if(end_date < as.POSIXct(format(Sys.Date()))){
+    tags <- c(tags, "alumni")  # Append alumni tag if end date is past
+  } else {
+    tags <- c(tags, "current")  # Append current tag if still active
+  }
+
+  # row$tags <- glue('[{paste(paste0('"', tags, '"'), collapse=", ")}]')
+  row$tags <- glue('[{paste(paste0("\'", tags, "\'"), collapse=", ")}]')
+
   row$end_date_str <- ifelse(is.na(row$end_date), "present", as.character(row$end_date))
-  row$weight <- ROLE_WEIGHT[row$role]
+
+  row$weight <- ifelse("alumni" %in% tags, 0, ROLE_WEIGHT[row$role])
+
   row$role <- ROLE_MAP[row$role]
+
   row$social_links <- make_links(row)
 
   content <-glue_data(row,people_template)
