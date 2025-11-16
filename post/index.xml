@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | DARSA</title>
+    <link>https://darsa.info/post/</link>
+      <atom:link href="https://darsa.info/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://darsa.info/post/</link>
+    </image>
+    
+    <item>
+      <title>PhD in Plant Phenomics: AI and Robotics for High-Throughput Environmental Response Mapping</title>
+      <link>https://darsa.info/post/2024-dwarph-phd/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/post/2024-dwarph-phd/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-duckweed-automatic-robot-for-phenotyping&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://darsa.info/DWARPH.jpg&#34; alt=&#34;DuckWeed Automatic Robot for PHenotyping&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      DuckWeed Automatic Robot for PHenotyping
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
+&lt;p&gt;Please also see the &lt;a href=&#34;https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-plant-phenomics-ai-and-robotics-for-high-throughput-environmental-response-mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official posting&lt;/a&gt;. &lt;strong&gt;Deadline: 15 Nov 2024&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;We are seeking a highly motivated PhD student to work on an exciting multidisciplinary project funded by the Danish Council for Independent Research (Sapere Aude), aiming to develop cutting-edge tools to understand complex plant responses to environmental variables.&lt;/p&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;
+&lt;p&gt;Plants live in complex environments, responding to factors such as light, temperature, and nutrients, which affect their growth and survival. Each plant responds differently to these factors, and understanding these reactions is key to studying their ability to adapt and thrive in various conditions. This project aims to take a groundbreaking approach by not just studying plants in isolated environments, but by exploring how they grow across a multidimentional range of environmental conditions in real-time.&lt;/p&gt;
+&lt;h4 id=&#34;about-the-project&#34;&gt;About The Project&lt;/h4&gt;
+&lt;p&gt;The project focuses on characterising &amp;ldquo;response surfaces&amp;rdquo; in the small, fast-growing plant species Lemna gibba (duckweed), using high-throughput phenotyping and advanced AI tools. The core of the research involves:
+• Development and validation of &lt;strong&gt;DWARPH&lt;/strong&gt; (DuckWeed Automatic Robot for Phenomics), a scalable, miniature growth chamber with automated real-time phenotyping.
+• Application of &lt;strong&gt;deep learning&lt;/strong&gt; and &lt;strong&gt;optimisation theory&lt;/strong&gt; to iteratively explore how environmental factors influence plant growth.
+• Comparative analysis of genetic determinants of plant plasticity and ecological niche modelling across multiple L. gibba ecotypes.
+This research will explore exciting questions about plant adaptation, response surface modeling, and experimental metaphenomics, providing valuable insights into plant biology and the future of sustainable agriculture.&lt;/p&gt;
+&lt;h4 id=&#34;research-group&#34;&gt;Research Group&lt;/h4&gt;
+&lt;p&gt;You will join the dynamic &lt;strong&gt;&lt;a href=&#34;https://darsa.info/&#34;&gt;Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group&lt;/a&gt;&lt;/strong&gt;, at the &lt;strong&gt;&lt;a href=&#34;https://qgg.au.dk/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Quantitative Genetics and Genomics (QGG)&lt;/a&gt;&lt;/strong&gt;. The group and center foster a dynamic, inclusive and multidisciplinary environment. Your research will take place at &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt;, a prestigious institution located in a vibrant student-friendly city. This project will be conducted with local (the &lt;a href=&#34;https://bio.au.dk/en/about-biology/sections/aquatic-biology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aquatic Biology Section&lt;/a&gt;) and international (&lt;a href=&#34;https://cals.ncsu.edu/molecular-and-structural-biochemistry/people/ryan-sartor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Ryan Sartor&lt;/a&gt;) collaborators.&lt;/p&gt;
+&lt;h4 id=&#34;selection-process&#34;&gt;Selection Process&lt;/h4&gt;
+&lt;p&gt;Candidates will be evaluated based on their CV, motivation statement, and reference letters. Shortlisted candidates will be invited for an interview (online or in person). The top candidate will be offered the position.&lt;/p&gt;
+&lt;h4 id=&#34;why-apply&#34;&gt;Why Apply?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Be at the forefront of integrating technology and ecology&lt;/li&gt;
+&lt;li&gt;Lead original fundamental research on unknown aspects of plant biology&lt;/li&gt;
+&lt;li&gt;Work in a collaborative and supportive research environment&lt;/li&gt;
+&lt;li&gt;Gain experience with cutting-edge technologies applied to research&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applicants-profile-and-eligibility&#34;&gt;Applicant&amp;rsquo;s Profile and Eligibility&lt;/h3&gt;
+&lt;p&gt;The applicant should:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Have completed a &lt;strong&gt;Master&amp;rsquo;s degree&lt;/strong&gt; (before January 2025) in engineering or experimental science (e.g., ecology, biology, experimental physics, etc.)&lt;/li&gt;
+&lt;li&gt;Have experience in developing &lt;strong&gt;advanced custom hardware&lt;/strong&gt; (PCB, 3d printing, CNC, etc.)&lt;/li&gt;
+&lt;li&gt;Have advanced &lt;strong&gt;mathematical and programming skills&lt;/strong&gt; (in particular, experience working with scientific languages (e.g. R and Python)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Be familiar with image processing, imaging techniques&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Have a strong interest and &lt;strong&gt;motivation to study plant biology and ecology&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Possess advanced &lt;strong&gt;collaborative&lt;/strong&gt; and &lt;strong&gt;interpersonal skills&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Be fluent in English (written and spoken)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;supervision&#34;&gt;Supervision&lt;/h3&gt;
+&lt;p&gt;Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students in taking the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with &lt;a href=&#34;https://darsa.info/people/auto-qgeissmann&#34;&gt;Quentin Geissmann&lt;/a&gt;, their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor’s role to ensure students feel safe and included in their work environment.&lt;/p&gt;
+&lt;h3 id=&#34;location-and-facilities&#34;&gt;Location and Facilities&lt;/h3&gt;
+&lt;p&gt;The research takes place in the &lt;a href=&#34;https://qgg.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGG&lt;/a&gt; at &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University (AU)&lt;/a&gt;.
+AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaboration on this particular project.
+For this project, we have access to various High-Performance Computing platforms and workstations, including GPUs.
+In addition to these computational resources, we have  a workshop suitable to prototype hardware (cameras, edge computing, &amp;hellip;) in-house, and have access to larger infrastructure through our collaborations with the engineering department.
+Aarhus itself is a vibrant city with an &lt;a href=&#34;https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;active cultural life&lt;/a&gt;, a &lt;a href=&#34;https://www.visitaarhus.com/groups/study-aarhus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic student community&lt;/a&gt; and a very high standard of living.&lt;/p&gt;
+&lt;h3 id=&#34;administrative-considerations&#34;&gt;Administrative Considerations&lt;/h3&gt;
+&lt;h4 id=&#34;timeline&#34;&gt;Timeline&lt;/h4&gt;
+&lt;p&gt;The application &lt;strong&gt;deadline is Nov 15th 2024&lt;/strong&gt;.
+The expected start date is &lt;em&gt;January 1st, 2025&lt;/em&gt;, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
+The total duration of the PhD is three years.&lt;/p&gt;
+&lt;h4 id=&#34;stipend&#34;&gt;Stipend&lt;/h4&gt;
+&lt;p&gt;The PhD salaries are set at the university level and defined in &lt;a href=&#34;https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this table&lt;/a&gt; &amp;ndash; the exact numbers depend on previous post-graduate work experience, and the taxation system is somewhat complicated, but expect to have a net salary of approximately 18,000 DKK (≈2,400 Euro) per month. Overall, Denmark is one of the countries where students &lt;a href=&#34;https://www.studyinternational.com/news/highest-phd-stipend/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earn the most&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;application-process&#34;&gt;Application Process&lt;/h3&gt;
+&lt;p&gt;In order to ensure a fair assessment of all applicants, the graduate school implements an official procedure. Please refer to the &lt;a href=&#34;https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-plant-phenomics-ai-and-robotics-for-high-throughput-environmental-response-mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formal offer on the university&amp;rsquo;s website&lt;/a&gt;, which will direct you to an online form.
+Candidates will be evaluated based on their CV, motivation statement, and reference letters. Shortlisted candidates will be invited for an interview (online or in person). The top candidate will be offered the position.&lt;/p&gt;
+&lt;h3 id=&#34;questions&#34;&gt;Questions&lt;/h3&gt;
+&lt;p&gt;Meanwhile, do not hesitate to &lt;a href=&#34;mailto:qgeissmann@qgg.au.dk&#34;&gt;contact us&lt;/a&gt; if you have questions, or want to discuss your interest, ideas&amp;hellip; When doing so, please &lt;em&gt;enclose a CV and a brief description of your motivation&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD in Agricultural Ecology and Machine Learning: An Underground Video Tracking System to Characterise Novel Earthworm-Plant Interactions</title>
+      <link>https://darsa.info/post/2024-wormitron-phd/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/post/2024-wormitron-phd/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-custom-imaging-platform-and-deep-learning-to-identify-and-phenotype-earthworms&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://darsa.info/wormitron.jpg&#34; alt=&#34;Custom Imaging Platform and Deep Learning to Identify and Phenotype Earthworms&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Custom Imaging Platform and Deep Learning to Identify and Phenotype Earthworms
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
+&lt;p&gt;Please also see the &lt;a href=&#34;https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-agricultural-ecology-and-machine-learning-an-underground-video-tracking-system-to-characterise-novel-earthworm-plant-interactions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official posting&lt;/a&gt;. &lt;strong&gt;Deadline: 31 August 2024&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;Start an innovative PhD focused on developing high-throughput methods using &lt;strong&gt;cameras and computer vision to explore the hidden world of earthworm-plant interactions&lt;/strong&gt;. Earthworms play a crucial ecological role, and this pioneering approach aims to uncover their interactions with plant roots. This project is the first phase of a comprehensive &lt;a href=&#34;https://researchleaderprogramme.com/recipients/quentin-geissmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5-year initiative&lt;/a&gt; employing advanced technologies (imaging, acoustics, deep learning, remote sensing, etc.) to enhance our understanding of earthworms.&lt;/p&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;
+&lt;p&gt;Soil health is the foundation of our food systems, yet we are losing it at an alarming rate due to our land use. To combat this, we must shift from extractive to restorative, circular agriculture. This paradigm shift requires extensive research on decomposers, particularly earthworms. Earthworms are essential for soil health due to their ubiquity and biomass, but their subterranean lifestyle poses significant observational challenges. Recent advances in remote sensing and deep learning offer a unique opportunity to study these elusive organisms.&lt;/p&gt;
+&lt;h4 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h4&gt;
+&lt;p&gt;As a successful applicant, you will develop “The Wormitron,” an innovative, open-source hardware system featuring cameras and 2D-terrariums to image earthworms and plant roots continuously under semi-controlled conditions. You will test hypotheses on the nature, timing, and implications (both physiological and evolutionary) of earthworm-root interactions. This project promises direct applications for sustainable agriculture and a profound understanding of these hidden ecosystem engineers.&lt;/p&gt;
+&lt;h4 id=&#34;research-group&#34;&gt;Research Group&lt;/h4&gt;
+&lt;p&gt;The successful student will be integrated the growing &lt;strong&gt;&lt;a href=&#34;https://darsa.info/&#34;&gt;Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group&lt;/a&gt;&lt;/strong&gt;, started in 2022, at the &lt;strong&gt;&lt;a href=&#34;https://qgg.au.dk/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Quantitative Genetics and Genomics (QGG)&lt;/a&gt;&lt;/strong&gt;. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at &lt;a href=&#34;https://international.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt;, a world-leading institution located in a vibrant city.&lt;/p&gt;
+&lt;h3 id=&#34;applicants-profile-and-eligibility&#34;&gt;Applicant&amp;rsquo;s Profile and Eligibility&lt;/h3&gt;
+&lt;p&gt;We believe that diversity makes us &lt;a href=&#34;https://www.pnas.org/doi/abs/10.1073/pnas.1700616114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better at tackling complex problems&lt;/a&gt;.
+Therefore, we strongly support applicants with a diverse background and are committed to promote inclusion and equity.
+Applicants must &lt;strong&gt;have completed a Master’s degree&lt;/strong&gt; (before January 2025) in experimental science (e.g., ecology, biology, engineering, experimental physics, etc.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Have experience in &lt;strong&gt;planning and conducting laboratory experiments&lt;/strong&gt; (ideally, building custom setups).&lt;/li&gt;
+&lt;li&gt;Have at least &lt;strong&gt;basic programming skills&lt;/strong&gt; (in particular, experience working with scientific languages (e.g. R and Python)&lt;/li&gt;
+&lt;li&gt;Be familiar with &lt;strong&gt;image processing&lt;/strong&gt;, imaging techniques&lt;/li&gt;
+&lt;li&gt;Have a strong interest and motivation for &lt;strong&gt;sustainability and agroecology&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Possess advanced &lt;strong&gt;collaborative and interpersonal skills&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Be &lt;strong&gt;fluent in English&lt;/strong&gt; (written and spoken)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;supervision&#34;&gt;Supervision&lt;/h3&gt;
+&lt;p&gt;Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students in taking the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with &lt;a href=&#34;https://darsa.info/people/auto-qgeissmann&#34;&gt;Quentin Geissmann&lt;/a&gt;, their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor’s role to ensure students feel safe and included in their work environment.&lt;/p&gt;
+&lt;h3 id=&#34;location-and-facilities&#34;&gt;Location and Facilities&lt;/h3&gt;
+&lt;p&gt;The research takes place in the &lt;a href=&#34;https://qgg.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGG&lt;/a&gt; at &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University (AU)&lt;/a&gt;.
+AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaboration on this particular project.
+For this project, we have access to various High-Performance Computing platforms and workstations, including GPUs.
+In addition to these computational resources, we have  a workshop suitable to prototype hardware (cameras, edge computing, &amp;hellip;) in-house, and have access to larger infrastructure through our collaborations with the engineering department.
+Aarhus itself is a vibrant city with an &lt;a href=&#34;https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;active cultural life&lt;/a&gt;, a &lt;a href=&#34;https://www.visitaarhus.com/groups/study-aarhus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic student community&lt;/a&gt; and a very high standard of living.&lt;/p&gt;
+&lt;h3 id=&#34;administrative-considerations&#34;&gt;Administrative Considerations&lt;/h3&gt;
+&lt;h4 id=&#34;timeline&#34;&gt;Timeline&lt;/h4&gt;
+&lt;p&gt;The application &lt;strong&gt;deadline is August 31th 2024&lt;/strong&gt;.
+The expected start date is &lt;em&gt;January 1st, 2025&lt;/em&gt;, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
+The total duration of the PhD is three years.&lt;/p&gt;
+&lt;h4 id=&#34;stipend&#34;&gt;Stipend&lt;/h4&gt;
+&lt;p&gt;The PhD salaries are set at the university level and defined in &lt;a href=&#34;https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this table&lt;/a&gt; &amp;ndash; the exact numbers depend on previous post-graduate work experience, and the taxation system is somewhat complicated, but expect to have a net salary of approximately 18,000 DKK (≈2,400 Euro) per month. Overall, Denmark is one of the countries where students &lt;a href=&#34;https://www.studyinternational.com/news/highest-phd-stipend/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earn the most&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;application-process&#34;&gt;Application Process&lt;/h3&gt;
+&lt;p&gt;In order to ensure a fair assessment of all applicants, the graduate school implements an official procedure. Please refer to the &lt;a href=&#34;https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-agricultural-ecology-and-machine-learning-an-underground-video-tracking-system-to-characterise-novel-earthworm-plant-interactions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formal offer on the university&amp;rsquo;s website&lt;/a&gt;, which will direct you to an online form.
+Candidates will be evaluated based on their CV, motivation statement, and reference letters. Shortlisted candidates will be invited for an interview (online or in person). The top candidate will be offered the position.&lt;/p&gt;
+&lt;h3 id=&#34;questions&#34;&gt;Questions&lt;/h3&gt;
+&lt;p&gt;Meanwhile, do not hesitate to &lt;a href=&#34;mailto:qgeissmann@qgg.au.dk&#34;&gt;contact us&lt;/a&gt; if you have questions, or want to discuss your interest, ideas&amp;hellip; When doing so, please &lt;em&gt;enclose a CV and a brief description of your motivation&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Position in Deep Learning for Biodiversity Monitoring: Custom Imaging Platform and Deep Learning to Classify and Phenotype Earthworms</title>
+      <link>https://darsa.info/post/2023-vermiscope-phd/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/post/2023-vermiscope-phd/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-custom-imaging-platform-and-deep-learning-to-identify-and-phenotype-earthworms&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://darsa.info/deep_worming.webp&#34; alt=&#34;Custom Imaging Platform and Deep Learning to Identify and Phenotype Earthworms&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Custom Imaging Platform and Deep Learning to Identify and Phenotype Earthworms
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
+&lt;p&gt;Please also see the &lt;a href=&#34;https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-deep-learning-for-biodiversity-monitoring-custom-imaging-platform-and-deep-learning-to-classify-and-phenotype-earthworms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official posting&lt;/a&gt;. &lt;strong&gt;Deadline: 30 September 2023&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;This exciting PhD opportunity aims at developing &lt;strong&gt;novel imaging methods and deep learning algorithms to describe and classify earthworms&lt;/strong&gt;. Although cryptic, earthworms have considerable ecological importance, and this original approach will help understand and protect them. It is the first part of &lt;a href=&#34;https://researchleaderprogramme.com/recipients/quentin-geissmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a larger 5-year project&lt;/a&gt; that uses novel technologies (imaging, acoustics, deep learning, remote sensing, etc) to monitor and understand earthworms better.&lt;/p&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;
+&lt;p&gt;Our food system ultimately rests on soils, which we are losing at an alarming rate. To counteract this trend, we need to transition from an extractive to a restorative and &lt;strong&gt;circular agriculture&lt;/strong&gt;. This change of paradigm must come together with more research on the organisms, such as decomposers, that enact circularity – which have so far been severely understudied. Amongst these earthworms, with their unmatched ubiquity and biomass, are pivotal actors. However, these animals live below ground, making their study &lt;strong&gt;a methodological challenge&lt;/strong&gt;: they are very difficult to observe and monitor. However, recent technological developments in remote sensing and deep learning represent an unprecedented opportunity to shed new light on these cryptic actors of circularity.&lt;/p&gt;
+&lt;h4 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h4&gt;
+&lt;p&gt;The successful applicant will create &lt;strong&gt;design a new acquisition platform&lt;/strong&gt; to &lt;strong&gt;create a large dataset&lt;/strong&gt; of standardized earthworm images. Based on these images, the PhD candidate will &lt;strong&gt;develop novel deep learning&lt;/strong&gt; algorithms to model the &amp;ldquo;grammar of earthworm segments&amp;rdquo;  and automatically classify earthworm species. In addition, this algorithm will explain the anatomy and texture of earthworms to &lt;strong&gt;reveal more cryptic traits&lt;/strong&gt; and eventually study the important variables that affect earthworm diversity, anatomy and development. The prototype imaging and classification tools created during this project may &lt;strong&gt;transform the way we survey earthworms&lt;/strong&gt;, towards a large amount of consistent data, and altogether, greatly facilitate our understanding of these animals as well as our conservation efforts.&lt;/p&gt;
+&lt;h4 id=&#34;research-group&#34;&gt;Research Group&lt;/h4&gt;
+&lt;p&gt;The successful student will be integrated the growing &lt;strong&gt;&lt;a href=&#34;https://darsa.info/&#34;&gt;Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group&lt;/a&gt;&lt;/strong&gt;, started in 2022, at the &lt;strong&gt;&lt;a href=&#34;https://qgg.au.dk/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Quantitative Genetics and Genomics (QGG)&lt;/a&gt;&lt;/strong&gt;. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at &lt;a href=&#34;https://international.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt;, a world-leading institution located in a vibrant city.&lt;/p&gt;
+&lt;h3 id=&#34;applicants-profile-and-eligibility&#34;&gt;Applicant&amp;rsquo;s Profile and Eligibility&lt;/h3&gt;
+&lt;p&gt;We believe that diversity makes us &lt;a href=&#34;https://www.pnas.org/doi/abs/10.1073/pnas.1700616114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better at tackling complex problems&lt;/a&gt;.
+Therefore, we strongly support applicants with a diverse background and are committed to promote inclusion and equity.&lt;/p&gt;
+&lt;p&gt;Overall, we expect the applicant to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hold a &lt;strong&gt;Master&amp;rsquo;s degree&lt;/strong&gt; in data science, mathematics, physics, engineering or another quantitative field&lt;/li&gt;
+&lt;li&gt;Be at least familiar with &lt;strong&gt;hardware design&lt;/strong&gt;, &lt;strong&gt;deep learning&lt;/strong&gt;, &lt;strong&gt;image processing&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Have &lt;strong&gt;strong software and/or hardware engineering skills&lt;/strong&gt; (in particular, experience working with scientific languages (&lt;em&gt;e.g.&lt;/em&gt; &lt;code&gt;Python&lt;/code&gt;) and packages (&lt;em&gt;e.g.&lt;/em&gt; &lt;code&gt;Pytorch&lt;/code&gt;, &lt;code&gt;Tensorflow&lt;/code&gt;, &lt;code&gt;Scikit-learn&lt;/code&gt;, &lt;code&gt;Numpy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt; and &lt;code&gt;OpenCV&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Have a &lt;strong&gt;strong interest in biodiversity&lt;/strong&gt; (in particular invertebrates)&lt;/li&gt;
+&lt;li&gt;Be &lt;strong&gt;fluent in English&lt;/strong&gt; (written and spoken)&lt;/li&gt;
+&lt;li&gt;Demonstrate advanced &lt;strong&gt;collaborative&lt;/strong&gt; and &lt;strong&gt;interpersonal skills&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;supervision&#34;&gt;Supervision&lt;/h3&gt;
+&lt;p&gt;Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students in taking the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with &lt;a href=&#34;https://darsa.info/people/auto-qgeissmann&#34;&gt;Quentin Geissmann&lt;/a&gt;, their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor’s role to ensure students feel safe and included in their work environment.&lt;/p&gt;
+&lt;h3 id=&#34;location-and-facilities&#34;&gt;Location and Facilities&lt;/h3&gt;
+&lt;p&gt;The research takes place in the &lt;a href=&#34;https://qgg.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGG&lt;/a&gt; at &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University (AU)&lt;/a&gt;.
+AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaboration on this particular project.
+For this project, we have access to various High-Performance Computing platforms and workstations, including GPUs.
+In addition to these computational resources, we have  a workshop suitable to prototype hardware (cameras, edge computing, &amp;hellip;) in-house, and have access to larger infrastructure through our collaborations with the engineering department.
+Aarhus itself is a vibrant city with an &lt;a href=&#34;https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;active cultural life&lt;/a&gt;, a &lt;a href=&#34;https://www.visitaarhus.com/groups/study-aarhus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic student community&lt;/a&gt; and a very high standard of living.&lt;/p&gt;
+&lt;h3 id=&#34;administrative-considerations&#34;&gt;Administrative Considerations&lt;/h3&gt;
+&lt;h4 id=&#34;timeline&#34;&gt;Timeline&lt;/h4&gt;
+&lt;p&gt;The application &lt;strong&gt;deadline is September 31th 2022&lt;/strong&gt;.
+The expected start date is &lt;em&gt;January 1st, 2024&lt;/em&gt;, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
+The total duration of the PhD is three years.&lt;/p&gt;
+&lt;h4 id=&#34;stipend&#34;&gt;Stipend&lt;/h4&gt;
+&lt;p&gt;The PhD salaries are set at the university level and defined in &lt;a href=&#34;https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this table&lt;/a&gt; &amp;ndash; the exact numbers depend on previous post-graduate work experience, and the taxation system is somewhat complicated, but expect to have a net salary of approximately 18,000 DKK (≈2,400 Euro) per month. Overall, Denmark is one of the countries where students &lt;a href=&#34;https://www.studyinternational.com/news/highest-phd-stipend/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earn the most&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h3&gt;
+&lt;p&gt;In order to ensure a fair assessment of all applicants, the graduate school implements an official procedure. Please refer to the &lt;a href=&#34;https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-deep-learning-for-biodiversity-monitoring-custom-imaging-platform-and-deep-learning-to-classify-and-phenotype-earthworms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formal offer on the university&amp;rsquo;s website&lt;/a&gt;, which will direct you to an online form.&lt;/p&gt;
+&lt;h3 id=&#34;questions&#34;&gt;Questions&lt;/h3&gt;
+&lt;p&gt;Meanwhile, do not hesitate to &lt;a href=&#34;mailto:qgeissmann@qgg.au.dk&#34;&gt;contact us&lt;/a&gt; if you have questions, or want to discuss your interest, ideas&amp;hellip; When doing so, please &lt;em&gt;enclose a CV and a brief description of your motivation&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Position in Machine learning and agricultural ecology: hierarchical deep learning for better automatic pest classification and biodiversity monitoring in agroecosystems</title>
+      <link>https://darsa.info/post/2022-novo-phd/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/post/2022-novo-phd/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-towards-hierarchical-classification&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://darsa.info/hierachical_classification.webp&#34; alt=&#34;Towards hierarchical classification&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Towards hierarchical classification
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;open-phd-position&#34;&gt;Open PhD Position&lt;/h2&gt;
+&lt;p&gt;Please also see the &lt;a href=&#34;https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-machine-learning-and-agricultural-ecology-hierarchical-deep-learning-for-better-automatic-pest-classification-and-biodiversity-monitoring-in-agroecosystems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official posting&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;This PhD project aims at developing novel algorithms and annotation tools for hierarchical classification, which has profound and immediate applications to both agriculture and ecology.&lt;/p&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;
+&lt;p&gt;Recently, remarkable innovations in deep learning have begun to transform agriculture – arguably, the most impactful human activity on earth. If used appropriately, machine learning and AI have the potential to drive a digital green transition that could &lt;strong&gt;make agriculture more sustainable, resilient and productive&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;One increasingly important data-science task in agriculture is image classification, which is crucial for detecting, monitoring, and eventually mitigating the impact of weeds, pests and diseases. When applied to agricultural problems, image classification generally suffers from three important limitations: 1. &lt;strong&gt;low generalisability&lt;/strong&gt; – &lt;em&gt;i.e.&lt;/em&gt;, it translates poorly to new contexts –; 2. &lt;strong&gt;data-hunger&lt;/strong&gt; – &lt;em&gt;i.e.&lt;/em&gt;, large training datasets are required –; and 3. the &lt;strong&gt;lack of accessible implementations&lt;/strong&gt; for practitioners.&lt;/p&gt;
+&lt;p&gt;As an alternative to the conventional “flat” classification, we propose to &lt;strong&gt;take advantage of the underlying hierarchical taxonomies&lt;/strong&gt; of the predicted classes to constrain them in &lt;em&gt;a priori&lt;/em&gt; trees, a currently underexplored area. As a simplistic illustration, instead of considering oranges, apples and lemons as independent, we may formulate the explicit tree: &lt;code&gt;{{orange, lemon}, apple}&lt;/code&gt;, &lt;em&gt;i.e.&lt;/em&gt; grouping citrus fruits, and embed this representation in the structure of a neural network.&lt;/p&gt;
+&lt;h4 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h4&gt;
+&lt;p&gt;The successful applicant will use &lt;strong&gt;already available datasets&lt;/strong&gt; to explore hierarchical classifications and test our hypotheses: &lt;strong&gt;increased prediction generalisability&lt;/strong&gt; and &lt;strong&gt;network robustness as well as reducing the amount of data required&lt;/strong&gt;. This project aims to produce both &lt;strong&gt;seminal machine-learning concepts&lt;/strong&gt; and &lt;strong&gt;free and open-source tools for real-world problems&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;research-group&#34;&gt;Research Group&lt;/h4&gt;
+&lt;p&gt;The successful student will integrate the growing &lt;strong&gt;&lt;a href=&#34;https://darsa.info/&#34;&gt;Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group&lt;/a&gt;&lt;/strong&gt;, started in 2022, at the &lt;strong&gt;&lt;a href=&#34;https://qgg.au.dk/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Quantitative Genetics and Genomics (QGG)&lt;/a&gt;&lt;/strong&gt;. Both the group and the centre are inclusive and multidisciplinary environments with a range of local and international collaborations. The research takes place at &lt;a href=&#34;https://international.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt;, a world-leading institution located in a vibrant city.&lt;/p&gt;
+&lt;h3 id=&#34;applicants-profile-and-eligibility&#34;&gt;Applicant&amp;rsquo;s Profile and Eligibility&lt;/h3&gt;
+&lt;p&gt;We believe that diversity makes us &lt;a href=&#34;https://www.pnas.org/doi/abs/10.1073/pnas.1700616114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better at tackling complex problems&lt;/a&gt;.
+Therefore, we strongly support applicants with a diverse background and are committed to promote inclusion and equity.&lt;/p&gt;
+&lt;p&gt;Overall, we expect the applicant to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hold a &lt;strong&gt;Master&amp;rsquo;s degree&lt;/strong&gt; in data science, mathematics, physics, computational biology or another quantitative field&lt;/li&gt;
+&lt;li&gt;Be at least familiar with &lt;strong&gt;deep learning&lt;/strong&gt;, &lt;strong&gt;image processing&lt;/strong&gt; and general &lt;strong&gt;database architecture&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Have &lt;strong&gt;strong programming skills&lt;/strong&gt; (in particular, experience working with scientific languages (&lt;em&gt;e.g.&lt;/em&gt; &lt;code&gt;R&lt;/code&gt;, &lt;code&gt;Python&lt;/code&gt;) and packages (&lt;em&gt;e.g.&lt;/em&gt; &lt;code&gt;Pytorch&lt;/code&gt;, &lt;code&gt;Tensorflow&lt;/code&gt;, &lt;code&gt;Scikit-learn&lt;/code&gt;, &lt;code&gt;Numpy&lt;/code&gt;, &lt;code&gt;Pandas&lt;/code&gt; and &lt;code&gt;OpenCV&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Have an &lt;strong&gt;interest in digital and sustainable agriculture and ecology&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Be &lt;strong&gt;fluent in English&lt;/strong&gt; (written and spoken)&lt;/li&gt;
+&lt;li&gt;Demonstrate advanced &lt;strong&gt;collaborative&lt;/strong&gt; and &lt;strong&gt;interpersonal skills&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;supervision&#34;&gt;Supervision&lt;/h3&gt;
+&lt;p&gt;Our primary goal is for our students to succeed by helping them to develop and achieve their career goals. As such, we support and help students take the project in their own direction, within the original scope, and encourage flexibility as well as new viewpoints as the project moves forward. The successful applicant should expect a weekly meeting with &lt;a href=&#34;https://darsa.info/people/auto-qgeissmann&#34;&gt;Quentin Geissmann&lt;/a&gt;, their direct supervisor. Students are encouraged to collaborate within and outside of the group, and will be given (funded) opportunities to present their research at international conferences. We also consider it the supervisor&amp;rsquo;s role to ensure students feel safe and included in their work environment.&lt;/p&gt;
+&lt;h3 id=&#34;location-and-facilities&#34;&gt;Location and Facilities&lt;/h3&gt;
+&lt;p&gt;The research takes place in the &lt;a href=&#34;https://qgg.au.dk/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QGG&lt;/a&gt; at &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University (AU)&lt;/a&gt;.
+AU is a world-class university (the largest in Denmark), with outstanding opportunities for collaboration on this particular project.
+For this project, we have access to various High-Performance Computing platforms and workstations, including GPUs.
+In addition to these computational resources, we are building an &amp;ldquo;AI lab&amp;rdquo; to prototype hardware (cameras, edge computing, &amp;hellip;) in-house, and have access to larger infrastructure through our collaborations with the engineering department.
+Aarhus itself is a vibrant city with an &lt;a href=&#34;https://www.theguardian.com/travel/2016/apr/05/aarhus-denmark-city-of-culture-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;active cultural life&lt;/a&gt;, a &lt;a href=&#34;https://www.visitaarhus.com/groups/study-aarhus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dynamic student community&lt;/a&gt; and a very high standard of living.&lt;/p&gt;
+&lt;h3 id=&#34;administrative-considerations&#34;&gt;Administrative Considerations&lt;/h3&gt;
+&lt;h4 id=&#34;timeline&#34;&gt;Timeline&lt;/h4&gt;
+&lt;p&gt;The application &lt;strong&gt;deadline is December 20th 2022&lt;/strong&gt;.
+The expected start date is &lt;em&gt;July 1st, 2023&lt;/em&gt;, but this is somewhat flexible (as it may depend on personal situations, getting a visa, etc).
+The total duration of the PhD is three years.&lt;/p&gt;
+&lt;h4 id=&#34;stipend&#34;&gt;Stipend&lt;/h4&gt;
+&lt;p&gt;The PhD salaries are set at the university level and defined in &lt;a href=&#34;https://www.hr.aau.dk/digitalAssets/1001/1001827_akademisk_skala_01.04.2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this table&lt;/a&gt; &amp;ndash; the exact numbers depend on previous post-graduate work experience, and the taxation system is somewhat complicated, but expect to have a net salary of approximately 18,000 DKK (≈2,400 Euro) per month. Overall, Denmark is one of the countries where students &lt;a href=&#34;https://www.studyinternational.com/news/highest-phd-stipend/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earn the most&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h3&gt;
+&lt;p&gt;In order to ensure a fair assessment of all applicants, the graduate school implements an official procedure. Please refer to the &lt;a href=&#34;https://phd.tech.au.dk/for-applicants/apply-here/saeropslag/phd-in-machine-learning-and-agricultural-ecology-hierarchical-deep-learning-for-better-automatic-pest-classification-and-biodiversity-monitoring-in-agroecosystems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formal offer on the university&amp;rsquo;s website&lt;/a&gt;, which will direct you to an online form.&lt;/p&gt;
+&lt;h3 id=&#34;questions&#34;&gt;Questions&lt;/h3&gt;
+&lt;p&gt;Meanwhile, do not hesitate to &lt;a href=&#34;mailto:qgeissmann@qgg.au.dk&#34;&gt;contact us&lt;/a&gt; if you have questions, or want to discuss your interest, ideas&amp;hellip; Then, please &lt;em&gt;enclose a CV and a brief description of your motivation&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://darsa.info/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
