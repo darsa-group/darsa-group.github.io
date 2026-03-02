@@ -1,0 +1,5275 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.6.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="The DARSA Group" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The Digital Approaches for Resilient and Sustainable Agriculture Group at Aarhus University" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://darsa.info/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.0c6c544419342ce3817e728cf69643f6.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJN0ZSFGBB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-HJN0ZSFGBB', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
+  
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="DARSA" />
+  
+
+  
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://darsa.info/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@qgeissmann" />
+    <meta property="twitter:creator" content="@qgeissmann" />
+  
+  <meta property="og:site_name" content="DARSA" />
+  <meta property="og:url" content="https://darsa.info/" />
+  <meta property="og:title" content="DARSA" />
+  <meta property="og:description" content="The Digital Approaches for Resilient and Sustainable Agriculture Group at Aarhus University" /><meta property="og:image" content="https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00" />
+    
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://darsa.info?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://darsa.info"
+}
+</script>
+
+
+  
+
+  
+
+
+  <title>DARSA</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   "  >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.613040fe4f2c0f007b4dcb64404201cb.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">DARSA</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">DARSA</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#people" data-target="#people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications" data-target="#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#opportunities" data-target="#opportunities"><span>Opportunities</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#collaborators" data-target="#collaborators"><span>Collaborators</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+    
+    
+    
+      
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+  
+
+  
+    
+  
+
+  
+    
+    
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="banner" class="home-section wg-blank dark " style="padding: 80px 0 80px 0;" >
+   <div class="home-section-bg  bg-image" style="background-image: url(&#39;https://darsa.info/media/banner-bg_hu6540b052976d92b6cedfea3126ee95d4_293997_1920x1920_fit_q80_h2_lanczos.webp&#39;);background-size: cover;background-position: center;filter: brightness(0.7);">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="about" class="home-section wg-about  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle"
+           width="270" height="270"
+           src="/authors/admin/avatar_huc139f13a2e899516d213fa34371addcd_113755_270x270_fill_lanczos_center_3.png" alt="The DARSA Group">
+      
+
+      <div class="portrait-title">
+
+        <h2>The DARSA Group</h2>
+
+        <h3>Digital Approaches for Resilient and Sustainable Agriculture</h3>
+
+        
+        <h3>
+          <a href="https://international.au.dk/" target="_blank" rel="noopener">
+          <span>Aarhus University</span>
+          </a>
+        </h3>
+        
+        <h3>
+          <a href="https://qgg.au.dk" target="_blank" rel="noopener">
+          <span>Center for Quantitative Genetics and Genomics</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/#contact"  aria-label="envelope">
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://bsky.app/profile/qgeissmann.bsky.social" target="_blank" rel="noopener" aria-label="butterfly">
+            <i class="fas fa-butterfly big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://scholar.google.co.uk/citations?user=sgSsPvUAAAAJ" target="_blank" rel="noopener" aria-label="graduation-cap">
+            <i class="fas fa-graduation-cap big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/darsa-group" target="_blank" rel="noopener" aria-label="github">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>About us</h1>
+
+    <div class="article-style">
+      <p>The Digital Approaches for Resilient and Sustainable Agriculture (DARSA) group is part of the <a href="https://qgg.au.dk/en/" target="_blank" rel="noopener">Center for Quantitative Genetics and Genomics</a> (QGG), at
+<a href="https://international.au.dk/" target="_blank" rel="noopener">Aarhus University</a>.
+Within DARSA, we develop and apply <strong>remote-sensing tools</strong> and innovative <strong>open-source machine-learning methods</strong> to make agroecosystems more <strong>productive, sustainable and resilient</strong>.
+We collaborate with other members of the <a href="https://qgg.au.dk/en/" target="_blank" rel="noopener">QGG</a> as well as with other researchers in Aarhus and worldwide to target both the breeding and production sides of agriculture.
+Amid severe environmental crises, we aim to lead a new, digital and sustainable, green transition. The DARSA group recently started, and we are actively looking for collaborators and new members, so <strong>do not hesitate to <a href="#contact">contact us</a></strong>.</p>
+
+    </div>
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <div class="section-subheading">Interests</div>
+        <ul class="ul-interests mb-0">
+          
+          <li>🧠 Development of Deep-Learning Tools</li>
+          
+          <li>🐛 Automatic Monitoring of Agricultural Pests</li>
+          
+          <li>🌱 High-Throughput Plant Phenotyping</li>
+          
+          <li>🌳 Agroecology and Biodiversity</li>
+          
+        </ul>
+      </div>
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="people" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">People</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+
+    <span class="d-none default-project-filter">.js-id-current</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar ">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-current" class="btn btn-primary btn-lg active">Current</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-pi" class="btn btn-primary btn-lg">Principal Investigator</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-postdoc" class="btn btn-primary btn-lg">Postdoc</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-phd" class="btn btn-primary btn-lg">PhD Student</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-masters" class="btn btn-primary btn-lg">Master Student</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-undergrad" class="btn btn-primary btn-lg">Undergraduate</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-alumni" class="btn btn-primary btn-lg">Alumni</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container js-layout-masonry ">
+
+    
+    
+
+    
+    
+      
+      
+    
+    
+    
+    
+    
+      
+    
+
+    
+    
+    
+    
+    
+
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-pi js-id-plants js-id-soil js-id-insects js-id-deep_learning js-id-remote_sensing js-id-current">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-qgeissmann/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-qgeissmann/featured_huced4b6392e83bb25f9ee27085645a437_899623_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Quentin Geissmann" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-qgeissmann/" >Quentin Geissmann</a>
+  </div>
+
+  
+  <a href="/people/auto-qgeissmann/"  class="summary-link">
+    <div class="article-style">
+      <p>Principal Investigator</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://orcid.org/0000-0001-6546-4306" target="_blank" rel="noopener">
+    <i class="fab fa-orcid mr-1"></i>ORCID</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/qgeissmann" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.researchgate.net/profile/Quentin-Geissmann" target="_blank" rel="noopener">
+    <i class="fab fa-researchgate mr-1"></i>RG</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-postdoc js-id-soil js-id-deep_learning js-id-remote_sensing js-id-current">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 6, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-zhe/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-zhe/featured_hu998287f31ecb9dcf864a6cbd4e69e80f_277500_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Zixuan He" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-zhe/" >Zixuan He</a>
+  </div>
+
+  
+  <a href="/people/auto-zhe/"  class="summary-link">
+    <div class="article-style">
+      <p>Postdoc</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://orcid.org/0009-0005-4206-527X" target="_blank" rel="noopener">
+    <i class="fab fa-orcid mr-1"></i>ORCID</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/Zixuan-He" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.researchgate.net/profile/Zixuan-He-15" target="_blank" rel="noopener">
+    <i class="fab fa-researchgate mr-1"></i>RG</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-postdoc js-id-insects js-id-deep_learning js-id-remote_sensing js-id-current">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 1, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-hrussello/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-hrussello/featured_hu02b505a486b9d66289825b6d97b06edd_144056_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Helena Russello" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-hrussello/" >Helena Russello</a>
+  </div>
+
+  
+  <a href="/people/auto-hrussello/"  class="summary-link">
+    <div class="article-style">
+      <p>Postdoc</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://orcid.org/0000-0003-4429-906X" target="_blank" rel="noopener">
+    <i class="fab fa-orcid mr-1"></i>ORCID</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/hrussel" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-phd js-id-soil js-id-insects js-id-deep_learning js-id-current">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 2, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-devd/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-devd/featured_huee32c3c884c9a05e49de475e3b51c0b5_83542_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Dev Mehrotra" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-devd/" >Dev Mehrotra</a>
+  </div>
+
+  
+  <a href="/people/auto-devd/"  class="summary-link">
+    <div class="article-style">
+      <p>PhD Student</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://orcid.org/0000-0001-8974-4521" target="_blank" rel="noopener">
+    <i class="fab fa-orcid mr-1"></i>ORCID</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/dashingzombie" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.researchgate.net/profile/Dev-Mehrotra-2" target="_blank" rel="noopener">
+    <i class="fab fa-researchgate mr-1"></i>RG</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-phd js-id-plants js-id-deep_learning js-id-remote_sensing js-id-current">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 15, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-mdlauritsen/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-mdlauritsen/featured_hufeb1b23806ae02e4344aaad1f11ba585_115336_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Markus Dahl Lauritsen" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-mdlauritsen/" >Markus Dahl Lauritsen</a>
+  </div>
+
+  
+  <a href="/people/auto-mdlauritsen/"  class="summary-link">
+    <div class="article-style">
+      <p>PhD Student</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://orcid.org/0009-0009-0210-8190" target="_blank" rel="noopener">
+    <i class="fab fa-orcid mr-1"></i>ORCID</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/markus-lauritsen" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.researchgate.net/profile/Markus-Lauritsen-2" target="_blank" rel="noopener">
+    <i class="fab fa-researchgate mr-1"></i>RG</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-phd js-id-soil js-id-deep_learning js-id-remote_sensing js-id-current">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 1, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-mgomez/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-mgomez/featured_hubff80b8ce5a15d9f6f80a87b3e34b600_2099866_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Marta Vittrup" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-mgomez/" >Marta Vittrup</a>
+  </div>
+
+  
+  <a href="/people/auto-mgomez/"  class="summary-link">
+    <div class="article-style">
+      <p>PhD Student</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://orcid.org/0009-0005-9070-1680" target="_blank" rel="noopener">
+    <i class="fab fa-orcid mr-1"></i>ORCID</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/Magmg12" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-phd js-id-insects js-id-deep_learning js-id-current">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 1, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-mbaghooee/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-mbaghooee/featured_hub770a96aeedc6f7f1710547812a618c9_2718005_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Melika Baghooee" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-mbaghooee/" >Melika Baghooee</a>
+  </div>
+
+  
+  <a href="/people/auto-mbaghooee/"  class="summary-link">
+    <div class="article-style">
+      <p>PhD Student</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://orcid.org/0009-0009-9220-8303" target="_blank" rel="noopener">
+    <i class="fab fa-orcid mr-1"></i>ORCID</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/melbaghooee" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-masters js-id-insects js-id-deep_learning js-id-alumni">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-huangjing/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-huangjing/featured_hu0898a7d6732ee4d3f9f2fe8e589cef0a_373180_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Huangjing Qin" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-huangjing/" >Huangjing Qin</a>
+  </div>
+
+  
+  <a href="/people/auto-huangjing/"  class="summary-link">
+    <div class="article-style">
+      <p>Master Student</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/0-Qin" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-undergrad js-id-insects js-id-alumni">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 20, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-rthalheim/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-rthalheim/featured_huae3974e57db1e8f8c85110f66dcc7f57_289006_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Robert Thalheim" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-rthalheim/" >Robert Thalheim</a>
+  </div>
+
+  
+  <a href="/people/auto-rthalheim/"  class="summary-link">
+    <div class="article-style">
+      <p>Undergraduate</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-masters js-id-insects js-id-remote_sensing js-id-alumni">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/people/auto-dchevalier/" >
+    <div class="img-hover-zoom">
+      <img src="/people/auto-dchevalier/featured_hu3b1c261c52a0d3ade3a612e87b526951_2030377_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Daphne Chevalier" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/people/auto-dchevalier/" >Daphne Chevalier</a>
+  </div>
+
+  
+  <a href="/people/auto-dchevalier/"  class="summary-link">
+    <div class="article-style">
+      <p>Master Student</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://orcid.org/0000-0001-5558-0610" target="_blank" rel="noopener">
+    <i class="fab fa-orcid mr-1"></i>ORCID</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/chevalierid" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Github</a>
+
+
+  </div>
+  
+
+</div>
+
+      </div>
+    
+
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="projects" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Projects</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+
+    <span class="d-none default-project-filter">.js-id-ongoing</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar ">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-ongoing" class="btn btn-primary btn-lg active">Ongoing</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-insects" class="btn btn-primary btn-lg">Insects</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-agroecology" class="btn btn-primary btn-lg">Agroecology</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-microbiology" class="btn btn-primary btn-lg">Microbio.</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-deep_learning" class="btn btn-primary btn-lg">Deep Learning</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-hardware" class="btn btn-primary btn-lg">Hardware</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-software" class="btn btn-primary btn-lg">Software</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-former" class="btn btn-primary btn-lg">Former</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container js-layout-masonry ">
+
+    
+    
+
+    
+    
+      
+      
+    
+    
+    
+    
+    
+      
+    
+
+    
+    
+    
+    
+    
+
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-deep_learning js-id-insects js-id-software js-id-ongoing">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 15, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="https://asgersvenning.com/flat-bug/" target="_blank" rel="noopener">
+    <div class="img-hover-zoom">
+      <img src="/project/flatbug/featured_hu3c707838e2e818515b8b24a34719286e_368955_808x455_fill_q80_h2_lanczos_top.webp" height="455" width="808"
+           class="article-banner" alt="FlatBug" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="https://asgersvenning.com/flat-bug/" target="_blank" rel="noopener">FlatBug</a>
+  </div>
+
+  
+  <a href="https://asgersvenning.com/flat-bug/" target="_blank" rel="noopener" class="summary-link">
+    <div class="article-style">
+      <p>A General Method for Detection and Segmentation of Terrestrial Arthropods in Images</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-deep_learning js-id-insects js-id-hardware js-id-software js-id-agroecology js-id-ongoing">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 1, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/project/dwarph/" >
+    <div class="img-hover-zoom">
+      <img src="/project/dwarph/featured_hu717ac029158f3ddff0a38cefa864ea4f_390587_808x455_fill_q80_h2_lanczos_top.webp" height="455" width="808"
+           class="article-banner" alt="DWARPH" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/project/dwarph/" >DWARPH</a>
+  </div>
+
+  
+  <a href="/project/dwarph/"  class="summary-link">
+    <div class="article-style">
+      <p>AI-inspired paradigm to study plant response surfaces</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-software js-id-hardware js-id-agroecology js-id-deep-learning js-id-insects js-id-ongoing">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 29, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/project/antenna/" >
+    <div class="img-hover-zoom">
+      <img src="/project/antenna/featured_hu3684f644e479d7b2e0613d43e1b0c1d9_228162_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="ANTENNA" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/project/antenna/" >ANTENNA</a>
+  </div>
+
+  
+  <a href="/project/antenna/"  class="summary-link">
+    <div class="article-style">
+      <p>MAkiNg Technology work for moNitoring polliNAtors</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-software js-id-hardware js-id-agroecology js-id-deep-learning js-id-ongoing">
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 28, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/project/global-worming/" >
+    <div class="img-hover-zoom">
+      <img src="/project/global-worming/featured_hua78e28244d9b09cbd5c50786b46b107b_408065_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Global Worming" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/project/global-worming/" >Global Worming</a>
+  </div>
+
+  
+  <a href="/project/global-worming/"  class="summary-link">
+    <div class="article-style">
+      <p>Monitoring earthworms with AI and remote sensing</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-deep_learning js-id-insects js-id-hardware js-id-software js-id-agroecology js-id-ongoing">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Feb 15, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="https://doc.sticky-pi.com" target="_blank" rel="noopener">
+    <div class="img-hover-zoom">
+      <img src="/project/sticky-pi/featured_hu9bbda3718074ed2ce9c3e0ae47a7fc39_351418_808x455_fill_q80_h2_lanczos_top.webp" height="455" width="808"
+           class="article-banner" alt="Sticky Pi" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="https://doc.sticky-pi.com" target="_blank" rel="noopener">Sticky Pi</a>
+  </div>
+
+  
+  <a href="https://doc.sticky-pi.com" target="_blank" rel="noopener" class="summary-link">
+    <div class="article-style">
+      <p>An AI-powered smart insect trap for community chronoecology</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-software js-id-hardware js-id-insects js-id-former">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 11, 2015
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="https://giorgiogilestro.notion.site/Ethoscope-User-Manual-a9739373ae9f4840aa45b277f2f0e3a7" target="_blank" rel="noopener">
+    <div class="img-hover-zoom">
+      <img src="/project/ethoscope/featured_hu2a9d92825b2f0464c3bb24bf81fa8621_82673_808x455_fill_q80_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Ethoscope" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="https://giorgiogilestro.notion.site/Ethoscope-User-Manual-a9739373ae9f4840aa45b277f2f0e3a7" target="_blank" rel="noopener">Ethoscope</a>
+  </div>
+
+  
+  <a href="https://giorgiogilestro.notion.site/Ethoscope-User-Manual-a9739373ae9f4840aa45b277f2f0e3a7" target="_blank" rel="noopener" class="summary-link">
+    <div class="article-style">
+      <p>A platform to monitor behaviour of small animals in real-time</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+      
+        
+          <div class="project-card project-item isotope-item js-id-software js-id-microbiology js-id-former">
+        
+        
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 21, 2013
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="http://opencfu.sourceforge.net/" target="_blank" rel="noopener">
+    <div class="img-hover-zoom">
+      <img src="/project/opencfu/featured_hu4b7daa7989f902e34905cd43de3a7165_154547_808x455_fill_q80_h2_lanczos_top.webp" height="455" width="808"
+           class="article-banner" alt="OpenCFU" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="http://opencfu.sourceforge.net/" target="_blank" rel="noopener">OpenCFU</a>
+  </div>
+
+  
+  <a href="http://opencfu.sourceforge.net/" target="_blank" rel="noopener" class="summary-link">
+    <div class="article-style">
+      <p>An open-source software to count bacterial colonies</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      </div>
+    
+
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="opportunities" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Opportunities</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  <p>If you have project ideas and are motivated, we list below a number of options
+to obtain funding and we would be happy discuss and possibly support you. <a href="#contact">Send us a CV and describe your interest</a>.</p>
+
+
+  
+
+    
+
+    
+    
+    
+    
+      
+    
+
+    <span class="d-none default-project-filter">*</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar ">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+                
+              
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-postdoc" class="btn btn-primary btn-lg">Postdoc</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-phd" class="btn btn-primary btn-lg">PhD Student</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-masters" class="btn btn-primary btn-lg">Master Student</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-undergrad" class="btn btn-primary btn-lg">Undergraduate</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container row js-layout-row ">
+
+    
+    
+
+    
+    
+      
+      
+    
+    
+    
+    
+    
+      
+    
+
+    
+    
+    
+    
+    
+
+    
+      
+        
+          <div class="col-12 isotope-item js-id-postdoc">
+        
+        
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank" rel="noopener">HFSP postdoctoral fellowship program</a>
+    </div>
+
+    
+    <a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank" rel="noopener" class="summary-link">
+      <div class="article-style">
+        High-risk, interdisciplinary and international projects on fundamental biology.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 1, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-postdoc">
+        
+        
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener">Marie Skłodowska-Curie Actions postdoctoral fellowship</a>
+    </div>
+
+    
+    <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener" class="summary-link">
+      <div class="article-style">
+        High-risk, interdisciplinary and international scientific projects.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 1, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="publications" class="home-section wg-blank  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Publications</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12 col-lg-8">
+    
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
+
+
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Year
+</th>
+<th style="text-align:left;">
+Title
+</th>
+<th style="text-align:left;">
+Journal
+</th>
+<th style="text-align:left;">
+Authors
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+2026
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1016/j.ecoinf.2026.103664">Insect size matters: Using image and dimensions together improves image classification</a>
+</td>
+<td style="text-align:left;">
+Ecological Informatics
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Melika Baghooee and Quentin Geissmann">Melika Baghooee and Quentin Geissmann</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2025
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1016/j.atech.2025.100953">Prediction of Black Soldier Fly larval sex and Morphological traits using computer vision and deep learning</a>
+</td>
+<td style="text-align:left;">
+Smart Agricultural Technology
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="S. Nawoya, Q. Geissmann, H. Karstoft, K. Bjerge, A.l Roseline, A. Katumba, C. Mwikirize and G. Gebreyesus">Nawoya <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2025
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.ppat.1012894">Order among chaos: High throughput MYCroplanters can distinguish interacting drivers of host infection in a highly stochastic system</a>
+</td>
+<td style="text-align:left;">
+PLOS Pathogens
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="M. Y. Chen, L. M. Fulton, I. Huang, A. Liman, S. S. Hossain, C. Hamilton, S. Song, Q. Geissmann, K. C. King and C. H. Haney">Chen <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2025
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1111/2041-210x.70249">A general method for detection and segmentation of terrestrial arthropods in images</a>
+</td>
+<td style="text-align:left;">
+Methods in Ecology and Evolution
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Asger Svenning, Guillaume Mougeot, Jamie Alison, Daphne Chevalier, Nisa Chavez Molina, Song-Quan Ong, Kim Bjerge, Juli Carrillo, Toke Thomas Høye and Quentin Geissmann">Asger Svenning <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1093/beheco/arad098">Machine learning reveals singing rhythms of male Pacific field crickets are clock controlled</a>
+</td>
+<td style="text-align:left;">
+Behavioral Ecology
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="M. L. Westwood, Q. Geissmann, Aidan J O’Donnell, Jack Rayner, Will Schneider, Marlene Zuk, Nathan W Bailey and Sarah E Reece">Westwood <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1098/rstb.2023.0108">Towards a standardized framework for AI-assisted, image-based monitoring of nocturnal insects</a>
+</td>
+<td style="text-align:left;">
+Philosophical Transactions of the Royal Society B: Biological Sciences
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="D. B. Roy, J. Alison, T. A. August, M. Bélisle, K. Bjerge, J. J. Bowden, M. J. Bunsen, F. Cunha, Q. Geissmann, K. Goldmann, A. Gomez-Segura, A. Jain, C. Huijbers, M. Larrivée, J. L. Lawson, H. M. Mann, M. J. Mazerolle, K. P. McFarland, L. Pasi, S. Peters, N. Pinoy, D. Rolnick, G. L. Skinner, O. T. Strickson, A. Svenning, S. Teagle and T. T. Høye">Roy <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2024
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1016/j.compag.2023.108503">Computer vision and deep learning in insects for food and feed production: A review</a>
+</td>
+<td style="text-align:left;">
+Computers and Electronics in Agriculture
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="S. Nawoya, Frank Ssemakula, Roseline Akol, Quentin Geissmann, Henrik Karstoft, Kim Bjerge, Cosmas Mwikirize, Andrew Katumba and Grum Gebreyesus">Nawoya <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2023
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1016/j.ecoinf.2023.102278">Hierarchical classification of insects with multitask learning and anomaly detection</a>
+</td>
+<td style="text-align:left;">
+Ecological Informatics
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="K. Bjerge, Quentin Geissmann, Jamie Alison, Hjalte M. R. Mann, Toke T. Høye, Mads Dyrmann and Henrik Karstoft">Bjerge <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2022
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.pbio.3001689">Sticky Pi is a high-frequency smart trap that enables the study of insect circadian activity under natural conditions</a>
+</td>
+<td style="text-align:left;">
+PLOS Biology
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, Paul K. Abram, Di Wu, Cara H. Haney and Juli Carrillo">Geissmann <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2019
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1126/sciadv.aau9253">Most sleep does not serve a vital function: Evidence from Drosophila melanogaster</a>
+</td>
+<td style="text-align:left;">
+Science Advances
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, E. J. Beckwith and G. F. Gilestro">Geissmann <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2019
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.pone.0209331">Rethomics: An R framework to analyse high-throughput behavioural data</a>
+</td>
+<td style="text-align:left;">
+PLOS ONE
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, L. G. Rodriguez, E. J. Beckwith and G. F. Gilestro">Geissmann <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2017
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.pbio.2003026">Ethoscopes: An open platform for high-throughput ethomics</a>
+</td>
+<td style="text-align:left;">
+PLOS Biology
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann, L. G. Rodriguez, E. J. Beckwith, A. S. French, A. R. Jamasb and G. F. Gilestro">Geissmann <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2016
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1093/bioinformatics/btw229">MEANS: python package for Moment Expansion Approximation, iNference and Simulation</a>
+</td>
+<td style="text-align:left;">
+Bioinformatics
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="S. Fan, Quentin Geissmann, Eszter Lakatos, Saulius Lukauskas, Angelique Ale, Ann C. Babtie, Paul D. W. Kirk and Michael P. H. Stumpf">Fan <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2015
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1093/molbev/msu266">Dynamics of Copy Number Variation in Host Races of the Pea Aphid</a>
+</td>
+<td style="text-align:left;">
+Molecular Biology and Evolution
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="L. Duvaux, Quentin Geissmann, Karim Gharbi, Jing-Jiang Zhou, Julia Ferrari, Carole M. Smadja and Roger K. Butlin">Duvaux <em>et al.</em></span>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2013
+</td>
+<td style="text-align:left;">
+<a href="http://dx.doi.org/10.1371/journal.pone.0054072">OpenCFU, a New Free and Open-Source Software to Count Cell Colonies and Other Circular Objects</a>
+</td>
+<td style="text-align:left;">
+PLOS ONE
+</td>
+<td style="text-align:left;">
+<span style="     " data-toggle="tooltip" data-container="body" data-placement="right" title="Q. Geissmann">Geissmann</span>
+</td>
+</tr>
+</tbody>
+</table>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="collaborators" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Collaborators</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+  <div class=" row js-layout-row ">
+
+    
+    
+
+    
+    
+      
+      
+    
+    
+    
+    
+    
+      
+    
+
+    
+    
+    
+    
+    
+
+    
+      
+        
+          <div class="col-12 isotope-item ">
+        
+        
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="https://qgg.au.dk/en/" target="_blank" rel="noopener">QGG</a>
+    </div>
+
+    
+    <a href="https://qgg.au.dk/en/" target="_blank" rel="noopener" class="summary-link">
+      <div class="article-style">
+        The Center for Quantitative Genetics and Genomics at Aarhus University, Denmark.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 1, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="https://qgg.au.dk/en/" target="_blank" rel="noopener">
+      <img src="/collaborators/qgg/featured_hu0b2c85aaca2d81e9b9570cc6b622c35f_568181_150x0_resize_q80_h2_lanczos.webp" height="58" width="150"
+           alt="QGG" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item ">
+        
+        
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="https://insectai.eu/" target="_blank" rel="noopener">InsectAI</a>
+    </div>
+
+    
+    <a href="https://insectai.eu/" target="_blank" rel="noopener" class="summary-link">
+      <div class="article-style">
+        COST Action network on Image-based AI for Insect Monitoring &amp; Conservation
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="https://insectai.eu/" target="_blank" rel="noopener">
+      <img src="/collaborators/insectai/featured_hu7849b20ce9ad2599a2189d7278ab15e2_106508_150x0_resize_q80_h2_lanczos.webp" height="84" width="150"
+           alt="InsectAI" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item ">
+        
+        
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="https://sites.google.com/site/hoyelab/" target="_blank" rel="noopener">Høye Lab</a>
+    </div>
+
+    
+    <a href="https://sites.google.com/site/hoyelab/" target="_blank" rel="noopener" class="summary-link">
+      <div class="article-style">
+        The Høye Lab at Aarhus University, Denmark.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item ">
+        
+        
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="https://piee-lab.landfood.ubc.ca/" target="_blank" rel="noopener">PIEE Lab</a>
+    </div>
+
+    
+    <a href="https://piee-lab.landfood.ubc.ca/" target="_blank" rel="noopener" class="summary-link">
+      <div class="article-style">
+        The Plant-Insect Ecology and Evolution Lab at UBC, Canada.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="https://piee-lab.landfood.ubc.ca/" target="_blank" rel="noopener">
+      <img src="/collaborators/piee-lab/featured_huf3ba51d544fb077b91354da9444740d3_686410_150x0_resize_q80_h2_lanczos.webp" height="91" width="150"
+           alt="PIEE Lab" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+      </div>
+    
+
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="contact" class="home-section wg-contact  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Contact</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+  <ul class="fa-ul">
+
+    
+    <li>
+      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+      <span id="person-email"><a href="mailto:qgeissmann@qgg.au.dk">qgeissmann@qgg.au.dk</a></span>
+    </li>
+    
+
+    
+
+    
+    
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address">Room 210, building 1130, C. F. Møllers Allé 3, Aarhus, 8000</span>
+      </li>
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+  </ul>
+
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+
+
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2026 Quentin Geissmann. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.46271ef31da3f018e9cd1b59300aa265.js"></script>
+
+
+
+
+  
+    <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":false}</script>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.a6238d5886fa4a2f7cf92df25709326f.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+      <head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+</head>
+
+<script>
+
+
+
+
+$( document ).ready(function(){
+
+  var getFavicon = function(){
+    var favicon = undefined;
+    var nodeList = document.getElementsByTagName("link");
+    for (var i = 0; i < nodeList.length; i++)
+    {
+        if((nodeList[i].getAttribute("rel") == "icon")||(nodeList[i].getAttribute("rel") == "shortcut icon"))
+        {
+            favicon = nodeList[i].getAttribute("href");
+        }
+    }
+    return favicon;
+}
+  String.prototype.hash = function() {
+    var hash = 0,
+      i, chr;
+    if (this.length === 0) return hash;
+    for (i = 0; i < this.length; i++) {
+      chr = this.charCodeAt(i);
+      hash = ((hash << 5) - hash) + chr;
+      hash |= 0; 
+    }
+    return hash;
+  }
+
+
+    $.ajax({
+        url: 'manifest.webmanifest',
+        type: 'get',
+        dataType: 'json',
+        cache: false,
+        success: function(data) { if(data != null){
+          $( '<a href="/"><img class="brand-img" src="' + data["icons"][1]["src"] +'"></a>' ).insertBefore( ".navbar-brand");
+          
+        } },
+    });
+
+$("#about div.section-subheading").parent("div").removeClass("col-md-5").addClass("col-md-12")
+
+  var loc = [56.1667,10.2020]
+  $( '<div id="leaflet"></div>' ).insertAfter( ".fa-ul" );
+
+
+  if(document.getElementById("leaflet") !== null){
+    var map = new L.Map('leaflet', {
+        center: loc,
+        zoom: 14,
+        layers: [
+            new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                'attribution': 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+            })
+        ]
+    });
+     var marker = L.marker(loc);
+     marker.addTo(map);
+    setTimeout(function () {map.invalidateSize(true);}, 100);
+}
+
+
+
+
+
+
+
+
+
+
+
+  }
+
+)
+
+
+
+
+
+
+
+
+</script>
+
+      
+    
+  
+
+
+
+
+
+
+</body>
+</html>

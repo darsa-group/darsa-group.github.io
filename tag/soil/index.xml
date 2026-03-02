@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soil | DARSA</title>
+    <link>https://darsa.info/tag/soil/</link>
+      <atom:link href="https://darsa.info/tag/soil/index.xml" rel="self" type="application/rss+xml" />
+    <description>soil</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>soil</title>
+      <link>https://darsa.info/tag/soil/</link>
+    </image>
+    
+    <item>
+      <title>Dev Mehrotra</title>
+      <link>https://darsa.info/people/auto-devd/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-devd/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-06-02 to 2028-05-31&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dev Mehrotra&lt;/strong&gt; is currently pursuing a PhD at Aarhus University in machine learning, sensor development, and computational biology. He holds a Master’s in Computer Science from the University of Wisconsin–Madison. His research focuses on &lt;a href=&#34;https://darsa.info/project/global-worming/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;global worming&lt;/a&gt;., specifically developing methods to track earthworms underground to better understand soil health. Dev’s work bridges computer science, agriculture, and environmental science to create data-driven solutions for real-world challenges.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marta Vittrup</title>
+      <link>https://darsa.info/people/auto-mgomez/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-mgomez/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2023-12-01 to 2027-09-30&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Marta is a master / Ph.D. student with background in Data Science. Her project is to help to classify earthworms with the help of deep learning in order to restore the soil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zixuan He</title>
+      <link>https://darsa.info/people/auto-zhe/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-zhe/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-01-06 to 2027-01-05&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Zixuan is a Postdoc researcher in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt; group, at &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt;.
+His present research, &lt;a href=&#34;https://darsa.info/project/global-worming/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;global worming&lt;/a&gt;, is for unveiling the hidden but critical role of earthworms in agroecological systems through the innovative application of deep learning and remote sensing technologies..
+He finished his bachelor&amp;rsquo;s degree in automation from &lt;a href=&#34;https://english.scau.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;South Chian Agricultural University&lt;/a&gt; in June 2019 and Ph.D. degree in Biological and Agricultural Engineering from &lt;a href=&#34;https://agrobotics.cals.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agricultural Automation and Robotics Lab&lt;/a&gt; at &lt;a href=&#34;https://bsyse.wsu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Washington State University&lt;/a&gt; in May 2024. During his Ph.D., he was mainly responsible for one robotics strawberry harvesting project including hardware design and adaptive AI machine vision and participated in various projects such as soft manipulator and precision irrigation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quentin Geissmann</title>
+      <link>https://darsa.info/people/auto-qgeissmann/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-qgeissmann/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2022-09-01 to present&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Quentin, assistant professor in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt;, in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt; is the Principal Investigator of the DARSA group. His background is both in insect physiology and computational biology.&lt;/p&gt;
+&lt;p&gt;During his PhD at &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, in the &lt;a href=&#34;https://lab.gilest.ro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gilestro Lab&lt;/a&gt;, he built an open-source automatic insect behaviour monitoring platform.&lt;/p&gt;
+&lt;p&gt;In his Postdoc, at &lt;a href=&#34;https://www.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UBC&lt;/a&gt;, with the &lt;a href=&#34;https://haneylab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haney Lab&lt;/a&gt; and the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt;, he developed AI-powered smart traps to monitor insects and study their relationships with plants and microbes in agroecological contexts.&lt;/p&gt;
+&lt;p&gt;Quentin&amp;rsquo;s interests in machine learning and sustainable agriculture led him to start the DARSA Group in Aarhus in September 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

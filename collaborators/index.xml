@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaborators | DARSA</title>
+    <link>https://darsa.info/collaborators/</link>
+      <atom:link href="https://darsa.info/collaborators/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collaborators</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>Collaborators</title>
+      <link>https://darsa.info/collaborators/</link>
+    </image>
+    
+    <item>
+      <title>QGG</title>
+      <link>https://darsa.info/collaborators/qgg/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/collaborators/qgg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Høye Lab</title>
+      <link>https://darsa.info/collaborators/hoye-lab/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/collaborators/hoye-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InsectAI</title>
+      <link>https://darsa.info/collaborators/insectai/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/collaborators/insectai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIEE Lab</title>
+      <link>https://darsa.info/collaborators/piee-lab/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/collaborators/piee-lab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opportunities | DARSA</title>
+    <link>https://darsa.info/opportunities/</link>
+      <atom:link href="https://darsa.info/opportunities/index.xml" rel="self" type="application/rss+xml" />
+    <description>Opportunities</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>Opportunities</title>
+      <link>https://darsa.info/opportunities/</link>
+    </image>
+    
+    <item>
+      <title>HFSP postdoctoral fellowship program</title>
+      <link>https://darsa.info/opportunities/hfsp/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/opportunities/hfsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marie Skłodowska-Curie Actions postdoctoral fellowship</title>
+      <link>https://darsa.info/opportunities/msca/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/opportunities/msca/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

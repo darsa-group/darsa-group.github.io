@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>former | DARSA</title>
+    <link>https://darsa.info/tag/former/</link>
+      <atom:link href="https://darsa.info/tag/former/index.xml" rel="self" type="application/rss+xml" />
+    <description>former</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>former</title>
+      <link>https://darsa.info/tag/former/</link>
+    </image>
+    
+    <item>
+      <title>Ethoscope</title>
+      <link>https://darsa.info/project/ethoscope/</link>
+      <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/ethoscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCFU</title>
+      <link>https://darsa.info/project/opencfu/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/opencfu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
