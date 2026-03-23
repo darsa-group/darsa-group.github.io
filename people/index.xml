@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People | DARSA</title>
+    <link>https://darsa.info/people/</link>
+      <atom:link href="https://darsa.info/people/index.xml" rel="self" type="application/rss+xml" />
+    <description>People</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>People</title>
+      <link>https://darsa.info/people/</link>
+    </image>
+    
+    <item>
+      <title>Dev Mehrotra</title>
+      <link>https://darsa.info/people/auto-devd/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-devd/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-06-02 to 2028-05-31&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dev Mehrotra&lt;/strong&gt; is currently pursuing a PhD at Aarhus University in machine learning, sensor development, and computational biology. He holds a Master’s in Computer Science from the University of Wisconsin–Madison. His research focuses on &lt;a href=&#34;https://darsa.info/project/global-worming/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;global worming&lt;/a&gt;., specifically developing methods to track earthworms underground to better understand soil health. Dev’s work bridges computer science, agriculture, and environmental science to create data-driven solutions for real-world challenges.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markus Dahl Lauritsen</title>
+      <link>https://darsa.info/people/auto-mdlauritsen/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-mdlauritsen/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-01-15 to 2028-01-14&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Markus Lauritsen is a Ph.D. student in the DARSA group at Aarhus University, focusing on plant phenomics and AI-driven environmental response mapping. He earned his Bachelor of Science in Engineering (Robot Systems) in 2020 and his Master of Science in Engineering (Robot Systems) with a profile in Advanced Robotics Technology in 2022, both at the University of Southern Denmark.&lt;/p&gt;
+&lt;p&gt;Passionate about integrating AI—particularly computer vision—and his knowledge of mechanical design and electronics, Markus’s Ph.D. research centers on developing high-throughput phenotyping tools, including the Duckweed Automatic Robot for Phenomics (DWARPH), to study plant responses across complex environmental conditions.&lt;/p&gt;
+&lt;p&gt;A dedicated maker with a profound interest in nature and the outdoors, Markus combines technical innovation with ecological curiosity to bridge technology and biology, contributing to the future of sustainable agriculture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marta Vittrup</title>
+      <link>https://darsa.info/people/auto-mgomez/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-mgomez/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2023-12-01 to 2027-09-30&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Marta is a master / Ph.D. student with background in Data Science. Her project is to help to classify earthworms with the help of deep learning in order to restore the soil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Melika Baghooee</title>
+      <link>https://darsa.info/people/auto-mbaghooee/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-mbaghooee/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2023-06-01 to 2026-06-30&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Melika is a Ph.D. student at QGG (Aarhus University). She holds a background in Biosystems Engineering and is interested in developing tools to enhance agricultural systems and drive a digital green transition that could make agriculture more sustainable, resilient, and productive. Her Ph.D. project aims to develop novel algorithms and annotation tools for hierarchical classification, which have profound and immediate applications to agriculture and ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zixuan He</title>
+      <link>https://darsa.info/people/auto-zhe/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-zhe/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-01-06 to 2027-01-05&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Zixuan is a Postdoc researcher in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt; group, at &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt;.
+His present research, &lt;a href=&#34;https://darsa.info/project/global-worming/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;global worming&lt;/a&gt;, is for unveiling the hidden but critical role of earthworms in agroecological systems through the innovative application of deep learning and remote sensing technologies..
+He finished his bachelor&amp;rsquo;s degree in automation from &lt;a href=&#34;https://english.scau.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;South Chian Agricultural University&lt;/a&gt; in June 2019 and Ph.D. degree in Biological and Agricultural Engineering from &lt;a href=&#34;https://agrobotics.cals.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agricultural Automation and Robotics Lab&lt;/a&gt; at &lt;a href=&#34;https://bsyse.wsu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Washington State University&lt;/a&gt; in May 2024. During his Ph.D., he was mainly responsible for one robotics strawberry harvesting project including hardware design and adaptive AI machine vision and participated in various projects such as soft manipulator and precision irrigation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Helena Russello</title>
+      <link>https://darsa.info/people/auto-hrussello/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-hrussello/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2024-08-01 to 2026-07-31&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Helena is a Postdoc researcher in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt; group, at &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt;.
+Her background is in computer science and applied (deep) machine learning.&lt;/p&gt;
+&lt;p&gt;During her PhD in the &lt;a href=&#34;https://www.wur.nl/en/research-results/chair-groups/plant-sciences/agricultural-biosystems-engineering.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agricultural Biosystems Engineering&lt;/a&gt; group at the Wageningen University &amp;amp; Research, Helena developed computer-vision methods for automatic lameness detection in dairy cows.&lt;/p&gt;
+&lt;p&gt;Helena’s research interests lie in applications of computer vision and machine learning for conservation and wildlife monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quentin Geissmann</title>
+      <link>https://darsa.info/people/auto-qgeissmann/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-qgeissmann/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2022-09-01 to present&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Quentin, assistant professor in &lt;a href=&#34;https://qgg.au.dk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the QGG&lt;/a&gt;, in &lt;a href=&#34;https://international.au.dk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aarhus University&lt;/a&gt; is the Principal Investigator of the DARSA group. His background is both in insect physiology and computational biology.&lt;/p&gt;
+&lt;p&gt;During his PhD at &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, in the &lt;a href=&#34;https://lab.gilest.ro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gilestro Lab&lt;/a&gt;, he built an open-source automatic insect behaviour monitoring platform.&lt;/p&gt;
+&lt;p&gt;In his Postdoc, at &lt;a href=&#34;https://www.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UBC&lt;/a&gt;, with the &lt;a href=&#34;https://haneylab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haney Lab&lt;/a&gt; and the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt;, he developed AI-powered smart traps to monitor insects and study their relationships with plants and microbes in agroecological contexts.&lt;/p&gt;
+&lt;p&gt;Quentin&amp;rsquo;s interests in machine learning and sustainable agriculture led him to start the DARSA Group in Aarhus in September 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Huangjing Qin</title>
+      <link>https://darsa.info/people/auto-huangjing/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-huangjing/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-09-01 to 2026-01-31&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Huangjing is a Master’s student in Computer Engineering at Aarhus University. She is doing her thesis with DARSA, working on deep learning and computer vision applied to plants, animals, and agriculture and always open to learning more about nature.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Thalheim</title>
+      <link>https://darsa.info/people/auto-rthalheim/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-rthalheim/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-01-20 to 2025-07-15&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;NA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daphne Chevalier</title>
+      <link>https://darsa.info/people/auto-dchevalier/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-dchevalier/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2022-09-01 to 2025-01-01&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Daphne is a M.Sc. student in the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt; at the University of British Columbia in Vancouver, Canada. She is interested in applied approaches for fostering biodiversity. Her background is in engineering.&lt;/p&gt;
+&lt;p&gt;Daphne&amp;rsquo;s project examines the effects of artificial light at night on insects and bats, with a focus on circadian rhythm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
