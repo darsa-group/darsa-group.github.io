@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phd | DARSA</title>
+    <link>https://darsa.info/tag/phd/</link>
+      <atom:link href="https://darsa.info/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>phd</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>phd</title>
+      <link>https://darsa.info/tag/phd/</link>
+    </image>
+    
+    <item>
+      <title>Dev Mehrotra</title>
+      <link>https://darsa.info/people/auto-devd/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-devd/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-06-02 to 2028-05-31&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dev Mehrotra&lt;/strong&gt; is currently pursuing a PhD at Aarhus University in machine learning, sensor development, and computational biology. He holds a Master’s in Computer Science from the University of Wisconsin–Madison. His research focuses on &lt;a href=&#34;https://darsa.info/project/global-worming/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;global worming&lt;/a&gt;., specifically developing methods to track earthworms underground to better understand soil health. Dev’s work bridges computer science, agriculture, and environmental science to create data-driven solutions for real-world challenges.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markus Dahl Lauritsen</title>
+      <link>https://darsa.info/people/auto-mdlauritsen/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-mdlauritsen/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-01-15 to 2028-01-14&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Markus Lauritsen is a Ph.D. student in the DARSA group at Aarhus University, focusing on plant phenomics and AI-driven environmental response mapping. He earned his Bachelor of Science in Engineering (Robot Systems) in 2020 and his Master of Science in Engineering (Robot Systems) with a profile in Advanced Robotics Technology in 2022, both at the University of Southern Denmark.&lt;/p&gt;
+&lt;p&gt;Passionate about integrating AI—particularly computer vision—and his knowledge of mechanical design and electronics, Markus’s Ph.D. research centers on developing high-throughput phenotyping tools, including the Duckweed Automatic Robot for Phenomics (DWARPH), to study plant responses across complex environmental conditions.&lt;/p&gt;
+&lt;p&gt;A dedicated maker with a profound interest in nature and the outdoors, Markus combines technical innovation with ecological curiosity to bridge technology and biology, contributing to the future of sustainable agriculture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marta Vittrup</title>
+      <link>https://darsa.info/people/auto-mgomez/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-mgomez/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2023-12-01 to 2027-09-30&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Marta is a master / Ph.D. student with background in Data Science. Her project is to help to classify earthworms with the help of deep learning in order to restore the soil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Melika Baghooee</title>
+      <link>https://darsa.info/people/auto-mbaghooee/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-mbaghooee/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2023-06-01 to 2026-06-30&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Melika is a Ph.D. student at QGG (Aarhus University). She holds a background in Biosystems Engineering and is interested in developing tools to enhance agricultural systems and drive a digital green transition that could make agriculture more sustainable, resilient, and productive. Her Ph.D. project aims to develop novel algorithms and annotation tools for hierarchical classification, which have profound and immediate applications to agriculture and ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
