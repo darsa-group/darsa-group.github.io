@@ -40,8 +40,8 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ${{ env.RENV_PATHS_ROOT }}
-          key: ${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{ inputs.cache-version }}-${{ hashFiles('renv.lock') }}
-          restore-keys: ${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{inputs.cache-version }}-
+          key: v2-${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-${{ hashFiles('renv.lock') }}
+          restore-keys: v2-${{ steps.get-version.outputs.os-version }}-${{ steps.get-version.outputs.r-version }}-
       - name: Install R package dependencies
         run: Rscript -e 'install.packages(c("rmarkdown","blogdown", "googlesheets4", "glue", "dplyr", "RefManageR", "kableExtra", "bibtex", "rjson", "data.table"))'
       - name: Install Hugo
