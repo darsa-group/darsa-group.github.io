@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software | DARSA</title>
+    <link>https://darsa.info/tag/software/</link>
+      <atom:link href="https://darsa.info/tag/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>software</title>
+      <link>https://darsa.info/tag/software/</link>
+    </image>
+    
+    <item>
+      <title>FlatBug</title>
+      <link>https://darsa.info/project/flatbug/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/flatbug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DWARPH</title>
+      <link>https://darsa.info/project/dwarph/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/dwarph/</guid>
+      <description>&lt;p&gt;DWARPH is a 3-year &lt;a href=&#34;https://dff.dk/en/front-page?set_language=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DFF Sapere-Aude&lt;/a&gt; project on aiming at automating duckweed growth and observation to perform experiment on plant biology at high-throughput.&lt;/p&gt;
+&lt;p&gt;Plants live in multivariate environments (light, temperature, etc.), ultimately constraining their fitness. Although “phenomics” upscales the measurement of fitness (i.e., the “response”), most work only considers a few environmental values. “Metaphenomics”, instead, integrates whole response “surfaces” (RSs)—over a range of environments—, providing novel insight into plasticity, specialisation and resilience. However, conceptual and methodological limitations have so far hindered the study of RSs. Our three-part project presents a novel paradigm to tackle this issue. i) We use duckweed, a tiny, fast-growing plant and develop an automatic miniature growth chamber that scores growth and can update itself. ii) We create an AI-inspired methodology that plans experiments in real time. iii) We describe the RSs of a genetically diverse duckweed panel to discover the structure and basic biology of RSs. Altogether, our project sheds light on unexplored aspects of plant biology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANTENNA</title>
+      <link>https://darsa.info/project/antenna/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/antenna/</guid>
+      <description>&lt;p&gt;&amp;ldquo;ANTENNA&amp;rdquo; is a &lt;a href=&#34;https://www.biodiversa.eu/2022/10/07/2022-2023-joint-call/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;biodiversa+&lt;/a&gt; project conducted by a European consortium (with leading scientists from Germany, Netherlands (Naturalis), Spain, Denmark, Ireland and Greece).&lt;/p&gt;
+&lt;p&gt;Our overarching goal is to develop &lt;strong&gt;modern technologies, such as robotics, computer vision, and molecular methods&lt;/strong&gt; to complement traditional approaches, and ultimately help overcome key &lt;strong&gt;pollinator monitoring gaps&lt;/strong&gt;. The Role of DARSA in ANTENNA is to develop open-source, and readily usable camera-based and citizen-science methods to increase taxonomic and geographic coverage, speed, accuracy, content and efficiency of identification, and temporal resolution of pollinator monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Worming</title>
+      <link>https://darsa.info/project/global-worming/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/global-worming/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Global Worming&amp;rdquo; is five-year &lt;a href=&#34;https://researchleaderprogramme.com/recipients/quentin-geissmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NNF-funded project&lt;/a&gt; that aims to develop &lt;strong&gt;novel deep learning and remote sensing to reveal the uncharted biology of earthworms: cryptic, but pivotal, actors of agroecological circularity&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Our food system ultimately rests on soils to produce almost all calories and nutrients. However, agriculture, urban expansion and climate-change-induced desertification are leading to an almost irreversible, alarming and large-scale soil loss. As part of our green transition, farming must become less extractive, more restorative and circular. This change of paradigm must translate into much more research on the processes and organisms, such as decomposers, that enact circularity – which have hitherto been severely understudied. Amongst them, earthworms (EWs), with their unmatched ubiquity and biomass, are pivotal actors. However, these cryptic animals live below ground, making their study a methodological challenge. As a result, we know poorly the behaviour of EWs, their relationships with plants, and their importance in agriculture. With recent technological leaps, we have unprecedented opportunities to open the EW black box. &lt;strong&gt;This project aims to develop unique and novel tools to study EWs in agroecological contexts&lt;/strong&gt;. Using remote sensing and artificial intelligence, we address three difficult tasks that have, so far, hindered EW research: high-throughput species identification, automatic behavioural analysis, and real-time activity monitoring in the field. Throughout, we use these tools to understand how plants, in particular cover crops (a major soil protection tool), and EWs interact.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sticky Pi</title>
+      <link>https://darsa.info/project/sticky-pi/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/sticky-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethoscope</title>
+      <link>https://darsa.info/project/ethoscope/</link>
+      <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/ethoscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCFU</title>
+      <link>https://darsa.info/project/opencfu/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/project/opencfu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

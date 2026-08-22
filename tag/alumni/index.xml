@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alumni | DARSA</title>
+    <link>https://darsa.info/tag/alumni/</link>
+      <atom:link href="https://darsa.info/tag/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <description>alumni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://darsa.info/media/icon_hua8526f2966cb9e7d5f57c97e290bdf30_76380_512x512_fill_lanczos_center_3.png</url>
+      <title>alumni</title>
+      <link>https://darsa.info/tag/alumni/</link>
+    </image>
+    
+    <item>
+      <title>Huangjing Qin</title>
+      <link>https://darsa.info/people/auto-huangjing/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-huangjing/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-09-01 to 2026-01-31&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Huangjing is a Master’s student in Computer Engineering at Aarhus University. She is doing her thesis with DARSA, working on deep learning and computer vision applied to plants, animals, and agriculture and always open to learning more about nature.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Thalheim</title>
+      <link>https://darsa.info/people/auto-rthalheim/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-rthalheim/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2025-01-20 to 2025-07-15&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;NA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daphne Chevalier</title>
+      <link>https://darsa.info/people/auto-dchevalier/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://darsa.info/people/auto-dchevalier/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;people-dates&#34;&gt; From 2022-09-01 to 2025-01-01&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Daphne is a M.Sc. student in the &lt;a href=&#34;https://piee-lab.landfood.ubc.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIEE Lab&lt;/a&gt; at the University of British Columbia in Vancouver, Canada. She is interested in applied approaches for fostering biodiversity. Her background is in engineering.&lt;/p&gt;
+&lt;p&gt;Daphne&amp;rsquo;s project examines the effects of artificial light at night on insects and bats, with a focus on circadian rhythm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
